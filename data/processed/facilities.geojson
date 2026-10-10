@@ -1,0 +1,5541 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8466642,
+          18.5011157
+        ]
+      },
+      "properties": {
+        "id": "FAC-0001",
+        "name": "Dandekar Bridge",
+        "type": "bus_stop",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8217809,
+          18.5091844
+        ]
+      },
+      "properties": {
+        "id": "FAC-0002",
+        "name": "Jog Hospital",
+        "type": "bus_stop",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8220847,
+          18.4914276
+        ]
+      },
+      "properties": {
+        "id": "FAC-0003",
+        "name": "Kaivilas Bhai Burat Bus stop",
+        "type": "bus_stop",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8498176,
+          18.4923891
+        ]
+      },
+      "properties": {
+        "id": "FAC-0004",
+        "name": "Lakshmi Nagar",
+        "type": "bus_stop",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8201261,
+          18.5036332
+        ]
+      },
+      "properties": {
+        "id": "FAC-0005",
+        "name": "Maruti Mandir",
+        "type": "bus_stop",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8202879,
+          18.5036045
+        ]
+      },
+      "properties": {
+        "id": "FAC-0006",
+        "name": "Maruti Mandir",
+        "type": "bus_stop",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8319633,
+          18.5089079
+        ]
+      },
+      "properties": {
+        "id": "FAC-0007",
+        "name": "Nal Stop",
+        "type": "bus_stop",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8320531,
+          18.509133
+        ]
+      },
+      "properties": {
+        "id": "FAC-0008",
+        "name": "Nal Stop",
+        "type": "bus_stop",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8282438,
+          18.4955755
+        ]
+      },
+      "properties": {
+        "id": "FAC-0009",
+        "name": "Navsahyadri bus stop",
+        "type": "bus_stop",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8324717,
+          18.4976012
+        ]
+      },
+      "properties": {
+        "id": "FAC-0010",
+        "name": "Patwardhan Baug",
+        "type": "bus_stop",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8233481,
+          18.5073528
+        ]
+      },
+      "properties": {
+        "id": "FAC-0011",
+        "name": "Paud Phata",
+        "type": "bus_stop",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.82385,
+          18.5068943
+        ]
+      },
+      "properties": {
+        "id": "FAC-0012",
+        "name": "Paud Phata",
+        "type": "bus_stop",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8242118,
+          18.5055329
+        ]
+      },
+      "properties": {
+        "id": "FAC-0013",
+        "name": "Paud Phata",
+        "type": "bus_stop",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8243601,
+          18.5054496
+        ]
+      },
+      "properties": {
+        "id": "FAC-0014",
+        "name": "Paud Phata",
+        "type": "bus_stop",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8286246,
+          18.4874651
+        ]
+      },
+      "properties": {
+        "id": "FAC-0015",
+        "name": "Rajaram Bridge",
+        "type": "bus_stop",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8291206,
+          18.4875808
+        ]
+      },
+      "properties": {
+        "id": "FAC-0016",
+        "name": "Rajaram Bridge",
+        "type": "bus_stop",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8387012,
+          18.4986966
+        ]
+      },
+      "properties": {
+        "id": "FAC-0017",
+        "name": "Rakshalekha Society",
+        "type": "bus_stop",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.838861,
+          18.4987169
+        ]
+      },
+      "properties": {
+        "id": "FAC-0018",
+        "name": "Rakshalekha Society",
+        "type": "bus_stop",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.826352,
+          18.4820208
+        ]
+      },
+      "properties": {
+        "id": "FAC-0019",
+        "name": "Ranka",
+        "type": "bus_stop",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.849857,
+          18.4899588
+        ]
+      },
+      "properties": {
+        "id": "FAC-0020",
+        "name": "sarang society",
+        "type": "bus_stop",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8284528,
+          18.5071341
+        ]
+      },
+      "properties": {
+        "id": "FAC-0021",
+        "name": "SNDT",
+        "type": "bus_stop",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8285677,
+          18.5081769
+        ]
+      },
+      "properties": {
+        "id": "FAC-0022",
+        "name": "SNDT",
+        "type": "bus_stop",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8289274,
+          18.5074957
+        ]
+      },
+      "properties": {
+        "id": "FAC-0023",
+        "name": "SNDT",
+        "type": "bus_stop",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8289997,
+          18.5073892
+        ]
+      },
+      "properties": {
+        "id": "FAC-0024",
+        "name": "SNDT",
+        "type": "bus_stop",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8495471,
+          18.507812
+        ]
+      },
+      "properties": {
+        "id": "FAC-0025",
+        "name": "Swargare",
+        "type": "bus_stop",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8279864,
+          18.4850441
+        ]
+      },
+      "properties": {
+        "id": "FAC-0026",
+        "name": "Vitthalvadi",
+        "type": "bus_stop",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8331955,
+          18.4910236
+        ]
+      },
+      "properties": {
+        "id": "FAC-0027",
+        "name": "Vitthalwadi Jagat Naka",
+        "type": "bus_stop",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8341817,
+          18.5027884
+        ]
+      },
+      "properties": {
+        "id": "FAC-0028",
+        "name": null,
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8401987,
+          18.493414
+        ]
+      },
+      "properties": {
+        "id": "FAC-0029",
+        "name": null,
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8457414,
+          18.4892033
+        ]
+      },
+      "properties": {
+        "id": "FAC-0030",
+        "name": null,
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.829328,
+          18.5037236
+        ]
+      },
+      "properties": {
+        "id": "FAC-0031",
+        "name": "Ameya Clinic",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8306701,
+          18.4993672
+        ]
+      },
+      "properties": {
+        "id": "FAC-0032",
+        "name": "Apte Clinic",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8251156,
+          18.504769
+        ]
+      },
+      "properties": {
+        "id": "FAC-0033",
+        "name": "Apte Eye Clinic and Laser Center",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8211372,
+          18.492082
+        ]
+      },
+      "properties": {
+        "id": "FAC-0034",
+        "name": "Dental Clinic",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8222737,
+          18.4913117
+        ]
+      },
+      "properties": {
+        "id": "FAC-0035",
+        "name": "DENTAL FITNESS",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.840414,
+          18.502148
+        ]
+      },
+      "properties": {
+        "id": "FAC-0036",
+        "name": "Dhaumya Clinic",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8312717,
+          18.5092075
+        ]
+      },
+      "properties": {
+        "id": "FAC-0037",
+        "name": "Dixit Dental Clinic",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8479507,
+          18.5012069
+        ]
+      },
+      "properties": {
+        "id": "FAC-0038",
+        "name": "Dr Madhusudan Asawa | The Heart Clinic",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.829271,
+          18.5038101
+        ]
+      },
+      "properties": {
+        "id": "FAC-0039",
+        "name": "Dr. Devendra Vartak",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8339237,
+          18.5053924
+        ]
+      },
+      "properties": {
+        "id": "FAC-0040",
+        "name": "Dr. Nimisha's DentHeal Clinic",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8212927,
+          18.4929995
+        ]
+      },
+      "properties": {
+        "id": "FAC-0041",
+        "name": "Dr. Soman's Skin and Spine Clinic",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8221756,
+          18.508241
+        ]
+      },
+      "properties": {
+        "id": "FAC-0042",
+        "name": "DR. UPLENCHWAR'S WOMENS & EYE CARE CLINIC",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8403606,
+          18.4935752
+        ]
+      },
+      "properties": {
+        "id": "FAC-0043",
+        "name": "Dr.Jawalkar",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8204928,
+          18.5039346
+        ]
+      },
+      "properties": {
+        "id": "FAC-0044",
+        "name": "INTEGRITY DENTAL CARE",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8240199,
+          18.5052192
+        ]
+      },
+      "properties": {
+        "id": "FAC-0045",
+        "name": "Jeevan Sadhana Clinic - Pune",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8418888,
+          18.5008306
+        ]
+      },
+      "properties": {
+        "id": "FAC-0046",
+        "name": "Krushna Orthodontic & Dental Clinic",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.825311,
+          18.50551
+        ]
+      },
+      "properties": {
+        "id": "FAC-0047",
+        "name": "Mansanjeevani Clinic",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.838753,
+          18.50356
+        ]
+      },
+      "properties": {
+        "id": "FAC-0048",
+        "name": "Mansi Clinic",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8203453,
+          18.5047181
+        ]
+      },
+      "properties": {
+        "id": "FAC-0049",
+        "name": "Marathe Nursing Home",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8224069,
+          18.4910572
+        ]
+      },
+      "properties": {
+        "id": "FAC-0050",
+        "name": "N. Madhav Ayurvedic",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.828831,
+          18.502818
+        ]
+      },
+      "properties": {
+        "id": "FAC-0051",
+        "name": "Nadkarni Clinic",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8251773,
+          18.5010261
+        ]
+      },
+      "properties": {
+        "id": "FAC-0052",
+        "name": "Nayan Tara Eye Clinic",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8336489,
+          18.4917951
+        ]
+      },
+      "properties": {
+        "id": "FAC-0053",
+        "name": "Nimbalkar - jarhad Eye Hospital",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8288573,
+          18.5069161
+        ]
+      },
+      "properties": {
+        "id": "FAC-0054",
+        "name": "Perfection Hair Transplant Clinic",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8240796,
+          18.4906992
+        ]
+      },
+      "properties": {
+        "id": "FAC-0055",
+        "name": "Phadke's Vitality Dental Clinic",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8495742,
+          18.4859887
+        ]
+      },
+      "properties": {
+        "id": "FAC-0056",
+        "name": "Physiotherapy Center Pune",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8202762,
+          18.5009346
+        ]
+      },
+      "properties": {
+        "id": "FAC-0057",
+        "name": "Prabhudesai Eye Clinic",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.843714,
+          18.508126
+        ]
+      },
+      "properties": {
+        "id": "FAC-0058",
+        "name": "Sammohini Clinic",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8428903,
+          18.5047686
+        ]
+      },
+      "properties": {
+        "id": "FAC-0059",
+        "name": "Shree Datta Clinic",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8318954,
+          18.5048298
+        ]
+      },
+      "properties": {
+        "id": "FAC-0060",
+        "name": "SHUBHANAND CLINIC",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8303229,
+          18.5090997
+        ]
+      },
+      "properties": {
+        "id": "FAC-0061",
+        "name": "SMILE GALLERY DENTAL CARE CENTRE",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8212265,
+          18.5094542
+        ]
+      },
+      "properties": {
+        "id": "FAC-0062",
+        "name": "Sushrut Hospital",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8394771,
+          18.5050856
+        ]
+      },
+      "properties": {
+        "id": "FAC-0063",
+        "name": "TEETHZ TANTRAS™",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8487739,
+          18.501414
+        ]
+      },
+      "properties": {
+        "id": "FAC-0064",
+        "name": "Unmesh Orthopedic Clinic",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8248393,
+          18.4904025
+        ]
+      },
+      "properties": {
+        "id": "FAC-0065",
+        "name": "Vishvand Ayurvedic Clinic",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8331726,
+          18.5069635
+        ]
+      },
+      "properties": {
+        "id": "FAC-0066",
+        "name": "Yashwant Vishnu Tharkude Davakhana",
+        "type": "clinic",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8253764,
+          18.4939287
+        ]
+      },
+      "properties": {
+        "id": "FAC-0067",
+        "name": null,
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8253818,
+          18.4936086
+        ]
+      },
+      "properties": {
+        "id": "FAC-0068",
+        "name": null,
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8254046,
+          18.4939224
+        ]
+      },
+      "properties": {
+        "id": "FAC-0069",
+        "name": null,
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8254562,
+          18.4929659
+        ]
+      },
+      "properties": {
+        "id": "FAC-0070",
+        "name": null,
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8309516,
+          18.5040553
+        ]
+      },
+      "properties": {
+        "id": "FAC-0071",
+        "name": null,
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8315417,
+          18.5023212
+        ]
+      },
+      "properties": {
+        "id": "FAC-0072",
+        "name": null,
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8218724,
+          18.4912458
+        ]
+      },
+      "properties": {
+        "id": "FAC-0073",
+        "name": "3M Car Care",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.825656,
+          18.4936877
+        ]
+      },
+      "properties": {
+        "id": "FAC-0074",
+        "name": "Aai Shoes",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8480271,
+          18.5093772
+        ]
+      },
+      "properties": {
+        "id": "FAC-0075",
+        "name": "Agraj",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8254352,
+          18.4940596
+        ]
+      },
+      "properties": {
+        "id": "FAC-0076",
+        "name": "Agraj Food Processors",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8445106,
+          18.507177
+        ]
+      },
+      "properties": {
+        "id": "FAC-0077",
+        "name": "Ajantha",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8402924,
+          18.4934892
+        ]
+      },
+      "properties": {
+        "id": "FAC-0078",
+        "name": "Akshay General Store",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8220149,
+          18.4911923
+        ]
+      },
+      "properties": {
+        "id": "FAC-0079",
+        "name": "Akshay Hardware and Electricals",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8225956,
+          18.4909907
+        ]
+      },
+      "properties": {
+        "id": "FAC-0080",
+        "name": "amante",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8225956,
+          18.5000634
+        ]
+      },
+      "properties": {
+        "id": "FAC-0081",
+        "name": "Ambika Ladies Tailors",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8228578,
+          18.4907217
+        ]
+      },
+      "properties": {
+        "id": "FAC-0082",
+        "name": "Apex Mobile Gallery",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8256687,
+          18.4938015
+        ]
+      },
+      "properties": {
+        "id": "FAC-0083",
+        "name": "Apte Dairy",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8253167,
+          18.4935179
+        ]
+      },
+      "properties": {
+        "id": "FAC-0084",
+        "name": "Arham Medical",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8222034,
+          18.491131
+        ]
+      },
+      "properties": {
+        "id": "FAC-0085",
+        "name": "Arohi's Collection",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8252265,
+          18.4936728
+        ]
+      },
+      "properties": {
+        "id": "FAC-0086",
+        "name": "Aryan Photo's",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8253415,
+          18.4925523
+        ]
+      },
+      "properties": {
+        "id": "FAC-0087",
+        "name": "Aswad",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8395618,
+          18.4972413
+        ]
+      },
+      "properties": {
+        "id": "FAC-0088",
+        "name": "Baba computers",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8351595,
+          18.4935224
+        ]
+      },
+      "properties": {
+        "id": "FAC-0089",
+        "name": "Bajaj Chetak",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.82548,
+          18.4941678
+        ]
+      },
+      "properties": {
+        "id": "FAC-0090",
+        "name": "Baker's Basket",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8433013,
+          18.5098462
+        ]
+      },
+      "properties": {
+        "id": "FAC-0091",
+        "name": "Bakery",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8254461,
+          18.4929183
+        ]
+      },
+      "properties": {
+        "id": "FAC-0092",
+        "name": "Bata",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8255581,
+          18.4933696
+        ]
+      },
+      "properties": {
+        "id": "FAC-0093",
+        "name": "Bhakti Garments",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8248111,
+          18.4902302
+        ]
+      },
+      "properties": {
+        "id": "FAC-0094",
+        "name": "Bodybasics",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.827094,
+          18.5016115
+        ]
+      },
+      "properties": {
+        "id": "FAC-0095",
+        "name": "Bombay Stationers",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8225051,
+          18.5051076
+        ]
+      },
+      "properties": {
+        "id": "FAC-0096",
+        "name": "C. M. Drycleaners",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8466929,
+          18.4907505
+        ]
+      },
+      "properties": {
+        "id": "FAC-0097",
+        "name": "carpet store",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8253536,
+          18.4943185
+        ]
+      },
+      "properties": {
+        "id": "FAC-0098",
+        "name": "Chitale Bandhu Mithaiwale",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.825471,
+          18.4941408
+        ]
+      },
+      "properties": {
+        "id": "FAC-0099",
+        "name": "Chocolates Ice Creams Dryfruits",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8217193,
+          18.4986828
+        ]
+      },
+      "properties": {
+        "id": "FAC-0100",
+        "name": "Cromā",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8249607,
+          18.4923364
+        ]
+      },
+      "properties": {
+        "id": "FAC-0101",
+        "name": "Cuts & Curls",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8231009,
+          18.4906664
+        ]
+      },
+      "properties": {
+        "id": "FAC-0102",
+        "name": "Dantale Art Jewellry",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8292569,
+          18.5031055
+        ]
+      },
+      "properties": {
+        "id": "FAC-0103",
+        "name": "Dattatray Vishwanath Hurne",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8236697,
+          18.4924382
+        ]
+      },
+      "properties": {
+        "id": "FAC-0104",
+        "name": "Dr. Joshi Speciality Eye Clinic",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8253285,
+          18.4925208
+        ]
+      },
+      "properties": {
+        "id": "FAC-0105",
+        "name": "Eira",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8253918,
+          18.4927062
+        ]
+      },
+      "properties": {
+        "id": "FAC-0106",
+        "name": "Enhance Salon",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8225467,
+          18.4910098
+        ]
+      },
+      "properties": {
+        "id": "FAC-0107",
+        "name": "Eve's Secret",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.821976,
+          18.4912057
+        ]
+      },
+      "properties": {
+        "id": "FAC-0108",
+        "name": "Furniture Sankul",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8226265,
+          18.5000735
+        ]
+      },
+      "properties": {
+        "id": "FAC-0109",
+        "name": "Galaxy Optics",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8308712,
+          18.5086504
+        ]
+      },
+      "properties": {
+        "id": "FAC-0110",
+        "name": "Gangar Eyenation",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8248473,
+          18.4904604
+        ]
+      },
+      "properties": {
+        "id": "FAC-0111",
+        "name": "Gayatri",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.843753,
+          18.5084716
+        ]
+      },
+      "properties": {
+        "id": "FAC-0112",
+        "name": "General Store",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8224565,
+          18.4910378
+        ]
+      },
+      "properties": {
+        "id": "FAC-0113",
+        "name": "Ghodela Ply And Hardware",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8248252,
+          18.4903033
+        ]
+      },
+      "properties": {
+        "id": "FAC-0114",
+        "name": "Giriraj Inner Shoppe",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8455897,
+          18.4890014
+        ]
+      },
+      "properties": {
+        "id": "FAC-0115",
+        "name": "Green Bakery Outlet",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8221581,
+          18.4911431
+        ]
+      },
+      "properties": {
+        "id": "FAC-0116",
+        "name": "Gungothri Home Appliances, Sales and Service",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8238703,
+          18.505553
+        ]
+      },
+      "properties": {
+        "id": "FAC-0117",
+        "name": "Hindusthan Bakery",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8246827,
+          18.4924003
+        ]
+      },
+      "properties": {
+        "id": "FAC-0118",
+        "name": "Image Hairdressers",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8223177,
+          18.4910871
+        ]
+      },
+      "properties": {
+        "id": "FAC-0119",
+        "name": "Imax - The Optic",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8248145,
+          18.4902632
+        ]
+      },
+      "properties": {
+        "id": "FAC-0120",
+        "name": "Inner Casuals",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8457991,
+          18.489082
+        ]
+      },
+      "properties": {
+        "id": "FAC-0121",
+        "name": "Ishwar",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8253959,
+          18.4939777
+        ]
+      },
+      "properties": {
+        "id": "FAC-0122",
+        "name": "Jahagirdar Bakers",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8217262,
+          18.5048222
+        ]
+      },
+      "properties": {
+        "id": "FAC-0123",
+        "name": "Jaihind Collections",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8344303,
+          18.4942387
+        ]
+      },
+      "properties": {
+        "id": "FAC-0124",
+        "name": "Jay Ganesh",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8236186,
+          18.4904944
+        ]
+      },
+      "properties": {
+        "id": "FAC-0125",
+        "name": "Jio",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8225826,
+          18.5001234
+        ]
+      },
+      "properties": {
+        "id": "FAC-0126",
+        "name": "Jockey",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8219777,
+          18.5020889
+        ]
+      },
+      "properties": {
+        "id": "FAC-0127",
+        "name": "Juice Salon",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8232186,
+          18.4906206
+        ]
+      },
+      "properties": {
+        "id": "FAC-0128",
+        "name": "Just In Collection",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.844278,
+          18.5064885
+        ]
+      },
+      "properties": {
+        "id": "FAC-0129",
+        "name": "Kaka Halwai",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.84199,
+          18.504816
+        ]
+      },
+      "properties": {
+        "id": "FAC-0130",
+        "name": "Kanhere's Studio Event",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8249853,
+          18.4924564
+        ]
+      },
+      "properties": {
+        "id": "FAC-0131",
+        "name": "Kardile Opticks",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8223774,
+          18.5045299
+        ]
+      },
+      "properties": {
+        "id": "FAC-0132",
+        "name": "Kasat Petroleum",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8263642,
+          18.4804554
+        ]
+      },
+      "properties": {
+        "id": "FAC-0133",
+        "name": "Kekiz The Cake Shop",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.823412,
+          18.4905637
+        ]
+      },
+      "properties": {
+        "id": "FAC-0134",
+        "name": "Keshatawar Provision Store",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8255598,
+          18.5011458
+        ]
+      },
+      "properties": {
+        "id": "FAC-0135",
+        "name": "Kheliya",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8207007,
+          18.5042285
+        ]
+      },
+      "properties": {
+        "id": "FAC-0136",
+        "name": "Krazy Kids",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8271564,
+          18.4801564
+        ]
+      },
+      "properties": {
+        "id": "FAC-0137",
+        "name": "Krushna Gift House",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8297186,
+          18.5076157
+        ]
+      },
+      "properties": {
+        "id": "FAC-0138",
+        "name": "Lagu Bandhu",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8261993,
+          18.4805149
+        ]
+      },
+      "properties": {
+        "id": "FAC-0139",
+        "name": "Laxmi Drycleaners",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8204733,
+          18.5040797
+        ]
+      },
+      "properties": {
+        "id": "FAC-0140",
+        "name": "Laxmi Hardware and Electricals",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8470122,
+          18.5098788
+        ]
+      },
+      "properties": {
+        "id": "FAC-0141",
+        "name": "Lenovo Exclusive Store",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8469958,
+          18.5099017
+        ]
+      },
+      "properties": {
+        "id": "FAC-0142",
+        "name": "LENOVO EXCLUSIVE STORE ABSOLUTE IT SOLUTION",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8226597,
+          18.5000834
+        ]
+      },
+      "properties": {
+        "id": "FAC-0143",
+        "name": "M4U",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8220481,
+          18.4911834
+        ]
+      },
+      "properties": {
+        "id": "FAC-0144",
+        "name": "Maharastra Chemist",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8256994,
+          18.4939774
+        ]
+      },
+      "properties": {
+        "id": "FAC-0145",
+        "name": "Manny's Automobiles",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8207427,
+          18.5042427
+        ]
+      },
+      "properties": {
+        "id": "FAC-0146",
+        "name": "Manyavar",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8273012,
+          18.4801154
+        ]
+      },
+      "properties": {
+        "id": "FAC-0147",
+        "name": "Mayur Agency",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8394526,
+          18.5050074
+        ]
+      },
+      "properties": {
+        "id": "FAC-0148",
+        "name": "Mayur Sweets",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8231451,
+          18.4906588
+        ]
+      },
+      "properties": {
+        "id": "FAC-0149",
+        "name": "Medplus",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8221192,
+          18.4911596
+        ]
+      },
+      "properties": {
+        "id": "FAC-0150",
+        "name": "Mighty Doggys & Cat",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8254612,
+          18.4941138
+        ]
+      },
+      "properties": {
+        "id": "FAC-0151",
+        "name": "Monginis Cake Shop",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8313201,
+          18.5083603
+        ]
+      },
+      "properties": {
+        "id": "FAC-0152",
+        "name": "Motorola Service Centre",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8242023,
+          18.4925986
+        ]
+      },
+      "properties": {
+        "id": "FAC-0153",
+        "name": "Myraa",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8254938,
+          18.4941977
+        ]
+      },
+      "properties": {
+        "id": "FAC-0154",
+        "name": "Naresh Trading Company",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.842703,
+          18.499323
+        ]
+      },
+      "properties": {
+        "id": "FAC-0155",
+        "name": "New Balaji Traders",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8274273,
+          18.4800468
+        ]
+      },
+      "properties": {
+        "id": "FAC-0156",
+        "name": "New Govind Traders",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8251884,
+          18.5055173
+        ]
+      },
+      "properties": {
+        "id": "FAC-0157",
+        "name": "New Poona Bakery",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8222396,
+          18.4911167
+        ]
+      },
+      "properties": {
+        "id": "FAC-0158",
+        "name": "New Pune Bakery",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8273409,
+          18.4831808
+        ]
+      },
+      "properties": {
+        "id": "FAC-0159",
+        "name": "New Vithhal Furniture",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.829701,
+          18.5100705
+        ]
+      },
+      "properties": {
+        "id": "FAC-0160",
+        "name": "Nirmittee",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8245992,
+          18.4924216
+        ]
+      },
+      "properties": {
+        "id": "FAC-0161",
+        "name": "Nourish",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8394956,
+          18.5050221
+        ]
+      },
+      "properties": {
+        "id": "FAC-0162",
+        "name": "Nutan Gift Shopee",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8247025,
+          18.4913583
+        ]
+      },
+      "properties": {
+        "id": "FAC-0163",
+        "name": "Orchid Flora",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8269382,
+          18.4996048
+        ]
+      },
+      "properties": {
+        "id": "FAC-0164",
+        "name": "Papillon",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8418371,
+          18.504823
+        ]
+      },
+      "properties": {
+        "id": "FAC-0165",
+        "name": "Papillon",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8303995,
+          18.5088106
+        ]
+      },
+      "properties": {
+        "id": "FAC-0166",
+        "name": "Pastry Corner",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8252802,
+          18.492295
+        ]
+      },
+      "properties": {
+        "id": "FAC-0167",
+        "name": "Pehnava",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8307951,
+          18.5039441
+        ]
+      },
+      "properties": {
+        "id": "FAC-0168",
+        "name": "Perio",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8307187,
+          18.5081417
+        ]
+      },
+      "properties": {
+        "id": "FAC-0169",
+        "name": "Pets Gallery",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.820777,
+          18.5042543
+        ]
+      },
+      "properties": {
+        "id": "FAC-0170",
+        "name": "Premkiran Super Market",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8256344,
+          18.4929985
+        ]
+      },
+      "properties": {
+        "id": "FAC-0171",
+        "name": "Prime Medical General Store",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8254215,
+          18.4940327
+        ]
+      },
+      "properties": {
+        "id": "FAC-0172",
+        "name": "Punthambaker Optics",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.825358,
+          18.4939198
+        ]
+      },
+      "properties": {
+        "id": "FAC-0173",
+        "name": "Rajashree",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8223613,
+          18.4910728
+        ]
+      },
+      "properties": {
+        "id": "FAC-0174",
+        "name": "Rajendra Cycle Centre",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8208669,
+          18.5042848
+        ]
+      },
+      "properties": {
+        "id": "FAC-0175",
+        "name": "Rajesh Bakery",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8222778,
+          18.4910998
+        ]
+      },
+      "properties": {
+        "id": "FAC-0176",
+        "name": "Rajesh Home Appliances",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8323123,
+          18.5093845
+        ]
+      },
+      "properties": {
+        "id": "FAC-0177",
+        "name": "Rajmal Lakhichand Jewellers",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.825337,
+          18.4936912
+        ]
+      },
+      "properties": {
+        "id": "FAC-0178",
+        "name": "Ram Electronics & Electricals",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8254317,
+          18.4928884
+        ]
+      },
+      "properties": {
+        "id": "FAC-0179",
+        "name": "Ram Medicals",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8256332,
+          18.4936101
+        ]
+      },
+      "properties": {
+        "id": "FAC-0180",
+        "name": "Ram Mobile Store",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8268375,
+          18.4829873
+        ]
+      },
+      "properties": {
+        "id": "FAC-0181",
+        "name": "Ranka Jewellers",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.821795,
+          18.4991655
+        ]
+      },
+      "properties": {
+        "id": "FAC-0182",
+        "name": "Reliance Smart Bazaar",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8335296,
+          18.50437
+        ]
+      },
+      "properties": {
+        "id": "FAC-0183",
+        "name": "Reliance Trends",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8229202,
+          18.4907116
+        ]
+      },
+      "properties": {
+        "id": "FAC-0184",
+        "name": "Reshama's Ladies Tailor",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8250458,
+          18.5055066
+        ]
+      },
+      "properties": {
+        "id": "FAC-0185",
+        "name": "Ribbons & Balloons",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8243347,
+          18.5007301
+        ]
+      },
+      "properties": {
+        "id": "FAC-0186",
+        "name": "Rich Bit Salon",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.846609,
+          18.5083862
+        ]
+      },
+      "properties": {
+        "id": "FAC-0187",
+        "name": "Robin Men's Salon",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8307893,
+          18.5081772
+        ]
+      },
+      "properties": {
+        "id": "FAC-0188",
+        "name": "Royal Optic House",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8248222,
+          18.4923723
+        ]
+      },
+      "properties": {
+        "id": "FAC-0189",
+        "name": "Sajag Securites Karve Nagar Branch",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8251363,
+          18.4930009
+        ]
+      },
+      "properties": {
+        "id": "FAC-0190",
+        "name": "Salon Kunal",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8246566,
+          18.4924092
+        ]
+      },
+      "properties": {
+        "id": "FAC-0191",
+        "name": "Samartha Drycleaners",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8247107,
+          18.4923939
+        ]
+      },
+      "properties": {
+        "id": "FAC-0192",
+        "name": "Samrudhi Tailors",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8247629,
+          18.4915624
+        ]
+      },
+      "properties": {
+        "id": "FAC-0193",
+        "name": "Sarin Enterprises",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8461568,
+          18.508528
+        ]
+      },
+      "properties": {
+        "id": "FAC-0194",
+        "name": "Sathe Motors (Shree Ram Motors)",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8485742,
+          18.5088627
+        ]
+      },
+      "properties": {
+        "id": "FAC-0195",
+        "name": "Shakti Sports",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8253952,
+          18.4927284
+        ]
+      },
+      "properties": {
+        "id": "FAC-0196",
+        "name": "Shree Ganesh Dry-Cleaners",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.822084,
+          18.4911717
+        ]
+      },
+      "properties": {
+        "id": "FAC-0197",
+        "name": "Siddharth Collection",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8246784,
+          18.4912279
+        ]
+      },
+      "properties": {
+        "id": "FAC-0198",
+        "name": "Siya Creations",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8253094,
+          18.4924
+        ]
+      },
+      "properties": {
+        "id": "FAC-0199",
+        "name": "Smart Care Mobile Zone",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8247434,
+          18.492386
+        ]
+      },
+      "properties": {
+        "id": "FAC-0200",
+        "name": "Sparkling Fashion's",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8247725,
+          18.492462
+        ]
+      },
+      "properties": {
+        "id": "FAC-0201",
+        "name": "Sparkling Fashion's",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8252778,
+          18.493876
+        ]
+      },
+      "properties": {
+        "id": "FAC-0202",
+        "name": "Spec N shades",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8270307,
+          18.4823361
+        ]
+      },
+      "properties": {
+        "id": "FAC-0203",
+        "name": "Sujata Mastani",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.843492,
+          18.5093003
+        ]
+      },
+      "properties": {
+        "id": "FAC-0204",
+        "name": "Suvarna Jewellers",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8253871,
+          18.4926766
+        ]
+      },
+      "properties": {
+        "id": "FAC-0205",
+        "name": "Swaroop Computers",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8246334,
+          18.492413
+        ]
+      },
+      "properties": {
+        "id": "FAC-0206",
+        "name": "Taste The Best",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8225723,
+          18.5051127
+        ]
+      },
+      "properties": {
+        "id": "FAC-0207",
+        "name": "Tea Emporium",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8248688,
+          18.4923624
+        ]
+      },
+      "properties": {
+        "id": "FAC-0208",
+        "name": "Tej Travels",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8261832,
+          18.481336
+        ]
+      },
+      "properties": {
+        "id": "FAC-0209",
+        "name": "The Cake and Cream Factory",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8214391,
+          18.5027408
+        ]
+      },
+      "properties": {
+        "id": "FAC-0210",
+        "name": "Third Wave Coffee",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8499528,
+          18.5082269
+        ]
+      },
+      "properties": {
+        "id": "FAC-0211",
+        "name": "Tilak Automobiles",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8420309,
+          18.5048154
+        ]
+      },
+      "properties": {
+        "id": "FAC-0212",
+        "name": "Travel India Club",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8225085,
+          18.4910219
+        ]
+      },
+      "properties": {
+        "id": "FAC-0213",
+        "name": "Triumph",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8245738,
+          18.4924318
+        ]
+      },
+      "properties": {
+        "id": "FAC-0214",
+        "name": "Tulshi Super Shopee",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8308875,
+          18.5043493
+        ]
+      },
+      "properties": {
+        "id": "FAC-0215",
+        "name": "Umesh Ceramics",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8271109,
+          18.4801741
+        ]
+      },
+      "properties": {
+        "id": "FAC-0216",
+        "name": "Universal Pet store",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8227794,
+          18.5001298
+        ]
+      },
+      "properties": {
+        "id": "FAC-0217",
+        "name": "Utsav",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8455638,
+          18.5009006
+        ]
+      },
+      "properties": {
+        "id": "FAC-0218",
+        "name": "Uttam wines",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8249087,
+          18.4923532
+        ]
+      },
+      "properties": {
+        "id": "FAC-0219",
+        "name": "Valentino Mobile",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8357044,
+          18.4939867
+        ]
+      },
+      "properties": {
+        "id": "FAC-0220",
+        "name": "Vanhausen",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8252333,
+          18.493709
+        ]
+      },
+      "properties": {
+        "id": "FAC-0221",
+        "name": "Vibgyor",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8225068,
+          18.505082
+        ]
+      },
+      "properties": {
+        "id": "FAC-0222",
+        "name": "Vijay Car Accessories",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8252121,
+          18.4936114
+        ]
+      },
+      "properties": {
+        "id": "FAC-0223",
+        "name": "Viva Fashions",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8446491,
+          18.5065819
+        ]
+      },
+      "properties": {
+        "id": "FAC-0224",
+        "name": "Vivek Hairdressers",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8251216,
+          18.4929589
+        ]
+      },
+      "properties": {
+        "id": "FAC-0225",
+        "name": "Vodafone Idea",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.823059,
+          18.4906734
+        ]
+      },
+      "properties": {
+        "id": "FAC-0226",
+        "name": "Wallpapers, Carpet Galleries",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8445059,
+          18.5072127
+        ]
+      },
+      "properties": {
+        "id": "FAC-0227",
+        "name": "WS Bakers",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8434864,
+          18.5093732
+        ]
+      },
+      "properties": {
+        "id": "FAC-0228",
+        "name": "Zeno Health",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8498542,
+          18.5082971
+        ]
+      },
+      "properties": {
+        "id": "FAC-0229",
+        "name": "टी एंपोरियम",
+        "type": "commercial",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8328039,
+          18.5067169
+        ]
+      },
+      "properties": {
+        "id": "FAC-0230",
+        "name": "Erandvana Fire Station",
+        "type": "fire_station",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8484683,
+          18.4996173
+        ]
+      },
+      "properties": {
+        "id": "FAC-0231",
+        "name": "Janta Fire Brigade station",
+        "type": "fire_station",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8396282,
+          18.4925024
+        ]
+      },
+      "properties": {
+        "id": "FAC-0232",
+        "name": null,
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8397815,
+          18.4928026
+        ]
+      },
+      "properties": {
+        "id": "FAC-0233",
+        "name": null,
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.839826,
+          18.4929803
+        ]
+      },
+      "properties": {
+        "id": "FAC-0234",
+        "name": null,
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8399115,
+          18.4931274
+        ]
+      },
+      "properties": {
+        "id": "FAC-0235",
+        "name": null,
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8399385,
+          18.4931587
+        ]
+      },
+      "properties": {
+        "id": "FAC-0236",
+        "name": null,
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.840141,
+          18.4934859
+        ]
+      },
+      "properties": {
+        "id": "FAC-0237",
+        "name": null,
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8403617,
+          18.4935753
+        ]
+      },
+      "properties": {
+        "id": "FAC-0238",
+        "name": null,
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8303593,
+          18.504933
+        ]
+      },
+      "properties": {
+        "id": "FAC-0239",
+        "name": "Ace Hospital",
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8494687,
+          18.4902121
+        ]
+      },
+      "properties": {
+        "id": "FAC-0240",
+        "name": "Annachatre Clinic",
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.838315,
+          18.498738
+        ]
+      },
+      "properties": {
+        "id": "FAC-0241",
+        "name": "Anup Hospital",
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8439447,
+          18.5075984
+        ]
+      },
+      "properties": {
+        "id": "FAC-0242",
+        "name": "Apex Superspeciality Hospital",
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8229041,
+          18.4947224
+        ]
+      },
+      "properties": {
+        "id": "FAC-0243",
+        "name": "Bhagirathi Children's Hospital",
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8443399,
+          18.5048666
+        ]
+      },
+      "properties": {
+        "id": "FAC-0244",
+        "name": "Bhide Hospital",
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8457009,
+          18.5083289
+        ]
+      },
+      "properties": {
+        "id": "FAC-0245",
+        "name": "Chinmay Institute Of Paediatrics",
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8396966,
+          18.4927219
+        ]
+      },
+      "properties": {
+        "id": "FAC-0246",
+        "name": "Clinic",
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8446917,
+          18.5030769
+        ]
+      },
+      "properties": {
+        "id": "FAC-0247",
+        "name": "Colony Nursing Home",
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8328426,
+          18.5020099
+        ]
+      },
+      "properties": {
+        "id": "FAC-0248",
+        "name": "Deenanath Mangeshkar Hospital",
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8449264,
+          18.5092716
+        ]
+      },
+      "properties": {
+        "id": "FAC-0249",
+        "name": "Dr.Pawar Eye Hospital",
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8443121,
+          18.490344
+        ]
+      },
+      "properties": {
+        "id": "FAC-0250",
+        "name": "Dr.Purohit Nursing Home",
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8410045,
+          18.5012869
+        ]
+      },
+      "properties": {
+        "id": "FAC-0251",
+        "name": "GLOBAL HOSPITAL & RESEARCH",
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8410144,
+          18.5013237
+        ]
+      },
+      "properties": {
+        "id": "FAC-0252",
+        "name": "Global Hospital & Research Institute",
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8470078,
+          18.4993855
+        ]
+      },
+      "properties": {
+        "id": "FAC-0253",
+        "name": "Janata Hospital ,Pune",
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8211666,
+          18.5094272
+        ]
+      },
+      "properties": {
+        "id": "FAC-0254",
+        "name": "Jog Hospital",
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8461063,
+          18.5009733
+        ]
+      },
+      "properties": {
+        "id": "FAC-0255",
+        "name": "Karva Hospital",
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8386813,
+          18.5024088
+        ]
+      },
+      "properties": {
+        "id": "FAC-0256",
+        "name": "Late Anandibai Narhar Gadgil Hospital",
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.834105,
+          18.5089079
+        ]
+      },
+      "properties": {
+        "id": "FAC-0257",
+        "name": "Lokmanya Hospital, Pune",
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.834167,
+          18.505204
+        ]
+      },
+      "properties": {
+        "id": "FAC-0258",
+        "name": "Mantri Hospital",
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8265103,
+          18.5078453
+        ]
+      },
+      "properties": {
+        "id": "FAC-0259",
+        "name": "Metropolis Healthcare Ltd",
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8221777,
+          18.5082386
+        ]
+      },
+      "properties": {
+        "id": "FAC-0260",
+        "name": "MyGyne Clinic",
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.831062,
+          18.5076864
+        ]
+      },
+      "properties": {
+        "id": "FAC-0261",
+        "name": "Nachiket Hospital Pvt Ltd",
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8483354,
+          18.5092455
+        ]
+      },
+      "properties": {
+        "id": "FAC-0262",
+        "name": "Ram Krishna Hospital, Pune",
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8371083,
+          18.510153
+        ]
+      },
+      "properties": {
+        "id": "FAC-0263",
+        "name": "Sanjeevan Hospital, Pune",
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.845933,
+          18.4909252
+        ]
+      },
+      "properties": {
+        "id": "FAC-0264",
+        "name": "Shraddha Hospital",
+        "type": "hospital",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8475308,
+          18.4901189
+        ]
+      },
+      "properties": {
+        "id": "FAC-0265",
+        "name": null,
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8321967,
+          18.5024551
+        ]
+      },
+      "properties": {
+        "id": "FAC-0266",
+        "name": "Amrut Mrutyunjay Ganesh mandir",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8329499,
+          18.5064139
+        ]
+      },
+      "properties": {
+        "id": "FAC-0267",
+        "name": "Amruteshwar Mandir",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8466283,
+          18.4996681
+        ]
+      },
+      "properties": {
+        "id": "FAC-0268",
+        "name": "Anand Math",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.838614,
+          18.5043621
+        ]
+      },
+      "properties": {
+        "id": "FAC-0269",
+        "name": "Bal Shivaji Mitra Mandal",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8386321,
+          18.5044665
+        ]
+      },
+      "properties": {
+        "id": "FAC-0270",
+        "name": "Bal Shivaji Mitra Mandal",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8254594,
+          18.5056058
+        ]
+      },
+      "properties": {
+        "id": "FAC-0271",
+        "name": "Bal Tarun Mandal",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.845888,
+          18.4993034
+        ]
+      },
+      "properties": {
+        "id": "FAC-0272",
+        "name": "Chandreshwar sai madir",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8458861,
+          18.4992988
+        ]
+      },
+      "properties": {
+        "id": "FAC-0273",
+        "name": "Chandreshwar Sai Mandir",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8460637,
+          18.4891341
+        ]
+      },
+      "properties": {
+        "id": "FAC-0274",
+        "name": "Dashabhuja Ganapati",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8258505,
+          18.5057991
+        ]
+      },
+      "properties": {
+        "id": "FAC-0275",
+        "name": "Dashabhuja Mandir",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8460656,
+          18.4891688
+        ]
+      },
+      "properties": {
+        "id": "FAC-0276",
+        "name": "Dashbhuja Ganapati",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8265432,
+          18.4983547
+        ]
+      },
+      "properties": {
+        "id": "FAC-0277",
+        "name": "Datta Mandir",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8499978,
+          18.4919168
+        ]
+      },
+      "properties": {
+        "id": "FAC-0278",
+        "name": "Ganesh Mandir",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8500625,
+          18.4918523
+        ]
+      },
+      "properties": {
+        "id": "FAC-0279",
+        "name": "Ganesh Mandir",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8232129,
+          18.4967105
+        ]
+      },
+      "properties": {
+        "id": "FAC-0280",
+        "name": "Ganesh Temple",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8418067,
+          18.495411
+        ]
+      },
+      "properties": {
+        "id": "FAC-0281",
+        "name": "ganpati mandir",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8420849,
+          18.4956624
+        ]
+      },
+      "properties": {
+        "id": "FAC-0282",
+        "name": "ganpati mandir",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8264405,
+          18.4899143
+        ]
+      },
+      "properties": {
+        "id": "FAC-0283",
+        "name": "Hanuman Mandir",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.84713,
+          18.4996782
+        ]
+      },
+      "properties": {
+        "id": "FAC-0284",
+        "name": "Hanuman Temple",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8211543,
+          18.5061652
+        ]
+      },
+      "properties": {
+        "id": "FAC-0285",
+        "name": "Jain Temple",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8256506,
+          18.4836265
+        ]
+      },
+      "properties": {
+        "id": "FAC-0286",
+        "name": "Mandir",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8452914,
+          18.4989713
+        ]
+      },
+      "properties": {
+        "id": "FAC-0287",
+        "name": "Maruti mandir",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8204814,
+          18.5034501
+        ]
+      },
+      "properties": {
+        "id": "FAC-0288",
+        "name": "Maruti Mandir",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8404402,
+          18.4938226
+        ]
+      },
+      "properties": {
+        "id": "FAC-0289",
+        "name": "Maruti Temple",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8458716,
+          18.5099251
+        ]
+      },
+      "properties": {
+        "id": "FAC-0290",
+        "name": "Navi Peth Vitthal Mandir",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8354065,
+          18.4936324
+        ]
+      },
+      "properties": {
+        "id": "FAC-0291",
+        "name": "Navshya Maruti",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8470954,
+          18.497561
+        ]
+      },
+      "properties": {
+        "id": "FAC-0292",
+        "name": "Parvati",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8471091,
+          18.4975371
+        ]
+      },
+      "properties": {
+        "id": "FAC-0293",
+        "name": "Parvati Mandir",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8470689,
+          18.4975989
+        ]
+      },
+      "properties": {
+        "id": "FAC-0294",
+        "name": "Parvati Temple",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.825809,
+          18.5001122
+        ]
+      },
+      "properties": {
+        "id": "FAC-0295",
+        "name": "Rajbaug Tarun Mandal",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8258181,
+          18.4944298
+        ]
+      },
+      "properties": {
+        "id": "FAC-0296",
+        "name": "Ramambika Devi Mandir",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8451169,
+          18.5031786
+        ]
+      },
+      "properties": {
+        "id": "FAC-0297",
+        "name": "Sadguru Mangir Baba Temple",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.839989,
+          18.4930991
+        ]
+      },
+      "properties": {
+        "id": "FAC-0298",
+        "name": "sai baba temple",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8321052,
+          18.5081218
+        ]
+      },
+      "properties": {
+        "id": "FAC-0299",
+        "name": "Saint Crispin's Church",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8292054,
+          18.4888347
+        ]
+      },
+      "properties": {
+        "id": "FAC-0300",
+        "name": "Sarda Math",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8419339,
+          18.4954786
+        ]
+      },
+      "properties": {
+        "id": "FAC-0301",
+        "name": "shree datta mandir",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.839243,
+          18.5007841
+        ]
+      },
+      "properties": {
+        "id": "FAC-0302",
+        "name": "Shree Gramdaivat Mhasoba Pratishthan Trust",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8390454,
+          18.502981
+        ]
+      },
+      "properties": {
+        "id": "FAC-0303",
+        "name": "Shree Vighnaharta Maruti Mandir",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8390637,
+          18.5007326
+        ]
+      },
+      "properties": {
+        "id": "FAC-0304",
+        "name": "Shri Vitthal Rukmini Mandir Dattawadi",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8394752,
+          18.492234
+        ]
+      },
+      "properties": {
+        "id": "FAC-0305",
+        "name": "Subhash mithai wala",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8392467,
+          18.4919019
+        ]
+      },
+      "properties": {
+        "id": "FAC-0306",
+        "name": "swami samarth temple",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.839229,
+          18.4999011
+        ]
+      },
+      "properties": {
+        "id": "FAC-0307",
+        "name": "Swami samarth temple",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8430856,
+          18.4964898
+        ]
+      },
+      "properties": {
+        "id": "FAC-0308",
+        "name": "Trimurti datta Mandir",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8390819,
+          18.5004727
+        ]
+      },
+      "properties": {
+        "id": "FAC-0309",
+        "name": "Tulja Bhavani Temple",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8490489,
+          18.4994589
+        ]
+      },
+      "properties": {
+        "id": "FAC-0310",
+        "name": "Vetalbaba temple",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.846141,
+          18.496612
+        ]
+      },
+      "properties": {
+        "id": "FAC-0311",
+        "name": "Vishnu temple",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8445297,
+          18.4978398
+        ]
+      },
+      "properties": {
+        "id": "FAC-0312",
+        "name": "Vittal temple",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8375768,
+          18.4977953
+        ]
+      },
+      "properties": {
+        "id": "FAC-0313",
+        "name": "Wadacha Ganpati",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8395514,
+          18.4922603
+        ]
+      },
+      "properties": {
+        "id": "FAC-0314",
+        "name": "Waghjai Mandir",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8395515,
+          18.4922721
+        ]
+      },
+      "properties": {
+        "id": "FAC-0315",
+        "name": "wagzai mandir",
+        "type": "place_of_worship",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8262153,
+          18.4984329
+        ]
+      },
+      "properties": {
+        "id": "FAC-0316",
+        "name": "Alankar Police Chowki",
+        "type": "police",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.840267,
+          18.5010017
+        ]
+      },
+      "properties": {
+        "id": "FAC-0317",
+        "name": "Dattawadi Police Chowki",
+        "type": "police",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8481732,
+          18.4929157
+        ]
+      },
+      "properties": {
+        "id": "FAC-0318",
+        "name": "Dattawadi Police Station",
+        "type": "police",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8497008,
+          18.4896021
+        ]
+      },
+      "properties": {
+        "id": "FAC-0319",
+        "name": "Laxminagar Police chowky",
+        "type": "police",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.842194,
+          18.4956471
+        ]
+      },
+      "properties": {
+        "id": "FAC-0320",
+        "name": "Parvati0 police station",
+        "type": "police",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8245986,
+          18.5064508
+        ]
+      },
+      "properties": {
+        "id": "FAC-0321",
+        "name": "Paud Phata Police Chowki",
+        "type": "police",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.849652,
+          18.4894643
+        ]
+      },
+      "properties": {
+        "id": "FAC-0322",
+        "name": "Sahakarnagar Police Station",
+        "type": "police",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8446033,
+          18.5052065
+        ]
+      },
+      "properties": {
+        "id": "FAC-0323",
+        "name": "Senadatta Police Chowki",
+        "type": "police",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8246481,
+          18.5036902
+        ]
+      },
+      "properties": {
+        "id": "FAC-0324",
+        "name": null,
+        "type": "school",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8251992,
+          18.5039116
+        ]
+      },
+      "properties": {
+        "id": "FAC-0325",
+        "name": null,
+        "type": "school",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8255276,
+          18.5036978
+        ]
+      },
+      "properties": {
+        "id": "FAC-0326",
+        "name": "Abhinava Vidyalaya",
+        "type": "school",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8331625,
+          18.5066652
+        ]
+      },
+      "properties": {
+        "id": "FAC-0327",
+        "name": "Anusayabai Khilare Shala",
+        "type": "school",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8212115,
+          18.4848591
+        ]
+      },
+      "properties": {
+        "id": "FAC-0328",
+        "name": "bharatratna dr.APJ abdul kalam e-learning school",
+        "type": "school",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8207628,
+          18.4889072
+        ]
+      },
+      "properties": {
+        "id": "FAC-0329",
+        "name": "blue bird nursey school",
+        "type": "school",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8202498,
+          18.4897544
+        ]
+      },
+      "properties": {
+        "id": "FAC-0330",
+        "name": "dnyanda nutan balvikas",
+        "type": "school",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8267482,
+          18.5023531
+        ]
+      },
+      "properties": {
+        "id": "FAC-0331",
+        "name": "Dr. Kalmadi Shamarao High School",
+        "type": "school",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8291571,
+          18.5097171
+        ]
+      },
+      "properties": {
+        "id": "FAC-0332",
+        "name": "Erandawane Madhyamik Vidyalay",
+        "type": "school",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8433439,
+          18.48977
+        ]
+      },
+      "properties": {
+        "id": "FAC-0333",
+        "name": "Forever Music Pvt. Ltd / Forever Arts Academy",
+        "type": "school",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8241285,
+          18.5035861
+        ]
+      },
+      "properties": {
+        "id": "FAC-0334",
+        "name": "Government Aided School",
+        "type": "school",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8229923,
+          18.4928747
+        ]
+      },
+      "properties": {
+        "id": "FAC-0335",
+        "name": "GR Palkar Primary School",
+        "type": "school",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8321559,
+          18.4921186
+        ]
+      },
+      "properties": {
+        "id": "FAC-0336",
+        "name": "Kridaniketan Shala",
+        "type": "school",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8483454,
+          18.4867305
+        ]
+      },
+      "properties": {
+        "id": "FAC-0337",
+        "name": "L. R. Shinde Highschool",
+        "type": "school",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8477489,
+          18.5097427
+        ]
+      },
+      "properties": {
+        "id": "FAC-0338",
+        "name": "Maharashtriya Mandal",
+        "type": "school",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8202831,
+          18.5086661
+        ]
+      },
+      "properties": {
+        "id": "FAC-0339",
+        "name": "MIT School and Junior College of Commerce & Science",
+        "type": "school",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8496741,
+          18.5101577
+        ]
+      },
+      "properties": {
+        "id": "FAC-0340",
+        "name": "Renuka Swaroop Highschool",
+        "type": "school",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8418271,
+          18.5006565
+        ]
+      },
+      "properties": {
+        "id": "FAC-0341",
+        "name": "Satyanarayan Shivlal Agarwal Shala",
+        "type": "school",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8320758,
+          18.5010518
+        ]
+      },
+      "properties": {
+        "id": "FAC-0342",
+        "name": "Sevasadan English Medium School",
+        "type": "school",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8355317,
+          18.5079464
+        ]
+      },
+      "properties": {
+        "id": "FAC-0343",
+        "name": "Sinhagad Spring Dale School",
+        "type": "school",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8485844,
+          18.5062123
+        ]
+      },
+      "properties": {
+        "id": "FAC-0344",
+        "name": "Sir Parshurambhau College",
+        "type": "school",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8203595,
+          18.4897341
+        ]
+      },
+      "properties": {
+        "id": "FAC-0345",
+        "name": "tree house play group",
+        "type": "school",
+        "source": "OpenStreetMap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8409203,
+          18.5042955
+        ]
+      },
+      "properties": {
+        "id": "FAC-0346",
+        "name": "Vasantrao Vaidya Vidyalay",
+        "type": "school",
+        "source": "OpenStreetMap"
+      }
+    }
+  ]
+}

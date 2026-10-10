@@ -1,0 +1,164 @@
+[
+  {
+    "id": "R1",
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 371.9,
+    "chainage_end_m": 627.6,
+    "completed_on": "2026-08-28",
+    "surface": "bituminous",
+    "protected": false,
+    "kind": "reinstatement",
+    "synthetic": true,
+    "derived_from": [
+      "PMC/RC/2026/0016"
+    ],
+    "pad_m": 100,
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8258952,
+          18.4812563
+        ],
+        [
+          73.826063,
+          18.4814706
+        ],
+        [
+          73.8262224,
+          18.4816743
+        ],
+        [
+          73.8265382,
+          18.482122
+        ],
+        [
+          73.8265586,
+          18.4821475
+        ],
+        [
+          73.8267615,
+          18.4824003
+        ],
+        [
+          73.8269433,
+          18.4825969
+        ],
+        [
+          73.8270512,
+          18.4827175
+        ],
+        [
+          73.8271602,
+          18.4828486
+        ],
+        [
+          73.827212,
+          18.4829272
+        ],
+        [
+          73.8273123,
+          18.4830907
+        ],
+        [
+          73.8273235,
+          18.4831101
+        ]
+      ]
+    }
+  },
+  {
+    "id": "R2",
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 697,
+    "chainage_end_m": 1009.7,
+    "completed_on": "2025-11-01",
+    "surface": "cement_concrete",
+    "protected": true,
+    "kind": "reconstruction",
+    "synthetic": true,
+    "derived_from": [
+      "PMC/RC/2026/0004",
+      "PMC/RC/2026/0005",
+      "PMC/RC/2026/0006"
+    ],
+    "pad_m": 50,
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8275736,
+          18.4836854
+        ],
+        [
+          73.8278438,
+          18.4844502
+        ],
+        [
+          73.8278633,
+          18.4845192
+        ],
+        [
+          73.8279864,
+          18.4850441
+        ],
+        [
+          73.8280858,
+          18.4855276
+        ],
+        [
+          73.8280879,
+          18.4857415
+        ],
+        [
+          73.8280973,
+          18.4859557
+        ],
+        [
+          73.828153,
+          18.486204
+        ],
+        [
+          73.8282021,
+          18.4864207
+        ]
+      ]
+    }
+  },
+  {
+    "id": "R3",
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 2588.9,
+    "chainage_end_m": 2682.9,
+    "completed_on": "2026-08-20",
+    "surface": "bituminous",
+    "protected": false,
+    "kind": "reinstatement",
+    "synthetic": true,
+    "derived_from": [
+      "PMC/RC/2026/0025"
+    ],
+    "pad_m": 0,
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8386878,
+          18.4963375
+        ],
+        [
+          73.8389666,
+          18.4965478
+        ],
+        [
+          73.83937,
+          18.4968521
+        ],
+        [
+          73.8393854,
+          18.4968637
+        ]
+      ]
+    }
+  }
+]

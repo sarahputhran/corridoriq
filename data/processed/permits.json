@@ -1,0 +1,1401 @@
+[
+  {
+    "permit_id": "PMC/RC/2026/0001",
+    "department": "PMC Water Supply",
+    "department_id": "water",
+    "purpose": "150mm water main replacement",
+    "work_type": "routine",
+    "in_annual_programme": true,
+    "fault_sanctioned": false,
+    "start_lat": 18.480016,
+    "start_lng": 73.825003,
+    "end_lat": 18.481651,
+    "end_lng": 73.826204,
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 205.1,
+    "chainage_end_m": 426.5,
+    "trench_length_m": 221.5,
+    "snap_offset_start_m": 6.6,
+    "snap_offset_end_m": 0,
+    "proposed_start": "2026-11-02",
+    "proposed_end": "2026-12-11",
+    "filed_at": "2026-10-01",
+    "trench_depth_m": 1.2,
+    "trench_width_m": 1.2,
+    "road_side": "left",
+    "traffic_impact": "one_lane",
+    "status": "proposed",
+    "synthetic": true,
+    "demo_role": "C1 / D: restored stretch, >100 m staging",
+    "changes_from_s5": [
+      "dates 2026-09-01→2026-10-10 changed to 2026-11-02→2026-12-11"
+    ],
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8249525,
+          18.4800515
+        ],
+        [
+          73.8255174,
+          18.4807735
+        ],
+        [
+          73.8258579,
+          18.4812086
+        ],
+        [
+          73.826063,
+          18.4814706
+        ],
+        [
+          73.8262041,
+          18.4816509
+        ]
+      ]
+    }
+  },
+  {
+    "permit_id": "PMC/RC/2026/0002",
+    "department": "Jio Fiber",
+    "department_id": "jio",
+    "purpose": "OFC duct laying for FTTH",
+    "work_type": "routine",
+    "in_annual_programme": true,
+    "fault_sanctioned": false,
+    "start_lat": 18.480116,
+    "start_lng": 73.825003,
+    "end_lat": 18.481498,
+    "end_lng": 73.826091,
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 214,
+    "chainage_end_m": 405.8,
+    "trench_length_m": 191.8,
+    "snap_offset_start_m": 0,
+    "snap_offset_end_m": 0.6,
+    "proposed_start": "2026-11-23",
+    "proposed_end": "2026-12-02",
+    "filed_at": "2026-10-08",
+    "trench_depth_m": 0.6,
+    "trench_width_m": 0.7,
+    "road_side": "left",
+    "traffic_impact": "partial_closure",
+    "status": "proposed",
+    "synthetic": true,
+    "demo_role": "C1",
+    "changes_from_s5": [
+      "dates 2026-09-22→2026-10-01 changed to 2026-11-23→2026-12-02"
+    ],
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.825003,
+          18.480116
+        ],
+        [
+          73.8255174,
+          18.4807735
+        ],
+        [
+          73.8258579,
+          18.4812086
+        ],
+        [
+          73.826063,
+          18.4814706
+        ],
+        [
+          73.8260868,
+          18.481501
+        ]
+      ]
+    }
+  },
+  {
+    "permit_id": "PMC/RC/2026/0003",
+    "department": "MSEDCL (electricity)",
+    "department_id": "msedcl",
+    "purpose": "11kV underground cable trenching and duct installation",
+    "work_type": "routine",
+    "in_annual_programme": true,
+    "fault_sanctioned": false,
+    "start_lat": 18.480091,
+    "start_lng": 73.825045,
+    "end_lat": 18.481348,
+    "end_lng": 73.825982,
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 214.4,
+    "chainage_end_m": 385.5,
+    "trench_length_m": 171.1,
+    "snap_offset_start_m": 5.2,
+    "snap_offset_end_m": 1.3,
+    "proposed_start": "2026-11-26",
+    "proposed_end": "2026-12-06",
+    "filed_at": "2026-10-12",
+    "trench_depth_m": 0.9,
+    "trench_width_m": 1,
+    "road_side": "center",
+    "traffic_impact": "one_lane",
+    "status": "proposed",
+    "synthetic": true,
+    "demo_role": "C1",
+    "changes_from_s5": [
+      "dates 2026-09-25→2026-10-05 changed to 2026-11-26→2026-12-06"
+    ],
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8250053,
+          18.480119
+        ],
+        [
+          73.8255174,
+          18.4807735
+        ],
+        [
+          73.8258579,
+          18.4812086
+        ],
+        [
+          73.8259723,
+          18.4813548
+        ]
+      ]
+    }
+  },
+  {
+    "permit_id": "PMC/RC/2026/0004",
+    "department": "Maharashtra Natural Gas Ltd",
+    "department_id": "mngl",
+    "purpose": "Gas distribution line extension to residential frontage",
+    "work_type": "routine",
+    "in_annual_programme": true,
+    "fault_sanctioned": false,
+    "start_lat": 18.484112,
+    "start_lng": 73.827724,
+    "end_lat": 18.485982,
+    "end_lng": 73.828098,
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 747,
+    "chainage_end_m": 959.7,
+    "trench_length_m": 212.7,
+    "snap_offset_start_m": 0,
+    "snap_offset_end_m": 0.5,
+    "proposed_start": "2026-11-09",
+    "proposed_end": "2026-12-09",
+    "filed_at": "2026-09-15",
+    "trench_depth_m": 0.8,
+    "trench_width_m": 0.8,
+    "road_side": "right",
+    "traffic_impact": "partial_closure",
+    "status": "approved",
+    "synthetic": true,
+    "demo_role": "C2 / P",
+    "changes_from_s5": [
+      "dates 2026-09-10→2026-10-10 changed to 2026-11-09→2026-12-09"
+    ],
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8277243,
+          18.4841119
+        ],
+        [
+          73.8278438,
+          18.4844502
+        ],
+        [
+          73.8278633,
+          18.4845192
+        ],
+        [
+          73.8279864,
+          18.4850441
+        ],
+        [
+          73.8280858,
+          18.4855276
+        ],
+        [
+          73.8280879,
+          18.4857415
+        ],
+        [
+          73.8280973,
+          18.4859557
+        ],
+        [
+          73.828103,
+          18.485981
+        ]
+      ]
+    }
+  },
+  {
+    "permit_id": "PMC/RC/2026/0005",
+    "department": "MSEDCL (electricity)",
+    "department_id": "msedcl",
+    "purpose": "LT cable replacement and feeder duct installation",
+    "work_type": "routine",
+    "in_annual_programme": true,
+    "fault_sanctioned": false,
+    "start_lat": 18.484498,
+    "start_lng": 73.827886,
+    "end_lat": 18.485808,
+    "end_lng": 73.828099,
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 793,
+    "chainage_end_m": 940.4,
+    "trench_length_m": 147.4,
+    "snap_offset_start_m": 2.9,
+    "snap_offset_end_m": 0.9,
+    "proposed_start": "2026-11-23",
+    "proposed_end": "2026-12-07",
+    "filed_at": "2026-09-25",
+    "trench_depth_m": 0.9,
+    "trench_width_m": 0.8,
+    "road_side": "right",
+    "traffic_impact": "one_lane",
+    "status": "approved",
+    "synthetic": true,
+    "demo_role": "C2 / P",
+    "changes_from_s5": [
+      "dates 2026-09-24→2026-10-08 changed to 2026-11-23→2026-12-07"
+    ],
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8278592,
+          18.4845048
+        ],
+        [
+          73.8278633,
+          18.4845192
+        ],
+        [
+          73.8279864,
+          18.4850441
+        ],
+        [
+          73.8280858,
+          18.4855276
+        ],
+        [
+          73.8280879,
+          18.4857415
+        ],
+        [
+          73.8280908,
+          18.4858083
+        ]
+      ]
+    }
+  },
+  {
+    "permit_id": "PMC/RC/2026/0006",
+    "department": "Airtel Fiber",
+    "department_id": "airtel",
+    "purpose": "OFC duct laying for enterprise and FTTH connections",
+    "work_type": "routine",
+    "in_annual_programme": false,
+    "fault_sanctioned": false,
+    "start_lat": 18.4843,
+    "start_lng": 73.82782,
+    "end_lat": 18.485886,
+    "end_lng": 73.8281,
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 770.1,
+    "chainage_end_m": 949.1,
+    "trench_length_m": 179,
+    "snap_offset_start_m": 2.9,
+    "snap_offset_end_m": 0.6,
+    "proposed_start": "2026-11-30",
+    "proposed_end": "2026-12-14",
+    "filed_at": "2026-10-13",
+    "trench_depth_m": 0.6,
+    "trench_width_m": 0.7,
+    "road_side": "right",
+    "traffic_impact": "partial_closure",
+    "status": "proposed",
+    "synthetic": true,
+    "demo_role": "C2 / P: not in annual programme",
+    "changes_from_s5": [
+      "dates 2026-10-01→2026-10-15 changed to 2026-11-30→2026-12-14",
+      "in_annual_programme set to false"
+    ],
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8277937,
+          18.4843084
+        ],
+        [
+          73.8278438,
+          18.4844502
+        ],
+        [
+          73.8278633,
+          18.4845192
+        ],
+        [
+          73.8279864,
+          18.4850441
+        ],
+        [
+          73.8280858,
+          18.4855276
+        ],
+        [
+          73.8280879,
+          18.4857415
+        ],
+        [
+          73.8280943,
+          18.4858862
+        ]
+      ]
+    }
+  },
+  {
+    "permit_id": "PMC/RC/2026/0007",
+    "department": "PMC Sewerage/Drainage",
+    "department_id": "sewer",
+    "purpose": "450mm sewer line rehabilitation and chamber repair",
+    "work_type": "routine",
+    "in_annual_programme": true,
+    "fault_sanctioned": false,
+    "start_lat": 18.488493,
+    "start_lng": 73.829578,
+    "end_lat": 18.489054,
+    "end_lng": 73.830371,
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 1284,
+    "chainage_end_m": 1388.7,
+    "trench_length_m": 104.7,
+    "snap_offset_start_m": 0,
+    "snap_offset_end_m": 0,
+    "proposed_start": "2026-10-05",
+    "proposed_end": "2026-11-20",
+    "filed_at": "2026-09-01",
+    "trench_depth_m": 1.5,
+    "trench_width_m": 1.4,
+    "road_side": "left",
+    "traffic_impact": "one_lane",
+    "status": "approved",
+    "synthetic": true,
+    "demo_role": "C3",
+    "changes_from_s5": [],
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8295783,
+          18.4884927
+        ],
+        [
+          73.8295814,
+          18.488496
+        ],
+        [
+          73.8297309,
+          18.4886342
+        ],
+        [
+          73.8298985,
+          18.4887635
+        ],
+        [
+          73.8300158,
+          18.4888408
+        ],
+        [
+          73.8301284,
+          18.4889091
+        ],
+        [
+          73.8301776,
+          18.4889368
+        ],
+        [
+          73.8303708,
+          18.4890538
+        ],
+        [
+          73.830371,
+          18.4890539
+        ]
+      ]
+    }
+  },
+  {
+    "permit_id": "PMC/RC/2026/0008",
+    "department": "Airtel Fiber",
+    "department_id": "airtel",
+    "purpose": "OFC duct extension along restored footpath edge",
+    "work_type": "routine",
+    "in_annual_programme": true,
+    "fault_sanctioned": false,
+    "start_lat": 18.488728,
+    "start_lng": 73.829906,
+    "end_lat": 18.488927,
+    "end_lng": 73.830158,
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 1327.4,
+    "chainage_end_m": 1362.1,
+    "trench_length_m": 34.7,
+    "snap_offset_start_m": 3.6,
+    "snap_offset_end_m": 0.1,
+    "proposed_start": "2026-11-19",
+    "proposed_end": "2026-11-28",
+    "filed_at": "2026-10-09",
+    "trench_depth_m": 0.6,
+    "trench_width_m": 0.7,
+    "road_side": "left",
+    "traffic_impact": "partial_closure",
+    "status": "proposed",
+    "synthetic": true,
+    "demo_role": "C3 / R: repeat same utility vs 0022",
+    "changes_from_s5": [],
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8298847,
+          18.4887528
+        ],
+        [
+          73.8298985,
+          18.4887635
+        ],
+        [
+          73.8300158,
+          18.4888408
+        ],
+        [
+          73.8301284,
+          18.4889091
+        ],
+        [
+          73.8301586,
+          18.4889261
+        ]
+      ]
+    }
+  },
+  {
+    "permit_id": "PMC/RC/2026/0009",
+    "department": "Jio Fiber",
+    "department_id": "jio",
+    "purpose": "Micro-duct installation for FTTH expansion",
+    "work_type": "routine",
+    "in_annual_programme": true,
+    "fault_sanctioned": false,
+    "start_lat": 18.48876,
+    "start_lng": 73.82996,
+    "end_lat": 18.488982,
+    "end_lng": 73.830247,
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 1334.4,
+    "chainage_end_m": 1373.3,
+    "trench_length_m": 39,
+    "snap_offset_start_m": 4,
+    "snap_offset_end_m": 0.3,
+    "proposed_start": "2026-11-20",
+    "proposed_end": "2026-11-30",
+    "filed_at": "2026-10-11",
+    "trench_depth_m": 0.6,
+    "trench_width_m": 0.6,
+    "road_side": "left",
+    "traffic_impact": "partial_closure",
+    "status": "proposed",
+    "synthetic": true,
+    "demo_role": "C3",
+    "changes_from_s5": [],
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8299382,
+          18.4887897
+        ],
+        [
+          73.8300158,
+          18.4888408
+        ],
+        [
+          73.8301284,
+          18.4889091
+        ],
+        [
+          73.8301776,
+          18.4889368
+        ],
+        [
+          73.8302485,
+          18.4889797
+        ]
+      ]
+    }
+  },
+  {
+    "permit_id": "PMC/RC/2026/0010",
+    "department": "PMC Water Supply",
+    "department_id": "water",
+    "purpose": "300mm water feeder replacement",
+    "work_type": "routine",
+    "in_annual_programme": true,
+    "fault_sanctioned": false,
+    "start_lat": 18.489552,
+    "start_lng": 73.831209,
+    "end_lat": 18.490053,
+    "end_lng": 73.832039,
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 1493,
+    "chainage_end_m": 1597.3,
+    "trench_length_m": 104.4,
+    "snap_offset_start_m": 0,
+    "snap_offset_end_m": 0,
+    "proposed_start": "2026-10-20",
+    "proposed_end": "2026-11-25",
+    "filed_at": "2026-09-10",
+    "trench_depth_m": 1.2,
+    "trench_width_m": 1.3,
+    "road_side": "right",
+    "traffic_impact": "one_lane",
+    "status": "approved",
+    "synthetic": true,
+    "demo_role": "C4 / O",
+    "changes_from_s5": [],
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8312088,
+          18.4895523
+        ],
+        [
+          73.8313395,
+          18.4896225
+        ],
+        [
+          73.8314057,
+          18.489645
+        ],
+        [
+          73.8314873,
+          18.4896717
+        ],
+        [
+          73.8318167,
+          18.4898946
+        ],
+        [
+          73.8320392,
+          18.4900527
+        ]
+      ]
+    }
+  },
+  {
+    "permit_id": "PMC/RC/2026/0011",
+    "department": "Maharashtra Natural Gas Ltd",
+    "department_id": "mngl",
+    "purpose": "PE gas service main extension",
+    "work_type": "routine",
+    "in_annual_programme": true,
+    "fault_sanctioned": false,
+    "start_lat": 18.48969,
+    "start_lng": 73.831435,
+    "end_lat": 18.489928,
+    "end_lng": 73.83183,
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 1520.8,
+    "chainage_end_m": 1571.3,
+    "trench_length_m": 50.6,
+    "snap_offset_start_m": 3.7,
+    "snap_offset_end_m": 2.1,
+    "proposed_start": "2026-11-05",
+    "proposed_end": "2026-11-18",
+    "filed_at": "2026-10-10",
+    "trench_depth_m": 0.8,
+    "trench_width_m": 0.8,
+    "road_side": "right",
+    "traffic_impact": "partial_closure",
+    "status": "proposed",
+    "synthetic": true,
+    "demo_role": "C4 / O: override scenario",
+    "changes_from_s5": [],
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8314465,
+          18.4896584
+        ],
+        [
+          73.8314873,
+          18.4896717
+        ],
+        [
+          73.8318167,
+          18.4898946
+        ],
+        [
+          73.8318421,
+          18.4899127
+        ]
+      ]
+    }
+  },
+  {
+    "permit_id": "PMC/RC/2026/0012",
+    "department": "MSEDCL (electricity)",
+    "department_id": "msedcl",
+    "purpose": "LT underground cable augmentation for local distribution",
+    "work_type": "routine",
+    "in_annual_programme": true,
+    "fault_sanctioned": false,
+    "start_lat": 18.491707,
+    "start_lng": 73.833688,
+    "end_lat": 18.492395,
+    "end_lng": 73.83434,
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 1850.7,
+    "chainage_end_m": 1953.5,
+    "trench_length_m": 102.8,
+    "snap_offset_start_m": 0,
+    "snap_offset_end_m": 2.5,
+    "proposed_start": "2026-12-01",
+    "proposed_end": "2026-12-20",
+    "filed_at": "2026-10-02",
+    "trench_depth_m": 0.9,
+    "trench_width_m": 0.9,
+    "road_side": "center",
+    "traffic_impact": "one_lane",
+    "status": "proposed",
+    "synthetic": true,
+    "demo_role": "C5 / M",
+    "changes_from_s5": [],
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8336877,
+          18.4917072
+        ],
+        [
+          73.8337578,
+          18.4917796
+        ],
+        [
+          73.8337849,
+          18.4918076
+        ],
+        [
+          73.8340943,
+          18.4921272
+        ],
+        [
+          73.834159,
+          18.4921892
+        ],
+        [
+          73.8342841,
+          18.4923093
+        ],
+        [
+          73.8343134,
+          18.4923374
+        ],
+        [
+          73.8343569,
+          18.4923791
+        ]
+      ]
+    }
+  },
+  {
+    "permit_id": "PMC/RC/2026/0013",
+    "department": "Jio Fiber",
+    "department_id": "jio",
+    "purpose": "OFC duct laying for residential FTTH connections",
+    "work_type": "routine",
+    "in_annual_programme": true,
+    "fault_sanctioned": false,
+    "start_lat": 18.491835,
+    "start_lng": 73.83381,
+    "end_lat": 18.49229,
+    "end_lng": 73.834239,
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 1869.9,
+    "chainage_end_m": 1937.7,
+    "trench_length_m": 67.8,
+    "snap_offset_start_m": 0.1,
+    "snap_offset_end_m": 1.9,
+    "proposed_start": "2026-12-10",
+    "proposed_end": "2026-12-20",
+    "filed_at": "2026-10-06",
+    "trench_depth_m": 0.6,
+    "trench_width_m": 0.7,
+    "road_side": "right",
+    "traffic_impact": "partial_closure",
+    "status": "proposed",
+    "synthetic": true,
+    "demo_role": "C5 / M",
+    "changes_from_s5": [],
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8338108,
+          18.4918343
+        ],
+        [
+          73.8340943,
+          18.4921272
+        ],
+        [
+          73.834159,
+          18.4921892
+        ],
+        [
+          73.8342517,
+          18.4922781
+        ]
+      ]
+    }
+  },
+  {
+    "permit_id": "PMC/RC/2026/0014",
+    "department": "PMC Sewerage/Drainage",
+    "department_id": "sewer",
+    "purpose": "Stormwater drain desilting and damaged slab replacement",
+    "work_type": "routine",
+    "in_annual_programme": true,
+    "fault_sanctioned": false,
+    "start_lat": 18.49191,
+    "start_lng": 73.833878,
+    "end_lat": 18.49247,
+    "end_lng": 73.834424,
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 1880.9,
+    "chainage_end_m": 1965.7,
+    "trench_length_m": 84.8,
+    "snap_offset_start_m": 0.5,
+    "snap_offset_end_m": 2.1,
+    "proposed_start": "2026-12-12",
+    "proposed_end": "2026-12-25",
+    "filed_at": "2026-10-09",
+    "trench_depth_m": 1.1,
+    "trench_width_m": 1.1,
+    "road_side": "left",
+    "traffic_impact": "one_lane",
+    "status": "proposed",
+    "synthetic": true,
+    "demo_role": "C5 / M",
+    "changes_from_s5": [],
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8338813,
+          18.4919072
+        ],
+        [
+          73.8340943,
+          18.4921272
+        ],
+        [
+          73.834159,
+          18.4921892
+        ],
+        [
+          73.8342841,
+          18.4923093
+        ],
+        [
+          73.8343134,
+          18.4923374
+        ],
+        [
+          73.834438,
+          18.4924569
+        ]
+      ]
+    }
+  },
+  {
+    "permit_id": "PMC/RC/2026/0015",
+    "department": "Airtel Fiber",
+    "department_id": "airtel",
+    "purpose": "Small-cell backhaul OFC spur connection",
+    "work_type": "routine",
+    "in_annual_programme": true,
+    "fault_sanctioned": false,
+    "start_lat": 18.478812,
+    "start_lng": 73.824253,
+    "end_lat": 18.479192,
+    "end_lng": 73.82439,
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 47.8,
+    "chainage_end_m": 92.2,
+    "trench_length_m": 44.4,
+    "snap_offset_start_m": 4.4,
+    "snap_offset_end_m": 0.1,
+    "proposed_start": "2026-08-28",
+    "proposed_end": "2026-09-03",
+    "filed_at": "2026-08-01",
+    "trench_depth_m": 0.6,
+    "trench_width_m": 0.6,
+    "road_side": "left",
+    "traffic_impact": "partial_closure",
+    "status": "completed",
+    "synthetic": true,
+    "demo_role": "history",
+    "changes_from_s5": [
+      "status approved changed to completed"
+    ],
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8242152,
+          18.4788283
+        ],
+        [
+          73.8242957,
+          18.4789963
+        ],
+        [
+          73.8243895,
+          18.4791922
+        ]
+      ]
+    }
+  },
+  {
+    "permit_id": "PMC/RC/2026/0016",
+    "department": "PMC Sewerage/Drainage",
+    "department_id": "sewer",
+    "purpose": "Inspection chamber reconstruction and local drain repair",
+    "work_type": "routine",
+    "in_annual_programme": true,
+    "fault_sanctioned": false,
+    "start_lat": 18.481986,
+    "start_lng": 73.82645,
+    "end_lat": 18.48239,
+    "end_lng": 73.82676,
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 471.9,
+    "chainage_end_m": 527.6,
+    "trench_length_m": 55.6,
+    "snap_offset_start_m": 0.7,
+    "snap_offset_end_m": 0.6,
+    "proposed_start": "2026-08-15",
+    "proposed_end": "2026-08-24",
+    "filed_at": "2026-07-20",
+    "trench_depth_m": 1,
+    "trench_width_m": 0.9,
+    "road_side": "right",
+    "traffic_impact": "partial_closure",
+    "status": "completed",
+    "synthetic": true,
+    "demo_role": "history → R1 restoration",
+    "changes_from_s5": [],
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8264447,
+          18.4819894
+        ],
+        [
+          73.8265382,
+          18.482122
+        ],
+        [
+          73.8265586,
+          18.4821475
+        ],
+        [
+          73.8267557,
+          18.4823931
+        ]
+      ]
+    }
+  },
+  {
+    "permit_id": "PMC/RC/2026/0017",
+    "department": "MSEDCL (electricity)",
+    "department_id": "msedcl",
+    "purpose": "Street-side feeder pillar and service cable trenching",
+    "work_type": "routine",
+    "in_annual_programme": true,
+    "fault_sanctioned": false,
+    "start_lat": 18.486876,
+    "start_lng": 73.828408,
+    "end_lat": 18.487435,
+    "end_lng": 73.828731,
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 1064.9,
+    "chainage_end_m": 1135.8,
+    "trench_length_m": 70.9,
+    "snap_offset_start_m": 0,
+    "snap_offset_end_m": 0,
+    "proposed_start": "2027-01-11",
+    "proposed_end": "2027-01-18",
+    "filed_at": "2026-10-14",
+    "trench_depth_m": 0.9,
+    "trench_width_m": 0.7,
+    "road_side": "left",
+    "traffic_impact": "partial_closure",
+    "status": "proposed",
+    "synthetic": true,
+    "demo_role": "I: isolated → auto-approve",
+    "changes_from_s5": [
+      "dates 2026-09-05→2026-09-12 changed to 2027-01-11→2027-01-18",
+      "status approved changed to proposed"
+    ],
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8284078,
+          18.4868761
+        ],
+        [
+          73.8284766,
+          18.487012
+        ],
+        [
+          73.8287118,
+          18.4874019
+        ],
+        [
+          73.828731,
+          18.487435
+        ]
+      ]
+    }
+  },
+  {
+    "permit_id": "PMC/RC/2026/0018",
+    "department": "PMC Water Supply",
+    "department_id": "water",
+    "purpose": "Leak repair and replacement of short water-main section",
+    "work_type": "emergency_fault",
+    "in_annual_programme": true,
+    "fault_sanctioned": false,
+    "start_lat": 18.488923,
+    "start_lng": 73.829995,
+    "end_lat": 18.489102,
+    "end_lng": 73.830286,
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 1347.4,
+    "chainage_end_m": 1384,
+    "trench_length_m": 36.6,
+    "snap_offset_start_m": 8.9,
+    "snap_offset_end_m": 9.3,
+    "proposed_start": "2026-10-14",
+    "proposed_end": "2026-10-18",
+    "filed_at": "2026-10-14",
+    "trench_depth_m": 1.1,
+    "trench_width_m": 0.8,
+    "road_side": "right",
+    "traffic_impact": "one_lane",
+    "status": "in_progress",
+    "synthetic": true,
+    "demo_role": "E: emergency",
+    "changes_from_s5": [
+      "dates 2026-08-18→2026-08-27 changed to 2026-10-14→2026-10-18",
+      "work_type set to emergency_fault"
+    ],
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8300404,
+          18.4888557
+        ],
+        [
+          73.8301284,
+          18.4889091
+        ],
+        [
+          73.8301776,
+          18.4889368
+        ],
+        [
+          73.8303336,
+          18.4890313
+        ]
+      ]
+    }
+  },
+  {
+    "permit_id": "PMC/RC/2026/0019",
+    "department": "Maharashtra Natural Gas Ltd",
+    "department_id": "mngl",
+    "purpose": "Individual gas service line extension",
+    "work_type": "routine",
+    "in_annual_programme": true,
+    "fault_sanctioned": false,
+    "start_lat": 18.490226,
+    "start_lng": 73.832319,
+    "end_lat": 18.490449,
+    "end_lng": 73.832633,
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 1631.8,
+    "chainage_end_m": 1672.4,
+    "trench_length_m": 40.6,
+    "snap_offset_start_m": 4.5,
+    "snap_offset_end_m": 12.3,
+    "proposed_start": "2027-05-20",
+    "proposed_end": "2027-05-26",
+    "filed_at": "2026-10-07",
+    "trench_depth_m": 0.8,
+    "trench_width_m": 0.6,
+    "road_side": "left",
+    "traffic_impact": "partial_closure",
+    "status": "proposed",
+    "synthetic": true,
+    "demo_role": "B: monsoon block",
+    "changes_from_s5": [
+      "dates 2026-09-20→2026-09-26 changed to 2027-05-20→2027-05-26"
+    ],
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8322874,
+          18.4902534
+        ],
+        [
+          73.8325472,
+          18.4905233
+        ]
+      ]
+    }
+  },
+  {
+    "permit_id": "PMC/RC/2026/0020",
+    "department": "Pune Metro Rail",
+    "department_id": "metro",
+    "purpose": "Utility protection and service diversion works for corridor interface",
+    "work_type": "routine",
+    "in_annual_programme": true,
+    "fault_sanctioned": false,
+    "start_lat": 18.492738,
+    "start_lng": 73.83469,
+    "end_lat": 18.493185,
+    "end_lng": 73.835124,
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 2006.8,
+    "chainage_end_m": 2074.6,
+    "trench_length_m": 67.8,
+    "snap_offset_start_m": 1,
+    "snap_offset_end_m": 1.9,
+    "proposed_start": "2026-10-20",
+    "proposed_end": "2026-12-18",
+    "filed_at": "2026-09-05",
+    "trench_depth_m": 1,
+    "trench_width_m": 1.5,
+    "road_side": "full-width",
+    "traffic_impact": "one_lane",
+    "status": "approved",
+    "synthetic": true,
+    "demo_role": "M: metro interface",
+    "changes_from_s5": [],
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8346972,
+          18.4927325
+        ],
+        [
+          73.8347072,
+          18.4927442
+        ],
+        [
+          73.8347606,
+          18.4928067
+        ],
+        [
+          73.8349552,
+          18.4930487
+        ],
+        [
+          73.8351109,
+          18.4931973
+        ]
+      ]
+    }
+  },
+  {
+    "permit_id": "PMC/RC/2026/0021",
+    "department": "PMC Water Supply",
+    "department_id": "water",
+    "purpose": "Valve chamber reconstruction and 100mm distribution pipe replacement",
+    "work_type": "routine",
+    "in_annual_programme": true,
+    "fault_sanctioned": false,
+    "start_lat": 18.488112,
+    "start_lng": 73.82921,
+    "end_lat": 18.488301,
+    "end_lng": 73.829444,
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 1226.6,
+    "chainage_end_m": 1258.7,
+    "trench_length_m": 32.1,
+    "snap_offset_start_m": 1.1,
+    "snap_offset_end_m": 3.8,
+    "proposed_start": "2026-12-01",
+    "proposed_end": "2026-12-08",
+    "filed_at": "2026-10-12",
+    "trench_depth_m": 1,
+    "trench_width_m": 0.8,
+    "road_side": "left",
+    "traffic_impact": "partial_closure",
+    "status": "proposed",
+    "synthetic": true,
+    "demo_role": "near C3",
+    "changes_from_s5": [],
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8292184,
+          18.4881056
+        ],
+        [
+          73.8292842,
+          18.4881834
+        ],
+        [
+          73.8294175,
+          18.4883236
+        ]
+      ]
+    }
+  },
+  {
+    "permit_id": "PMC/RC/2026/0022",
+    "department": "Airtel Fiber",
+    "department_id": "airtel",
+    "purpose": "OFC repair and duct joint replacement",
+    "work_type": "emergency_fault",
+    "in_annual_programme": true,
+    "fault_sanctioned": false,
+    "start_lat": 18.488596,
+    "start_lng": 73.82969,
+    "end_lat": 18.48872,
+    "end_lng": 73.829866,
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 1300.4,
+    "chainage_end_m": 1323.6,
+    "trench_length_m": 23.1,
+    "snap_offset_start_m": 0,
+    "snap_offset_end_m": 1.6,
+    "proposed_start": "2026-08-30",
+    "proposed_end": "2026-09-05",
+    "filed_at": "2026-08-30",
+    "trench_depth_m": 0.6,
+    "trench_width_m": 0.6,
+    "road_side": "right",
+    "traffic_impact": "partial_closure",
+    "status": "completed",
+    "synthetic": true,
+    "demo_role": "history for R (0008)",
+    "changes_from_s5": [
+      "status proposed changed to completed",
+      "work_type set to emergency_fault"
+    ],
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8296898,
+          18.4885962
+        ],
+        [
+          73.8297309,
+          18.4886342
+        ],
+        [
+          73.8298565,
+          18.4887311
+        ]
+      ]
+    }
+  },
+  {
+    "permit_id": "PMC/RC/2026/0023",
+    "department": "PMC Water Supply",
+    "department_id": "water",
+    "purpose": "200mm water distribution main replacement near Karva Hospital",
+    "work_type": "routine",
+    "in_annual_programme": true,
+    "fault_sanctioned": false,
+    "start_lat": 18.4998614,
+    "start_lng": 73.8437972,
+    "end_lat": 18.5009897,
+    "end_lng": 73.8452416,
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 3256.5,
+    "chainage_end_m": 3453.8,
+    "trench_length_m": 197.3,
+    "snap_offset_start_m": 3,
+    "snap_offset_end_m": 3,
+    "proposed_start": "2026-10-26",
+    "proposed_end": "2026-11-26",
+    "filed_at": "2026-09-20",
+    "trench_depth_m": 1.2,
+    "trench_width_m": 1,
+    "road_side": "left",
+    "traffic_impact": "partial_closure",
+    "status": "proposed",
+    "synthetic": true,
+    "demo_role": "H: hero",
+    "changes_from_s5": [
+      "dates 2026-10-15→2026-11-15 changed to 2026-10-26→2026-11-26",
+      "purpose reworded (was \"200mm water distribution main replacement near Deenanath Mangeshkar Hospital approach\")",
+      "S5 coordinates were 860–920 m off Sinhagad Road (beside Deenanath Mangeshkar Hospital, which is not on the corridor); moved next to Karva Hospital, length, side and mutual offset kept"
+    ],
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8438153,
+          18.4998406
+        ],
+        [
+          73.8445888,
+          18.5004448
+        ],
+        [
+          73.8446733,
+          18.5005108
+        ],
+        [
+          73.8452597,
+          18.5009689
+        ]
+      ]
+    }
+  },
+  {
+    "permit_id": "PMC/RC/2026/0024",
+    "department": "Jio Fiber",
+    "department_id": "jio",
+    "purpose": "OFC duct laying for FTTH near Karva Hospital",
+    "work_type": "routine",
+    "in_annual_programme": true,
+    "fault_sanctioned": false,
+    "start_lat": 18.5000776,
+    "start_lng": 73.8441635,
+    "end_lat": 18.5007576,
+    "end_lng": 73.845034,
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 3301.6,
+    "chainage_end_m": 3420.5,
+    "trench_length_m": 118.9,
+    "snap_offset_start_m": 3,
+    "snap_offset_end_m": 3,
+    "proposed_start": "2026-11-12",
+    "proposed_end": "2026-11-23",
+    "filed_at": "2026-10-10",
+    "trench_depth_m": 0.6,
+    "trench_width_m": 0.5,
+    "road_side": "right",
+    "traffic_impact": "partial_closure",
+    "status": "proposed",
+    "synthetic": true,
+    "demo_role": "H: hero (triggers case)",
+    "changes_from_s5": [
+      "dates 2026-11-01→2026-11-12 changed to 2026-11-12→2026-11-23",
+      "purpose reworded (was \"OFC duct laying for FTTH along hospital approach road\")",
+      "S5 coordinates were 864–923 m off Sinhagad Road (beside Deenanath Mangeshkar Hospital, which is not on the corridor); moved next to Karva Hospital, length, side and mutual offset kept"
+    ],
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8441454,
+          18.5000984
+        ],
+        [
+          73.8445888,
+          18.5004448
+        ],
+        [
+          73.8446733,
+          18.5005108
+        ],
+        [
+          73.8450159,
+          18.5007784
+        ]
+      ]
+    }
+  },
+  {
+    "permit_id": "PMC/RC/2026/0025",
+    "department": "MSEDCL (electricity)",
+    "department_id": "msedcl",
+    "purpose": "Street light feeder cable replacement",
+    "work_type": "routine",
+    "in_annual_programme": true,
+    "fault_sanctioned": false,
+    "start_lat": 18.4963163,
+    "start_lng": 73.8387055,
+    "end_lat": 18.4968427,
+    "end_lng": 73.8394032,
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 2588.9,
+    "chainage_end_m": 2682.9,
+    "trench_length_m": 94,
+    "snap_offset_start_m": 3,
+    "snap_offset_end_m": 3,
+    "proposed_start": "2026-08-10",
+    "proposed_end": "2026-08-18",
+    "filed_at": "2026-07-15",
+    "trench_depth_m": 0.8,
+    "trench_width_m": 0.5,
+    "road_side": "right",
+    "traffic_impact": "partial_closure",
+    "status": "completed",
+    "synthetic": true,
+    "demo_role": "history → R3 restoration",
+    "changes_from_s5": [
+      "S5 coordinates were 1302–1330 m off Sinhagad Road; moved to the nearest corridor stretch, length kept"
+    ],
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8386878,
+          18.4963374
+        ],
+        [
+          73.8389666,
+          18.4965478
+        ],
+        [
+          73.83937,
+          18.4968521
+        ],
+        [
+          73.8393855,
+          18.4968638
+        ]
+      ]
+    }
+  }
+]

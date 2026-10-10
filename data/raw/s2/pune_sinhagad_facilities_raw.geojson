@@ -1,0 +1,6649 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-08-23T19:18:36Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/132813468",
+        "amenity": "school",
+        "name": "Dr. Kalmadi Shamarao High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8267482,
+          18.5023531
+        ]
+      },
+      "id": "way/132813468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/192206270",
+        "amenity": "police",
+        "name": "Sahakarnagar Police Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.849652,
+          18.4894643
+        ]
+      },
+      "id": "way/192206270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/207872391",
+        "AND:importance_level": "4",
+        "addr:district": "Pune",
+        "addr:full": "Deenanath Mangeshkar Hospital Road, Near Mhatre Bridge, Erandwane, Pune",
+        "addr:postcode": "411004",
+        "addr:state": "Maharashtra",
+        "alt_name": "Dinanath Mangeshkar Hospital",
+        "amenity": "hospital",
+        "check_date": "2023-02-18",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Deenanath Mangeshkar Hospital",
+        "name:en": "Deenanath Mangeshkar Hospital",
+        "name:etymology:wikidata": "Q5250040",
+        "name:mr": "दीनानाथ मंगेशकर रुग्णालय",
+        "opening_hours": "24/7",
+        "operator:type": "private",
+        "source": "Local Knowledge",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8328426,
+          18.5020099
+        ]
+      },
+      "id": "way/207872391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/207872410",
+        "alt_name": "SP college",
+        "alt_name:mr": "एस पी कॉलेज; एस पी महाविद्यालय",
+        "amenity": "school",
+        "check_date": "2022-12-21",
+        "name": "Sir Parshurambhau College",
+        "name:en": "Sir Parshurambhau College",
+        "name:mr": "सर परशुरामभाऊ महाविद्यालय",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8485844,
+          18.5062123
+        ]
+      },
+      "id": "way/207872410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/210717983",
+        "building": "retail",
+        "name": "Kaka Halwai",
+        "shop": "confectionery",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.844278,
+          18.5064885
+        ]
+      },
+      "id": "way/210717983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/217295587",
+        "amenity": "school",
+        "name": "L. R. Shinde Highschool",
+        "name:mr": "ल. रा. शिंदे प्रशाला",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8483454,
+          18.4867305
+        ]
+      },
+      "id": "way/217295587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/217773611",
+        "addr:postcode": "411030",
+        "addr:street": "Lokmanya Tilak Marg",
+        "amenity": "school",
+        "name:en": "Maharashtriya Mandal",
+        "religion": "none",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8477489,
+          18.5097427
+        ]
+      },
+      "id": "way/217773611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/217773619",
+        "amenity": "school",
+        "name": "Renuka Swaroop Highschool",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8496741,
+          18.5101577
+        ]
+      },
+      "id": "way/217773619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/218697330",
+        "amenity": "fire_station",
+        "name": "Erandvana Fire Station",
+        "name:mr": "एरंडवणे अग्निशमन केंद्र",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8328039,
+          18.5067169
+        ]
+      },
+      "id": "way/218697330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/218697331",
+        "amenity": "fuel",
+        "brand": "BPCL",
+        "fuel:diesel": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Kasat Petroleum",
+        "operator": "Kasat",
+        "shop": "convenience",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8223774,
+          18.5045299
+        ]
+      },
+      "id": "way/218697331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/218697333",
+        "addr:street": "127/1A, Paud Rd, Mahaganesh Colony, Kothrud, Pune, Maharashtra 411038",
+        "amenity": "school",
+        "name": "MIT School and Junior College of Commerce & Science",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8202831,
+          18.5086661
+        ]
+      },
+      "id": "way/218697333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/229849146",
+        "amenity": "hospital",
+        "building": "hospital",
+        "name": "Jog Hospital",
+        "name:mr": "जोग हॉस्पिटल",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8211666,
+          18.5094272
+        ]
+      },
+      "id": "way/229849146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/248993367",
+        "building": "yes",
+        "name": "Nirmittee",
+        "shop": "furniture",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.829701,
+          18.5100705
+        ]
+      },
+      "id": "way/248993367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/250116195",
+        "amenity": "place_of_worship",
+        "name": "Saint Crispin's Church",
+        "name:mr": "सेंट क्रिस्पीन्स चर्च",
+        "religion": "christian",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8321052,
+          18.5081218
+        ]
+      },
+      "id": "way/250116195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/251878756",
+        "addr:city": "Pune",
+        "addr:housenumber": "1410, Patwardhan Baug",
+        "addr:neighbourhood": "Erandawane",
+        "addr:postcode": "411004",
+        "addr:state": "Maharashtra",
+        "addr:street": "Maai Mangeshkar Path",
+        "amenity": "school",
+        "name": "Sevasadan English Medium School",
+        "name:mr": "सेवासदन इंग्रजी मध्यम शाळा",
+        "operator": "Pune Sevasadan Society",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8320758,
+          18.5010518
+        ]
+      },
+      "id": "way/251878756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/255661295",
+        "addr:district": "Pune",
+        "addr:full": "Plot No 23, Off: Karve Road Erandawane",
+        "addr:postcode": "411004",
+        "addr:state": "Maharashtra",
+        "addr:street": "F.P23, off Karve Road, Kashibai Khilare Path, Opposite Pune Cenrtal, Erandwane, Pune, Maharashtra 411004",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sanjeevan Hospital, Pune",
+        "name:mr": "संजीवन रुग्णालय",
+        "opening_hours": "24/7",
+        "phone": "020 6725 0000",
+        "source": "OpenGovernmentData",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8371083,
+          18.510153
+        ]
+      },
+      "id": "way/255661295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/264282504",
+        "amenity": "place_of_worship",
+        "name": "Parvati Temple",
+        "religion": "hindu",
+        "source": "survey;bing",
+        "wall": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8470689,
+          18.4975989
+        ]
+      },
+      "id": "way/264282504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/275490285",
+        "amenity": "place_of_worship",
+        "name": "Shri Vitthal Rukmini Mandir Dattawadi",
+        "name:mr": "श्री विठ्ठल रुक्मिणी मंदिर दत्तवाडी",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8390637,
+          18.5007326
+        ]
+      },
+      "id": "way/275490285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/279403626",
+        "amenity": "place_of_worship",
+        "name": "Ganesh Mandir",
+        "name:mr": "गणेश मंदिर",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8500625,
+          18.4918523
+        ]
+      },
+      "id": "way/279403626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/281844133",
+        "amenity": "place_of_worship",
+        "name": "Amruteshwar Mandir",
+        "name:mr": "अमृतेश्वर मंदिर",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8329499,
+          18.5064139
+        ]
+      },
+      "id": "way/281844133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/281844134",
+        "amenity": "school",
+        "name": "Anusayabai Khilare Shala",
+        "name:mr": "अनुसयाबाई खिलारे शाळा",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8331625,
+          18.5066652
+        ]
+      },
+      "id": "way/281844134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/281844140",
+        "addr:district": "Pune",
+        "addr:full": "Erandavana, Near Padale Palace, Karve Road, Pune",
+        "addr:postcode": "411004",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Pune City",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Yashwant Vishnu Tharkude Davakhana",
+        "name:mr": "यशवंत विष्णू थरकुडे दवाखाना",
+        "source": "OpenGovernmentData",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8331726,
+          18.5069635
+        ]
+      },
+      "id": "way/281844140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/282051126",
+        "addr:city": "pune",
+        "addr:postcode": "411038",
+        "addr:street": "Uttamchand Mukunddas Gandhi Path",
+        "building": "yes",
+        "name": "Cromā",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8217193,
+          18.4986828
+        ]
+      },
+      "id": "way/282051126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/290034473",
+        "amenity": "school",
+        "check_date": "2026-03-15",
+        "name": "Vasantrao Vaidya Vidyalay",
+        "name:mr": "वसंतराव वैद्य विद्यालय",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8409203,
+          18.5042955
+        ]
+      },
+      "id": "way/290034473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/331532102",
+        "amenity": "school",
+        "name": "Erandawane Madhyamik Vidyalay",
+        "name:mr": "एरंडवणे माध्यमिक विद्यालय",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8291571,
+          18.5097171
+        ]
+      },
+      "id": "way/331532102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/331532104",
+        "amenity": "school",
+        "check_date": "2026-03-13",
+        "name": "Kridaniketan Shala",
+        "name:mr": "क्रीडानिकेतन शाळा",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8321559,
+          18.4921186
+        ]
+      },
+      "id": "way/331532104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/331532106",
+        "amenity": "school",
+        "name": "Satyanarayan Shivlal Agarwal Shala",
+        "name:mr": "सत्यनारायण शिवलाल अगरवाल शाळा",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8418271,
+          18.5006565
+        ]
+      },
+      "id": "way/331532106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/331532108",
+        "amenity": "school",
+        "name": "Sinhagad Spring Dale School",
+        "name:mr": "सिंहगड स्प्रिंग डेल शाळा",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8355317,
+          18.5079464
+        ]
+      },
+      "id": "way/331532108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/359972503",
+        "addr:city": "Pune",
+        "addr:postcode": "411009",
+        "building": "yes",
+        "name": "Green Bakery Outlet",
+        "shop": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8455897,
+          18.4890014
+        ]
+      },
+      "id": "way/359972503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/359988654",
+        "addr:postcode": "411052",
+        "alt_name": "G R Palkar Primary School",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "4",
+        "building:min_level": "1",
+        "name": "GR Palkar Primary School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8229923,
+          18.4928747
+        ]
+      },
+      "id": "way/359988654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/360254782",
+        "addr:city": "Pune",
+        "addr:postcode": "411009",
+        "amenity": "hospital",
+        "name": "Annachatre Clinic",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8494687,
+          18.4902121
+        ]
+      },
+      "id": "way/360254782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/360271943",
+        "addr:postcode": "411052",
+        "building": "yes",
+        "name": "Dr. Joshi Speciality Eye Clinic",
+        "shop": "optician",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8236697,
+          18.4924382
+        ]
+      },
+      "id": "way/360271943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/360474279",
+        "addr:city": "Pune",
+        "addr:postcode": "411009",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Dattawadi Police Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8481732,
+          18.4929157
+        ]
+      },
+      "id": "way/360474279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/360482200",
+        "addr:postcode": "411052",
+        "building": "yes",
+        "name": "Myraa",
+        "opening_hours": "10:00-19:00",
+        "shop": "beauty",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8242023,
+          18.4925986
+        ]
+      },
+      "id": "way/360482200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/360510345",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:levels": "1",
+        "building:material": "plaster",
+        "check_date": "2023-02-18",
+        "denomination": "ganpatya",
+        "name": "Amrut Mrutyunjay Ganesh mandir",
+        "name:en": "Amrut Mrutyunjay Ganesh mandir",
+        "name:mr": "अमृत मृत्युंजय गणेश मंदिर",
+        "opening_hours": "24/7",
+        "religion": "hindu",
+        "roof:levels": "1",
+        "roof:shape": "pyramidal",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8321967,
+          18.5024551
+        ]
+      },
+      "id": "way/360510345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/360525315",
+        "addr:city": "Pune",
+        "addr:postcode": "411030",
+        "addr:street": "Sinhagad Road",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Sarda Math",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8292054,
+          18.4888347
+        ]
+      },
+      "id": "way/360525315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/444136190",
+        "addr:postcode": "411052",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Ganesh Temple",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8232129,
+          18.4967105
+        ]
+      },
+      "id": "way/444136190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/448214895",
+        "building": "yes",
+        "shop": "laundry",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8309516,
+          18.5040553
+        ]
+      },
+      "id": "way/448214895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/448218376",
+        "amenity": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8251992,
+          18.5039116
+        ]
+      },
+      "id": "way/448218376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/448218377",
+        "amenity": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8246481,
+          18.5036902
+        ]
+      },
+      "id": "way/448218377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/448218695",
+        "building": "yes",
+        "name": "Bombay Stationers",
+        "shop": "stationery",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.827094,
+          18.5016115
+        ]
+      },
+      "id": "way/448218695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/462070469",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2026-03-15",
+        "name": "Mandir",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8256506,
+          18.4836265
+        ]
+      },
+      "id": "way/462070469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/479980734",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "jain",
+        "name": "Jain Temple",
+        "religion": "jain",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8211543,
+          18.5061652
+        ]
+      },
+      "id": "way/479980734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/627262107",
+        "shop": "greengrocer",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8253818,
+          18.4936086
+        ]
+      },
+      "id": "way/627262107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/865812384",
+        "amenity": "cafe",
+        "name": "Pastry Corner",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8303995,
+          18.5088106
+        ]
+      },
+      "id": "node/865812384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/865828962",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Paud Phata",
+        "name:mr": "पौड फाटा",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8243601,
+          18.5054496
+        ]
+      },
+      "id": "node/865828962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1054641704",
+        "amenity": "hospital",
+        "check_date": "2026-03-13",
+        "healthcare": "hospital",
+        "name": "Karva Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8461063,
+          18.5009733
+        ]
+      },
+      "id": "node/1054641704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1054647784",
+        "highway": "bus_stop",
+        "name": "Dandekar Bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8466642,
+          18.5011157
+        ]
+      },
+      "id": "node/1054647784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1110084737",
+        "amenity": "place_of_worship",
+        "name": "Dashabhuja Mandir",
+        "name:mr": "दशभुजा मंदिर",
+        "religion": "hindu",
+        "tourism": "place_of_worship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8258505,
+          18.5057991
+        ]
+      },
+      "id": "node/1110084737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1134535984",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Vishnu temple",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.846141,
+          18.496612
+        ]
+      },
+      "id": "way/1134535984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1223958268",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Nal Stop",
+        "name:mr": "नळ स्टॉप",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8319633,
+          18.5089079
+        ]
+      },
+      "id": "node/1223958268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1376915740",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "dentistry",
+        "name": "Dr. Nimisha's DentHeal Clinic",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8339237,
+          18.5053924
+        ]
+      },
+      "id": "way/1376915740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1550100886",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "temple",
+        "name": "Chandreshwar Sai Mandir",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8458861,
+          18.4992988
+        ]
+      },
+      "id": "way/1550100886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1550962225",
+        "addr:city": "pune",
+        "addr:housenumber": "r",
+        "amenity": "place_of_worship",
+        "building": "religious",
+        "name": "swami samarth temple",
+        "religion": "hindu",
+        "service_times": "6:00 am to 8:00 pm",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8392467,
+          18.4919019
+        ]
+      },
+      "id": "way/1550962225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1550962379",
+        "amenity": "place_of_worship",
+        "building": "religious",
+        "name": "wagzai mandir",
+        "religion": "hindu",
+        "service_times": "6:00 am to 9 pm",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8395515,
+          18.4922721
+        ]
+      },
+      "id": "way/1550962379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1550962487",
+        "amenity": "place_of_worship",
+        "building": "religious",
+        "name": "sai baba temple",
+        "religion": "hindu",
+        "service_times": "6:00 to 9 pm",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.839989,
+          18.4930991
+        ]
+      },
+      "id": "way/1550962487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1550969206",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Vittal temple",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8445297,
+          18.4978398
+        ]
+      },
+      "id": "way/1550969206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1550969207",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Maruti mandir",
+        "religion": "hindu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8452914,
+          18.4989713
+        ]
+      },
+      "id": "way/1550969207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1550971040",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Clinic",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8396966,
+          18.4927219
+        ]
+      },
+      "id": "way/1550971040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1550971041",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8396282,
+          18.4925024
+        ]
+      },
+      "id": "way/1550971041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1550971042",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8397815,
+          18.4928026
+        ]
+      },
+      "id": "way/1550971042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1550971043",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.839826,
+          18.4929803
+        ]
+      },
+      "id": "way/1550971043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1550971044",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8399115,
+          18.4931274
+        ]
+      },
+      "id": "way/1550971044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1550971045",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8399385,
+          18.4931587
+        ]
+      },
+      "id": "way/1550971045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1550971046",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.840141,
+          18.4934859
+        ]
+      },
+      "id": "way/1550971046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1550971047",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8403617,
+          18.4935753
+        ]
+      },
+      "id": "way/1550971047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1550975455",
+        "addr:street": "Janata Vasahat Road",
+        "amenity": "police",
+        "building": "service",
+        "name": "Parvati0 police station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.842194,
+          18.4956471
+        ]
+      },
+      "id": "way/1550975455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1881102282",
+        "check_date": "2026-03-13",
+        "name": "Baba computers",
+        "shop": "computer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8395618,
+          18.4972413
+        ]
+      },
+      "id": "node/1881102282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1884355789",
+        "addr:place": "Paschimanagari",
+        "addr:postcode": "411038",
+        "brand": "Big Bazaar",
+        "brand:wikidata": "Q3631008",
+        "name": "Reliance Smart Bazaar",
+        "name:mr": "बिग बझार",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "shop": "supermarket",
+        "website": "https://stores.reliancesmartbazaar.com/reliance-smart-bazaar-shopping-outlet-kothrud-pune-280107/Home",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.821795,
+          18.4991655
+        ]
+      },
+      "id": "node/1884355789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2027712384",
+        "amenity": "place_of_worship",
+        "name": "Dashabhuja Ganapati",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8460637,
+          18.4891341
+        ]
+      },
+      "id": "node/2027712384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2027713730",
+        "addr:city": "Pune",
+        "addr:postcode": "411009",
+        "addr:street": "Golwalkar Guruji Path",
+        "amenity": "police",
+        "name": "Laxminagar Police chowky",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8497008,
+          18.4896021
+        ]
+      },
+      "id": "node/2027713730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2027727165",
+        "addr:housename": "Savli Bungalow, Meghana Society",
+        "addr:housenumber": "Plot No 74, Sahakarnagar 2",
+        "addr:postcode": "411009",
+        "addr:street": "Dhomkar Path",
+        "amenity": "school",
+        "designation": "Arts School",
+        "name": "Forever Music Pvt. Ltd / Forever Arts Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8433439,
+          18.48977
+        ]
+      },
+      "id": "node/2027727165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2081486314",
+        "amenity": "place_of_worship",
+        "name": "Parvati",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8470954,
+          18.497561
+        ]
+      },
+      "id": "node/2081486314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2085669819",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "SNDT",
+        "name:mr": "एस एन डी टी",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8285677,
+          18.5081769
+        ]
+      },
+      "id": "node/2085669819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2088125809",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Jog Hospital",
+        "name:mr": "जोग हॉस्पिटल",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8217809,
+          18.5091844
+        ]
+      },
+      "id": "node/2088125809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2274995532",
+        "name": "Jaihind Collections",
+        "name:mr": "जयहिंद कलेक्शन्स",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8217262,
+          18.5048222
+        ]
+      },
+      "id": "node/2274995532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2296727258",
+        "amenity": "place_of_worship",
+        "name": "Navi Peth Vitthal Mandir",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8458716,
+          18.5099251
+        ]
+      },
+      "id": "node/2296727258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2509520919",
+        "amenity": "police",
+        "name": "Alankar Police Chowki",
+        "name:mr": "अलंकार पोलिस चौकी",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8262153,
+          18.4984329
+        ]
+      },
+      "id": "node/2509520919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2517303173",
+        "amenity": "police",
+        "name": "Senadatta Police Chowki",
+        "name:mr": "सेनादत्त पोलीस चौकी"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8446033,
+          18.5052065
+        ]
+      },
+      "id": "node/2517303173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2566241272",
+        "name": "Lagu Bandhu",
+        "name:mr": "लागू बंधू",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8297186,
+          18.5076157
+        ]
+      },
+      "id": "node/2566241272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2787978003",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Maruti Mandir",
+        "name:mr": "मारुती मंदिर",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8201261,
+          18.5036332
+        ]
+      },
+      "id": "node/2787978003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2787979370",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Maruti Mandir",
+        "name:mr": "मारुती मंदिर",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8202879,
+          18.5036045
+        ]
+      },
+      "id": "node/2787979370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2801208406",
+        "amenity": "place_of_worship",
+        "name": "Bal Shivaji Mitra Mandal",
+        "name:mr": "बाल शिवाजी मित्र मंडळ",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8386321,
+          18.5044665
+        ]
+      },
+      "id": "node/2801208406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2801208413",
+        "highway": "bus_stop",
+        "name": "Rakshalekha Society",
+        "name:mr": "रक्षालेखा सोसायटी"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8387012,
+          18.4986966
+        ]
+      },
+      "id": "node/2801208413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2801208414",
+        "highway": "bus_stop",
+        "name": "Rakshalekha Society",
+        "name:mr": "रक्षालेखा सोसायटी"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.838861,
+          18.4987169
+        ]
+      },
+      "id": "node/2801208414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2858176022",
+        "name": "Kheliya",
+        "name:mr": "खेळिया",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8255598,
+          18.5011458
+        ]
+      },
+      "id": "node/2858176022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2859985516",
+        "amenity": "place_of_worship",
+        "name": "Bal Tarun Mandal",
+        "name:mr": "बाल तरुण मंडळ",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8254594,
+          18.5056058
+        ]
+      },
+      "id": "node/2859985516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314864",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Nal Stop",
+        "name:mr": "नळ स्टॉप",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8320531,
+          18.509133
+        ]
+      },
+      "id": "node/2864314864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314865",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Paud Phata",
+        "name:mr": "पौड फाटा",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.82385,
+          18.5068943
+        ]
+      },
+      "id": "node/2864314865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314866",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Paud Phata",
+        "name:mr": "पौड फाटा",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8233481,
+          18.5073528
+        ]
+      },
+      "id": "node/2864314866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2868690839",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Paud Phata",
+        "name:mr": "पौड फाटा",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8242118,
+          18.5055329
+        ]
+      },
+      "id": "node/2868690839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2868690840",
+        "bus": "yes",
+        "description": "For buses going towards Karve Putala / कर्वे पुतळ्याकडे जाणाऱ्या बससाठी",
+        "highway": "bus_stop",
+        "name": "SNDT",
+        "name:mr": "एस एन डी टी",
+        "note": "For buses going towards Karve Putala / कर्वे पुतळ्याकडे जाणाऱ्या बससाठी",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8284528,
+          18.5071341
+        ]
+      },
+      "id": "node/2868690840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2868930215",
+        "amenity": "police",
+        "name": "Paud Phata Police Chowki",
+        "name:mr": "पौड फाटा पोलीस चौकी"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8245986,
+          18.5064508
+        ]
+      },
+      "id": "node/2868930215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2928753030",
+        "addr:city": "Pune",
+        "addr:housenumber": "27/2",
+        "addr:postcode": "411004",
+        "addr:street": "Gulawani Maharaj Rd",
+        "name": "Rajmal Lakhichand Jewellers",
+        "opening_hours": "10:30-20:30",
+        "phone": "020 2545 7744",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8323123,
+          18.5093845
+        ]
+      },
+      "id": "node/2928753030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2929239714",
+        "addr:street": "Karve Road",
+        "name": "Gangar Eyenation",
+        "name:mr": "गंगर आयनेशन",
+        "opening_hours": "Mo-Su 09:30-22:00",
+        "phone": "02065009194",
+        "shop": "optician",
+        "website": "https://www.gangareyenation.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8308712,
+          18.5086504
+        ]
+      },
+      "id": "node/2929239714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2939229810",
+        "addr:city": "Pune",
+        "addr:postcode": "411030",
+        "addr:street": "Lokmanya Tilak Road",
+        "name": "Agraj",
+        "name:mr": "अग्रज",
+        "opening_hours": "Mo-Su 10:00-21:00",
+        "opening_hours:covid19": "same now",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8480271,
+          18.5093772
+        ]
+      },
+      "id": "node/2939229810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3309048869",
+        "check_date": "2026-03-13",
+        "name": "Jay Ganesh",
+        "opening_hours": "07:00-23:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8344303,
+          18.4942387
+        ]
+      },
+      "id": "node/3309048869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3506849385",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Vitthalwadi Jagat Naka",
+        "public_transport": "platform",
+        "website": "https://pmpml.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8331955,
+          18.4910236
+        ]
+      },
+      "id": "node/3506849385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3535081955",
+        "addr:housename": "Ranka Jewellers",
+        "addr:housenumber": "Survey No. 19",
+        "addr:street": "Sinhagad Road",
+        "check_date": "2026-03-15",
+        "contact:phone": "02024349733",
+        "contact:website": "http://rankajewellerspune.com",
+        "name": "Ranka Jewellers",
+        "opening_hours": "Tu-Su 10:30-20:30",
+        "phone": "02024349733",
+        "shop": "jewelry",
+        "website": "http://rankajewellerspune.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8268375,
+          18.4829873
+        ]
+      },
+      "id": "node/3535081955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3535089572",
+        "addr:city": "Pune",
+        "addr:country": "IN",
+        "addr:street": "Vitthalwadi",
+        "amenity": "ice_cream",
+        "check_date": "2026-03-15",
+        "contact:phone": "09822111104",
+        "contact:website": "http://sujatamastani.com",
+        "name": "Sujata Mastani",
+        "name:mr": "सूजाता मस्तानी",
+        "opening_hours": "Tu-Su 10:00-23:00",
+        "phone": "09822111104",
+        "shop": "ice_cream",
+        "website": "http://sujatamastani.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8270307,
+          18.4823361
+        ]
+      },
+      "id": "node/3535089572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3610703511",
+        "name": "Royal Optic House",
+        "name:mr": "रॉयल ऑप्टिक हाऊस",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8307893,
+          18.5081772
+        ]
+      },
+      "id": "node/3610703511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3698222002",
+        "check_date": "2026-03-15",
+        "name": "The Cake and Cream Factory",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8261832,
+          18.481336
+        ]
+      },
+      "id": "node/3698222002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4327639789",
+        "name": "Jockey",
+        "shop": "sports"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8225826,
+          18.5001234
+        ]
+      },
+      "id": "node/4327639789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4359520989",
+        "highway": "bus_stop",
+        "name:en": "Navsahyadri bus stop",
+        "operator": "PMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8282438,
+          18.4955755
+        ]
+      },
+      "id": "node/4359520989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4359556290",
+        "amenity": "place_of_worship",
+        "name:en": "Datta Mandir",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8265432,
+          18.4983547
+        ]
+      },
+      "id": "node/4359556290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4359560089",
+        "addr:postcode": "411052",
+        "name:en": "Chitale Bandhu Mithaiwale",
+        "opening_hours": "Tu-Su 09:00-21:00",
+        "shop": "confectionery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8253536,
+          18.4943185
+        ]
+      },
+      "id": "node/4359560089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4359560289",
+        "addr:postcode": "411052",
+        "amenity": "place_of_worship",
+        "name:en": "Ramambika Devi Mandir",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8258181,
+          18.4944298
+        ]
+      },
+      "id": "node/4359560289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4415636702",
+        "name": "Vivek Hairdressers",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8446491,
+          18.5065819
+        ]
+      },
+      "id": "node/4415636702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4415723151",
+        "bus": "yes",
+        "description": "For buses going towards Paud road / पौड रस्त्याकडे जाणाऱ्या बससाठी",
+        "highway": "bus_stop",
+        "name": "SNDT",
+        "name:mr": "एस एन डी टी",
+        "note": "For buses going towards Paud road / पौड रस्त्याकडे जाणाऱ्या बससाठी",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8289997,
+          18.5073892
+        ]
+      },
+      "id": "node/4415723151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4452483933",
+        "shop": "medical_supply"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8315417,
+          18.5023212
+        ]
+      },
+      "id": "node/4452483933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4452498099",
+        "name": "Perio",
+        "shop": "fashion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8307951,
+          18.5039441
+        ]
+      },
+      "id": "node/4452498099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4452499726",
+        "name": "Umesh Ceramics",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8308875,
+          18.5043493
+        ]
+      },
+      "id": "node/4452499726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4452518042",
+        "name": "Papillon",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8269382,
+          18.4996048
+        ]
+      },
+      "id": "node/4452518042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4452524320",
+        "amenity": "school",
+        "name": "Abhinava Vidyalaya",
+        "wikidata": "Q4667437",
+        "wikipedia": "en:Abhinava Vidyalaya, Pune"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8255276,
+          18.5036978
+        ]
+      },
+      "id": "node/4452524320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4452529697",
+        "amenity": "school",
+        "name": "Government Aided School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8241285,
+          18.5035861
+        ]
+      },
+      "id": "node/4452529697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4452536072",
+        "name": "Reliance Trends",
+        "shop": "mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8335296,
+          18.50437
+        ]
+      },
+      "id": "node/4452536072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4588607105",
+        "addr:housenumber": "1267",
+        "addr:postcode": "411030",
+        "addr:street": "Lokmanya Tilak Road",
+        "email": "pune@absoluteit.net.in",
+        "internet_access": "wlan",
+        "name:en": "Lenovo Exclusive Store",
+        "opening_hours": "Mo-Su 10:30-21:00",
+        "operator": "Deepak Gupta",
+        "phone": "02041231112",
+        "shop": "electronics",
+        "website": "http://www.Laptopbazar.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8470122,
+          18.5098788
+        ]
+      },
+      "id": "node/4588607105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4666548389",
+        "check_date": "2026-03-13",
+        "name:en": "Uttam wines",
+        "shop": "wine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8455638,
+          18.5009006
+        ]
+      },
+      "id": "node/4666548389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4815675029",
+        "addr:housenumber": "G-4  1549",
+        "addr:postcode": "411030",
+        "addr:street": "Lokmanya Tilak Road",
+        "email": "pune@absoluteit.net.in",
+        "internet_access": "wlan",
+        "name:en": "LENOVO EXCLUSIVE STORE ABSOLUTE IT SOLUTION",
+        "phone": "02041231112",
+        "shop": "hardware",
+        "website": "http://www.laptopbazar.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8469958,
+          18.5099017
+        ]
+      },
+      "id": "node/4815675029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4846859921",
+        "check_date": "2026-03-13",
+        "name:en": "Vanhausen",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8357044,
+          18.4939867
+        ]
+      },
+      "id": "node/4846859921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4846864321",
+        "amenity": "hospital",
+        "check_date": "2026-03-15",
+        "healthcare": "hospital",
+        "name:en": "New Vithhal Furniture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8273409,
+          18.4831808
+        ]
+      },
+      "id": "node/4846864321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5253713305",
+        "amenity": "police",
+        "name": "Dattawadi Police Chowki",
+        "phone": "+91-100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.840267,
+          18.5010017
+        ]
+      },
+      "id": "node/5253713305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5283182831",
+        "amenity": "place_of_worship",
+        "name": "Hanuman Mandir",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8264405,
+          18.4899143
+        ]
+      },
+      "id": "node/5283182831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5554773703",
+        "amenity": "place_of_worship",
+        "name": "Maruti Mandir",
+        "name:mr": "मारुती मंदिर",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8204814,
+          18.5034501
+        ]
+      },
+      "id": "node/5554773703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5713386201",
+        "addr:postcode": "411052",
+        "name": "Aai Shoes",
+        "opening_hours": "Mo-Su 9:00-21:00",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.825656,
+          18.4936877
+        ]
+      },
+      "id": "node/5713386201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5713386203",
+        "addr:postcode": "411052",
+        "name": "Ram Mobile Store",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8256332,
+          18.4936101
+        ]
+      },
+      "id": "node/5713386203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5795521361",
+        "addr:housenumber": "38/2/5",
+        "addr:place": "Shree Swami Chhaya Apartments",
+        "addr:postcode": "411052",
+        "description": "Two Wheeler Care shop",
+        "name": "Manny's Automobiles",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8256994,
+          18.4939774
+        ]
+      },
+      "id": "node/5795521361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5795521363",
+        "addr:postcode": "411052",
+        "name": "Spec N shades",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8252778,
+          18.493876
+        ]
+      },
+      "id": "node/5795521363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5795521437",
+        "addr:postcode": "411052",
+        "name": "Sarin Enterprises",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8247629,
+          18.4915624
+        ]
+      },
+      "id": "node/5795521437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5796441163",
+        "addr:housenumber": "Shop No. 1",
+        "addr:place": "Ganga Vishnu Sankul Society",
+        "addr:postcode": "411052",
+        "name": "Kardile Opticks",
+        "opening_hours": "Mo-Su 10:00-13:00, 17:00-21:00",
+        "phone": "020 2532 4840",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8249853,
+          18.4924564
+        ]
+      },
+      "id": "node/5796441163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5796441164",
+        "addr:housenumber": "Shop No. 4",
+        "addr:place": "Ganga Vishnu Sankul Society",
+        "addr:postcode": "411052",
+        "female": "only",
+        "name": "Cuts & Curls",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8249607,
+          18.4923364
+        ]
+      },
+      "id": "node/5796441164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5796441165",
+        "addr:housenumber": "Shop No. 5",
+        "addr:place": "Ganga Vishnu Sankul Society",
+        "addr:postcode": "411052",
+        "alt_name": "Oppo",
+        "name": "Valentino Mobile",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8249087,
+          18.4923532
+        ]
+      },
+      "id": "node/5796441165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5796441169",
+        "addr:housenumber": "Shop No. 6",
+        "addr:place": "Ganga Vishnu Sankul Society",
+        "addr:postcode": "411052",
+        "name": "Tej Travels",
+        "shop": "travel_agency"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8248688,
+          18.4923624
+        ]
+      },
+      "id": "node/5796441169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5796441170",
+        "addr:housenumber": "Shop No. 7",
+        "addr:place": "Ganga Vishnu Sankul Society",
+        "addr:postcode": "411052",
+        "name": "Sajag Securites Karve Nagar Branch",
+        "operator": "Sajag Securites Pvt. Ltd.",
+        "shop": "computer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8248222,
+          18.4923723
+        ]
+      },
+      "id": "node/5796441170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5796441172",
+        "addr:housenumber": "Shop No. 11",
+        "addr:place": "Ganga Vishnu Sankul Society",
+        "addr:postcode": "411052",
+        "description": "Alternative Phone Number: 09225506626",
+        "name": "Sparkling Fashion's",
+        "phone": "064006626",
+        "shop": "tailor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8247725,
+          18.492462
+        ]
+      },
+      "id": "node/5796441172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5796441173",
+        "addr:housenumber": "Shop No. 10",
+        "addr:place": "Ganga Vishnu Sankul Society",
+        "addr:postcode": "411052",
+        "description": "Alternative Phone Number: 09225506626",
+        "name": "Sparkling Fashion's",
+        "phone": "064006626",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8247434,
+          18.492386
+        ]
+      },
+      "id": "node/5796441173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5796441174",
+        "addr:housenumber": "Shop No. 11",
+        "addr:place": "Ganga Vishnu Sankul Society",
+        "addr:postcode": "411052",
+        "name": "Samrudhi Tailors",
+        "name:mr": "समृद्धी टेलर्स",
+        "phone": "0 98509 94418",
+        "shop": "tailor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8247107,
+          18.4923939
+        ]
+      },
+      "id": "node/5796441174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5796441176",
+        "addr:housenumber": "Shop No. 13",
+        "addr:place": "Ganga Vishnu Sankul Society",
+        "addr:postcode": "411052",
+        "name": "Samartha Drycleaners",
+        "name:mr": "समर्थ द्रिक्लीनर्स",
+        "phone": "09373352827",
+        "shop": "laundry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8246566,
+          18.4924092
+        ]
+      },
+      "id": "node/5796441176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5796441177",
+        "addr:housenumber": "Shop No. 12",
+        "addr:place": "Ganga Vishnu Sankul Society",
+        "addr:postcode": "411052",
+        "name": "Image Hairdressers",
+        "name:mr": "इमेज हेअर ड्रेसर्स",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8246827,
+          18.4924003
+        ]
+      },
+      "id": "node/5796441177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5796441178",
+        "addr:housenumber": "Shop No. 14",
+        "addr:place": "Ganga Vishnu Sankul Society",
+        "addr:postcode": "411052",
+        "name": "Taste The Best",
+        "organic": "only",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8246334,
+          18.492413
+        ]
+      },
+      "id": "node/5796441178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5796441179",
+        "addr:full": "Shop No. 16, Ganga Vishnu Sankul CHS, Pune - 411052",
+        "addr:housename": "Shop No. 16",
+        "addr:housenumber": "Shop No. 15",
+        "addr:place": "Ganga Vishnu Sankul Society",
+        "addr:postcode": "411052",
+        "name": "Nourish",
+        "operator": "Nourish Agro Tech Pvt. Ltd",
+        "organic": "only",
+        "phone": "07769957565",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8245992,
+          18.4924216
+        ]
+      },
+      "id": "node/5796441179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5796441180",
+        "addr:housenumber": "Shop No. 16",
+        "addr:place": "Ganga Vishnu Sankul Society",
+        "addr:postcode": "411052",
+        "name": "Tulshi Super Shopee",
+        "shop": "general"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8245738,
+          18.4924318
+        ]
+      },
+      "id": "node/5796441180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5803624690",
+        "addr:postcode": "411052",
+        "name": "Salon Kunal",
+        "name:mr": "सॅलाॅन कुणाल",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8251363,
+          18.4930009
+        ]
+      },
+      "id": "node/5803624690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5803624691",
+        "addr:postcode": "411052",
+        "brand": "Vodafone Idea",
+        "brand:wikidata": "Q1656673",
+        "name": "Vodafone Idea",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8251216,
+          18.4929589
+        ]
+      },
+      "id": "node/5803624691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5803624698",
+        "addr:postcode": "411052",
+        "name": "Shree Ganesh Dry-Cleaners",
+        "name:mr": "श्री गणेश ड्राय-क्लीनर्स",
+        "operator": "Shree Ganesh Enterprises",
+        "shop": "dry_cleaning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8253952,
+          18.4927284
+        ]
+      },
+      "id": "node/5803624698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5803624699",
+        "addr:postcode": "411052",
+        "female": "yes",
+        "name": "Enhance Salon",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8253918,
+          18.4927062
+        ]
+      },
+      "id": "node/5803624699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5803624700",
+        "addr:postcode": "411052",
+        "name": "Swaroop Computers",
+        "phone": "9890199798",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8253871,
+          18.4926766
+        ]
+      },
+      "id": "node/5803624700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5803624701",
+        "addr:postcode": "411052",
+        "alt_name": "Aaswad",
+        "description": "Sells lots of different types of flour",
+        "name": "Aswad",
+        "name:mr": "आस्वाद",
+        "phone": "9822491312",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8253415,
+          18.4925523
+        ]
+      },
+      "id": "node/5803624701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5803624702",
+        "addr:postcode": "411052",
+        "name": "Eira",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8253285,
+          18.4925208
+        ]
+      },
+      "id": "node/5803624702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5803624704",
+        "addr:postcode": "411052",
+        "name": "Pehnava",
+        "name:mr": "पेहनावा",
+        "shop": "boutique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8252802,
+          18.492295
+        ]
+      },
+      "id": "node/5803624704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5803624707",
+        "addr:postcode": "411052",
+        "alt_name": "oppo",
+        "name": "Smart Care Mobile Zone",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8253094,
+          18.4924
+        ]
+      },
+      "id": "node/5803624707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5803624714",
+        "addr:postcode": "411052",
+        "name": "Ram Medicals",
+        "shop": "chemist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8254317,
+          18.4928884
+        ]
+      },
+      "id": "node/5803624714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5803624715",
+        "addr:postcode": "411052",
+        "brand": "Bata",
+        "brand:wikidata": "Q688082",
+        "description": "Name is bata but the shop is not a official branch of bata, so quality of shoes are not up to bata standards",
+        "name": "Bata",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8254461,
+          18.4929183
+        ]
+      },
+      "id": "node/5803624715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5803625322",
+        "addr:postcode": "411052",
+        "name": "Agraj Food Processors",
+        "opening_hours": "10:00-14:00, 16:00-21:00",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:cryptocurrencies": "no",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:phonepe": "yes",
+        "payment:sodexo": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:zeta_super_card": "yes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8254352,
+          18.4940596
+        ]
+      },
+      "id": "node/5803625322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5803625323",
+        "addr:postcode": "411052",
+        "name": "Punthambaker Optics",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8254215,
+          18.4940327
+        ]
+      },
+      "id": "node/5803625323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5803625352",
+        "addr:postcode": "411052",
+        "name": "Vibgyor",
+        "second_hand": "no",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8252333,
+          18.493709
+        ]
+      },
+      "id": "node/5803625352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5803625453",
+        "addr:postcode": "411052",
+        "alt_name": "Philips",
+        "level": "0",
+        "name": "Ram Electronics & Electricals",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.825337,
+          18.4936912
+        ]
+      },
+      "id": "node/5803625453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5808676326",
+        "name": "Jio",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8236186,
+          18.4904944
+        ]
+      },
+      "id": "node/5808676326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5812075037",
+        "amenity": "place_of_worship",
+        "check_date": "2026-03-13",
+        "name": "Navshya Maruti",
+        "name:mr": "नवश्या मारुती",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8354065,
+          18.4936324
+        ]
+      },
+      "id": "node/5812075037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5818757656",
+        "description": "alternative phone number: 09028445692",
+        "name": "Naresh Trading Company",
+        "phone": "020 25443215",
+        "shop": "trade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8254938,
+          18.4941977
+        ]
+      },
+      "id": "node/5818757656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5818757657",
+        "name": "Baker's Basket",
+        "shop": "confectionery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.82548,
+          18.4941678
+        ]
+      },
+      "id": "node/5818757657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5818757658",
+        "name": "Chocolates Ice Creams Dryfruits",
+        "shop": "confectionery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.825471,
+          18.4941408
+        ]
+      },
+      "id": "node/5818757658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5818757659",
+        "name": "Monginis Cake Shop",
+        "shop": "confectionery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8254612,
+          18.4941138
+        ]
+      },
+      "id": "node/5818757659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5818757661",
+        "name": "Jahagirdar Bakers",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8253959,
+          18.4939777
+        ]
+      },
+      "id": "node/5818757661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5818757667",
+        "description": "General Food Store, sells ONLY food items",
+        "name": "Rajashree",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.825358,
+          18.4939198
+        ]
+      },
+      "id": "node/5818757667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5818757668",
+        "name": "Prime Medical General Store",
+        "shop": "chemist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8256344,
+          18.4929985
+        ]
+      },
+      "id": "node/5818757668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5818757671",
+        "email": "aryanphotos4@gmail.com",
+        "name": "Aryan Photo's",
+        "shop": "photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8252265,
+          18.4936728
+        ]
+      },
+      "id": "node/5818757671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5818757672",
+        "name": "Viva Fashions",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8252121,
+          18.4936114
+        ]
+      },
+      "id": "node/5818757672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5818757674",
+        "name": "Arham Medical",
+        "shop": "chemist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8253167,
+          18.4935179
+        ]
+      },
+      "id": "node/5818757674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5818757675",
+        "female": "yes",
+        "name": "Arohi's Collection",
+        "shop": "boutique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8222034,
+          18.491131
+        ]
+      },
+      "id": "node/5818757675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5818757676",
+        "alt_name": "New Poona Bakery",
+        "name": "New Pune Bakery",
+        "name:mr": "न्यू पूना बेकरी",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8222396,
+          18.4911167
+        ]
+      },
+      "id": "node/5818757676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5818757677",
+        "FIXME": "resurvey",
+        "name": "Gayatri",
+        "note": "requires re-sruvey, details were added from unclear photo",
+        "phone": "+91 9872086924",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8248473,
+          18.4904604
+        ]
+      },
+      "id": "node/5818757677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5818757678",
+        "amenity": "clinic",
+        "description": "Alternative Phone Number: 08275391884",
+        "healthcare:speciality": "ayurveda",
+        "name": "Vishvand Ayurvedic Clinic",
+        "opening_hours": "10:00-13:00, 18:00-21:00",
+        "phone": "094225 66929"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8248393,
+          18.4904025
+        ]
+      },
+      "id": "node/5818757678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5818757679",
+        "name": "Giriraj Inner Shoppe",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8248252,
+          18.4903033
+        ]
+      },
+      "id": "node/5818757679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5818757680",
+        "name": "Inner Casuals",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8248145,
+          18.4902632
+        ]
+      },
+      "id": "node/5818757680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5818757681",
+        "name": "Bodybasics",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8248111,
+          18.4902302
+        ]
+      },
+      "id": "node/5818757681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5818757698",
+        "name": "Siya Creations",
+        "shop": "tailor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8246784,
+          18.4912279
+        ]
+      },
+      "id": "node/5818757698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5818757699",
+        "name": "Orchid Flora",
+        "shop": "garden_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8247025,
+          18.4913583
+        ]
+      },
+      "id": "node/5818757699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5832220036",
+        "name": "Ribbons & Balloons",
+        "name:mr": "रिबन्स अँड बलून्स",
+        "shop": "pastry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8250458,
+          18.5055066
+        ]
+      },
+      "id": "node/5832220036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5832462254",
+        "name": "Ajantha",
+        "name:mr": "अजंठा",
+        "shop": "confectionery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8445106,
+          18.507177
+        ]
+      },
+      "id": "node/5832462254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5832462255",
+        "name": "WS Bakers",
+        "name:mr": "डब्ल्यू एस बेकर्स",
+        "shop": "pastry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8445059,
+          18.5072127
+        ]
+      },
+      "id": "node/5832462255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5832462256",
+        "check_date": "2026-03-15",
+        "name": "Kanhere's Studio Event",
+        "name:mr": "कान्हेरेज स्टुडिओ इव्हेंट",
+        "shop": "photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.84199,
+          18.504816
+        ]
+      },
+      "id": "node/5832462256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5832462257",
+        "check_date": "2026-03-15",
+        "name": "Travel India Club",
+        "name:mr": "ट्रॅव्हल इंडिया क्लब",
+        "shop": "travel_agency"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8420309,
+          18.5048154
+        ]
+      },
+      "id": "node/5832462257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5832462258",
+        "check_date": "2026-03-15",
+        "name": "Papillon",
+        "name:mr": "पॅपिलॉन",
+        "shop": "hairdresser",
+        "website": "https://www.papillonhairworld.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8418371,
+          18.504823
+        ]
+      },
+      "id": "node/5832462258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5832462260",
+        "check_date": "2026-03-15",
+        "name": "Nutan Gift Shopee",
+        "name:mr": "नूतन गिफ्ट शॉपी",
+        "shop": "gift"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8394956,
+          18.5050221
+        ]
+      },
+      "id": "node/5832462260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5832462261",
+        "check_date": "2026-03-15",
+        "name": "Mayur Sweets",
+        "name:mr": "मयूर स्वीट्स",
+        "shop": "confectionery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8394526,
+          18.5050074
+        ]
+      },
+      "id": "node/5832462261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5832548492",
+        "name": "Tilak Automobiles",
+        "name:mr": "टिळक ऑटोमोबाइल्स",
+        "shop": "car_parts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8499528,
+          18.5082269
+        ]
+      },
+      "id": "node/5832548492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5832548496",
+        "addr:city": "Pune",
+        "addr:housenumber": "1646",
+        "addr:postcode": "411030",
+        "addr:street": "Lokmanya Tilak Road",
+        "description": "Spacious & long-running shop offering a wide range of sports equipment, apparel & accessories.",
+        "name": "Shakti Sports",
+        "name:mr": "शक्ती स्पोर्ट्स",
+        "opening_hours": "Mo-Su 10:30-21:00",
+        "phone": "020 4860 6444",
+        "shop": "sports",
+        "sport": "table_tennis;basketball;soccer;gymnastics;tennis;chess;volleyball;multi",
+        "website": "https://shaktisportsonline.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8485742,
+          18.5088627
+        ]
+      },
+      "id": "node/5832548496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839779120",
+        "bench": "yes",
+        "covered": "yes",
+        "highway": "bus_stop",
+        "name": "Kaivilas Bhai Burat Bus stop",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8220847,
+          18.4914276
+        ]
+      },
+      "id": "node/5839779120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839779121",
+        "name": "Keshatawar Provision Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.823412,
+          18.4905637
+        ]
+      },
+      "id": "node/5839779121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839779126",
+        "name": "Just In Collection",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8232186,
+          18.4906206
+        ]
+      },
+      "id": "node/5839779126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839779132",
+        "name": "Medplus",
+        "shop": "chemist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8231451,
+          18.4906588
+        ]
+      },
+      "id": "node/5839779132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839779133",
+        "alt_phone": "7620207711",
+        "name": "Dantale Art Jewellry",
+        "phone": "9850509323",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8231009,
+          18.4906664
+        ]
+      },
+      "id": "node/5839779133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839779134",
+        "email": "innovations.wallpapers@gmail.com",
+        "name": "Wallpapers, Carpet Galleries",
+        "phone": "+91 9552553451",
+        "shop": "interior_decoration"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.823059,
+          18.4906734
+        ]
+      },
+      "id": "node/5839779134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839779137",
+        "addr:full": "Shop No. 1, Marygold Apartments, Shreeman Society, Vithal Mandir oad, Opp. Indusind Bank, Karve Nagar, Pune 411052",
+        "addr:housename": "Shop No. 1",
+        "addr:place": "Marygold Apartments",
+        "email": "rpardeshi062@gmail.com",
+        "female": "yes",
+        "name": "Reshama's Ladies Tailor",
+        "shop": "tailor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8229202,
+          18.4907116
+        ]
+      },
+      "id": "node/5839779137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839779138",
+        "addr:housename": "Shop No. 2",
+        "addr:place": "Marygold Apartments",
+        "alt_name": "Oraimo",
+        "loc_name": "Xerox",
+        "name": "Apex Mobile Gallery",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8228578,
+          18.4907217
+        ]
+      },
+      "id": "node/5839779138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839779141",
+        "name": "3M Car Care",
+        "operator": "3M",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8218724,
+          18.4912458
+        ]
+      },
+      "id": "node/5839779141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839779143",
+        "name": "Furniture Sankul",
+        "shop": "furniture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.821976,
+          18.4912057
+        ]
+      },
+      "id": "node/5839779143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839779144",
+        "name": "Akshay Hardware and Electricals",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8220149,
+          18.4911923
+        ]
+      },
+      "id": "node/5839779144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839779145",
+        "name": "Maharastra Chemist",
+        "shop": "chemist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8220481,
+          18.4911834
+        ]
+      },
+      "id": "node/5839779145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839779146",
+        "name": "Siddharth Collection",
+        "shop": "tailor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.822084,
+          18.4911717
+        ]
+      },
+      "id": "node/5839779146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839779147",
+        "alt_name": "Pedigree",
+        "name": "Mighty Doggys & Cat",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8221192,
+          18.4911596
+        ]
+      },
+      "id": "node/5839779147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839779148",
+        "name": "Gungothri Home Appliances, Sales and Service",
+        "phone": "0 9370249696",
+        "shop": "houseware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8221581,
+          18.4911431
+        ]
+      },
+      "id": "node/5839779148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839779149",
+        "name": "Rajesh Home Appliances",
+        "shop": "houseware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8222778,
+          18.4910998
+        ]
+      },
+      "id": "node/5839779149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839779150",
+        "name": "Rajendra Cycle Centre",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8223613,
+          18.4910728
+        ]
+      },
+      "id": "node/5839779150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839779151",
+        "name": "amante",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8225956,
+          18.4909907
+        ]
+      },
+      "id": "node/5839779151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839779152",
+        "clothes": "underwear",
+        "description": "Undergarments shop",
+        "name": "Eve's Secret",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8225467,
+          18.4910098
+        ]
+      },
+      "id": "node/5839779152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839779153",
+        "brand": "Triumph",
+        "brand:wikidata": "Q671216",
+        "clothes": "underwear",
+        "name": "Triumph",
+        "phone": "020 2545 5179",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8225085,
+          18.4910219
+        ]
+      },
+      "id": "node/5839779153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839779154",
+        "name": "Ghodela Ply And Hardware",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8224565,
+          18.4910378
+        ]
+      },
+      "id": "node/5839779154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839779155",
+        "amenity": "clinic",
+        "gst:feat_id": "27ABMPY557B1Z5",
+        "name": "N. Madhav Ayurvedic",
+        "phone": "9860844490"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8224069,
+          18.4910572
+        ]
+      },
+      "id": "node/5839779155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839779156",
+        "name": "Imax - The Optic",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8223177,
+          18.4910871
+        ]
+      },
+      "id": "node/5839779156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5921458586",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8254562,
+          18.4929659
+        ]
+      },
+      "id": "node/5921458586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5921458587",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8254046,
+          18.4939224
+        ]
+      },
+      "id": "node/5921458587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5921458588",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8253764,
+          18.4939287
+        ]
+      },
+      "id": "node/5921458588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5982741585",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Lakshmi Nagar",
+        "note": "area: Sahakar Nagar",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8498176,
+          18.4923891
+        ]
+      },
+      "id": "node/5982741585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5982741586",
+        "highway": "bus_stop",
+        "name": "sarang society",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.849857,
+          18.4899588
+        ]
+      },
+      "id": "node/5982741586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6110873376",
+        "name": "Krazy Kids",
+        "name:mr": "क्रेझी किड्स",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8207007,
+          18.5042285
+        ]
+      },
+      "id": "node/6110873376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6110873377",
+        "name": "Rajesh Bakery",
+        "name:mr": "राजेश बेकरी",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8208669,
+          18.5042848
+        ]
+      },
+      "id": "node/6110873377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6110873378",
+        "brand": "Manyavar",
+        "brand:wikidata": "Q24906783",
+        "name": "Manyavar",
+        "name:mr": "मान्यवर",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8207427,
+          18.5042427
+        ]
+      },
+      "id": "node/6110873378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6110873379",
+        "name": "Laxmi Hardware and Electricals",
+        "name:mr": "लक्ष्मी हार्डवेअर अँड इलेक्ट्रिकल्स",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8204733,
+          18.5040797
+        ]
+      },
+      "id": "node/6110873379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6145441618",
+        "name": "Pets Gallery",
+        "name:mr": "पेट्स गॅलरी",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8307187,
+          18.5081417
+        ]
+      },
+      "id": "node/6145441618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6145441621",
+        "name": "Hindusthan Bakery",
+        "name:mr": "हिंदुस्थान बेकरी",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8238703,
+          18.505553
+        ]
+      },
+      "id": "node/6145441621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6145441626",
+        "name": "C. M. Drycleaners",
+        "name:mr": "सी. एम. ड्रायक्लीनर्स",
+        "shop": "dry_cleaning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8225051,
+          18.5051076
+        ]
+      },
+      "id": "node/6145441626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6145441627",
+        "name": "Tea Emporium",
+        "name:mr": "टी एम्पोरियम",
+        "shop": "tea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8225723,
+          18.5051127
+        ]
+      },
+      "id": "node/6145441627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6145441628",
+        "name": "Vijay Car Accessories",
+        "name:mr": "विजय कार ॲक्सेसरीज",
+        "shop": "car_parts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8225068,
+          18.505082
+        ]
+      },
+      "id": "node/6145441628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6145441651",
+        "name": "Premkiran Super Market",
+        "name:mr": "प्रेमकिरण सुपर मार्केट",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.820777,
+          18.5042543
+        ]
+      },
+      "id": "node/6145441651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6145520668",
+        "name": "Dattatray Vishwanath Hurne",
+        "name:mr": "दत्तात्रय विश्वनाथ हुरणे",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8292569,
+          18.5031055
+        ]
+      },
+      "id": "node/6145520668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6145520670",
+        "name": "Rich Bit Salon",
+        "name:mr": "रिच बिट सलून",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8243347,
+          18.5007301
+        ]
+      },
+      "id": "node/6145520670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6145520671",
+        "name": "M4U",
+        "name:mr": "एम४यू",
+        "shop": "video"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8226597,
+          18.5000834
+        ]
+      },
+      "id": "node/6145520671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6145520672",
+        "name": "Galaxy Optics",
+        "name:mr": "गॅलॅक्सी ऑप्टिक्स",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8226265,
+          18.5000735
+        ]
+      },
+      "id": "node/6145520672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6145520673",
+        "name": "Ambika Ladies Tailors",
+        "name:mr": "अंबिका लेडीज टेलर्स",
+        "shop": "tailor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8225956,
+          18.5000634
+        ]
+      },
+      "id": "node/6145520673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6145520674",
+        "name": "Utsav",
+        "name:mr": "उत्सव",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8227794,
+          18.5001298
+        ]
+      },
+      "id": "node/6145520674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7048084570",
+        "addr:district": "Pune",
+        "addr:full": "18, Laxmi Park, Shastri Road, Navi Peth",
+        "addr:postcode": "411030",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "email": "bhidehospital@gmail.com",
+        "healthcare": "hospital",
+        "name": "Bhide Hospital",
+        "source": "OpenGovernmentData",
+        "website": "https://bhidehospital.in/contact-us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8443399,
+          18.5048666
+        ]
+      },
+      "id": "node/7048084570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7048433652",
+        "addr:district": "Pune",
+        "addr:full": "Shop No.5, Krishnai Complex, OppositeCorporation Bank, Karve Nagar",
+        "addr:postcode": "411052",
+        "addr:state": "Maharashtra",
+        "amenity": "clinic",
+        "name": "Dental Clinic",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8211372,
+          18.492082
+        ]
+      },
+      "id": "node/7048433652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7051826113",
+        "addr:district": "Pune",
+        "addr:full": "2nd Floor, Yugay Complex, Ganesh Nagar, Erandwana",
+        "addr:postcode": "411038",
+        "addr:state": "Maharashtra",
+        "amenity": "clinic",
+        "name": "Nayan Tara Eye Clinic",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8251773,
+          18.5010261
+        ]
+      },
+      "id": "node/7051826113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7052133789",
+        "addr:district": "Pune",
+        "addr:full": "No. 68 / 4, Karve Road",
+        "addr:postcode": "411004",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Nachiket Hospital Pvt Ltd",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.831062,
+          18.5076864
+        ]
+      },
+      "id": "node/7052133789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7052829258",
+        "addr:district": "Pune",
+        "addr:full": "257-258, Karve Road, Near Paud Phata",
+        "addr:postcode": "411038",
+        "addr:state": "Maharashtra",
+        "amenity": "clinic",
+        "name": "Jeevan Sadhana Clinic - Pune",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8240199,
+          18.5052192
+        ]
+      },
+      "id": "node/7052829258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7053195972",
+        "addr:district": "Pune",
+        "addr:full": "86-87,Parvati, 668,Bibvewadi,Manmohan Park",
+        "addr:postcode": "411009",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Dr.Purohit Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8443121,
+          18.490344
+        ]
+      },
+      "id": "node/7053195972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7054803809",
+        "addr:district": "Pune",
+        "addr:full": "Gynaec-Surgical & Maternity Home,34/4 B,Erandwana",
+        "addr:postcode": "411004",
+        "addr:state": "Maharashtra",
+        "amenity": "clinic",
+        "name": "Ameya Clinic",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.829328,
+          18.5037236
+        ]
+      },
+      "id": "node/7054803809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7062497086",
+        "addr:district": "Pune",
+        "addr:full": "210/B, Navi Peth",
+        "addr:postcode": "411030",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Chinmay Institute Of Paediatrics",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8457009,
+          18.5083289
+        ]
+      },
+      "id": "node/7062497086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7063808901",
+        "addr:district": "Pune",
+        "addr:full": "32 / 2 A, Erandwane, Gulawani Maharaj Ro,Near Mehendale Garage & Abhishek Hotel",
+        "addr:postcode": "411004",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Ace Hospital",
+        "source": "OpenGovernmentData",
+        "wikidata": "Q52856456"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8303593,
+          18.504933
+        ]
+      },
+      "id": "node/7063808901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7065561512",
+        "addr:district": "Pune",
+        "addr:full": "577/2, Near Dattawadi Police Chowky, , Off. Sinhagad Road",
+        "addr:postcode": "411030",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Global Hospital & Research Institute",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8410144,
+          18.5013237
+        ]
+      },
+      "id": "node/7065561512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7065820589",
+        "addr:district": "Pune",
+        "addr:full": "13/4, Karve Road, Behind Ranka Jwellers",
+        "addr:postcode": "411004",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Lokmanya Hospital, Pune",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.834105,
+          18.5089079
+        ]
+      },
+      "id": "node/7065820589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7067050966",
+        "addr:district": "Pune",
+        "addr:full": "26, Shri Niketan Society, Jayant Pandurang Naik Path, Kothrud",
+        "addr:postcode": "411038",
+        "addr:state": "Maharashtra",
+        "amenity": "clinic",
+        "name": "Marathe Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8203453,
+          18.5047181
+        ]
+      },
+      "id": "node/7067050966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7073949807",
+        "addr:district": "Pune",
+        "addr:full": "272, Parth Complex, Navi Peth",
+        "addr:postcode": "411030",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dr.Pawar Eye Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8449264,
+          18.5092716
+        ]
+      },
+      "id": "node/7073949807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7076447151",
+        "addr:district": "Pune",
+        "addr:full": "14, Saket Society, Opp. Siddharth Palace Hall, Near Karishma Society and Joshi Railway Museum, Kothrud Pune",
+        "addr:postcode": "411038",
+        "addr:state": "Maharashtra",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Prabhudesai Eye Clinic",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8202762,
+          18.5009346
+        ]
+      },
+      "id": "node/7076447151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7080269671",
+        "addr:district": "Pune",
+        "addr:full": "1536, Laxmi Chambers, Sadashiv Peth, Tilak Road",
+        "addr:postcode": "411030",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Ram Krishna Hospital, Pune",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8483354,
+          18.5092455
+        ]
+      },
+      "id": "node/7080269671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7082733164",
+        "addr:district": "Pune",
+        "addr:full": "Shop No 7, Abhijeet Apartment, Paud Phata Road, Behind Kirti Hardware, Opposite Indira Heights, Karve Road",
+        "addr:postcode": "411038",
+        "addr:state": "Maharashtra",
+        "amenity": "clinic",
+        "name": "Apte Eye Clinic and Laser Center",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8251156,
+          18.504769
+        ]
+      },
+      "id": "node/7082733164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7226627720",
+        "addr:district": "Pune",
+        "addr:full": "Near Mahatre Bridge, Dattawadi, Pune",
+        "addr:postcode": "411030",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Pune City",
+        "amenity": "hospital",
+        "check_date": "2026-03-15",
+        "healthcare": "hospital",
+        "name": "Late Anandibai Narhar Gadgil Hospital",
+        "operator": "Public",
+        "operator:type": "public",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8386813,
+          18.5024088
+        ]
+      },
+      "id": "node/7226627720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7621410003",
+        "addr:district": "Pune",
+        "addr:full": "50/51, LB Shastri Road, Near Dandekar Bridge, Navi Peth, Laxmi Park, Sadashiv Peth, Pune",
+        "addr:postcode": "411030",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "check_date": "2026-03-13",
+        "name": "Colony Nursing Home",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8446917,
+          18.5030769
+        ]
+      },
+      "id": "node/7621410003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7651453309",
+        "addr:district": "Pune",
+        "addr:full": "D-2 Rakshalekha Society, Dattawadi, Pune",
+        "addr:postcode": "411030",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Anup Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.838315,
+          18.498738
+        ]
+      },
+      "id": "node/7651453309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7651453312",
+        "addr:district": "Pune",
+        "addr:full": "Lal Bahadur Shastri Road, Asha Colony, Lokamanya Nagar, Sadashiv Peth, Pune",
+        "addr:postcode": "411030",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Apex Superspeciality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8439447,
+          18.5075984
+        ]
+      },
+      "id": "node/7651453312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7651453317",
+        "addr:district": "Pune",
+        "addr:full": "514, Datta Wadi Road, Dattawadi, Pune",
+        "addr:postcode": "411030",
+        "addr:state": "Maharastra",
+        "amenity": "clinic",
+        "name": "Dhaumya Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.840414,
+          18.502148
+        ]
+      },
+      "id": "node/7651453317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7651453322",
+        "addr:district": "Pune",
+        "addr:full": "Maruti Temple, Near Live Well Furniture, V Kamble Road, Navi Peth, Dattawadi, Pune",
+        "addr:postcode": "411030",
+        "addr:state": "Maharastra",
+        "amenity": "clinic",
+        "check_date": "2026-03-15",
+        "name": "Mansi Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.838753,
+          18.50356
+        ]
+      },
+      "id": "node/7651453322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7651453327",
+        "addr:district": "Pune",
+        "addr:full": "Om Banglow, Plot No.29, Kamkaditya Society, Laxmi Park Colony, Sadashiv Peth, Pune",
+        "addr:postcode": "411030",
+        "addr:state": "Maharastra",
+        "amenity": "clinic",
+        "name": "Shree Datta Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8428903,
+          18.5047686
+        ]
+      },
+      "id": "node/7651453327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7651453338",
+        "addr:district": "Pune",
+        "addr:full": "Plot No 23, Raghukul Society, Girija Shankar Vihar, Karve Nagar, Pune",
+        "addr:postcode": "411052",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Bhagirathi Children's Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8229041,
+          18.4947224
+        ]
+      },
+      "id": "node/7651453338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7651453342",
+        "addr:district": "Pune",
+        "addr:full": "Ashok Balakwade Path, Asha Colony, Lokamanya Nagar, Navi Peth, Sadashiv Peth, Pune",
+        "addr:postcode": "411030",
+        "addr:state": "Maharastra",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Sammohini Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.843714,
+          18.508126
+        ]
+      },
+      "id": "node/7651453342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7651453344",
+        "addr:district": "Pune",
+        "addr:full": "Tulshibagwale Colony Road, Lakhshmi Nagar, Sahakar Nagar, Parvati Paytha, Pune",
+        "addr:postcode": "411009",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Shraddha Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.845933,
+          18.4909252
+        ]
+      },
+      "id": "node/7651453344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7651453346",
+        "addr:district": "Pune",
+        "addr:full": "Patwardhan Baug Road, Laxminarayan Nagar, Vakil Nagar, Dattawadi, Pune",
+        "addr:postcode": "411004",
+        "addr:state": "Maharastra",
+        "amenity": "clinic",
+        "name": "Apte Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8306701,
+          18.4993672
+        ]
+      },
+      "id": "node/7651453346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7651453394",
+        "addr:district": "Pune",
+        "addr:full": "207,The Fourth Dimension Apts, Gulawani Maharaj Road, Erandwane, Pune",
+        "addr:postcode": "411004",
+        "addr:state": "Maharastra",
+        "amenity": "clinic",
+        "name": "Nadkarni Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.828831,
+          18.502818
+        ]
+      },
+      "id": "node/7651453394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7651453400",
+        "addr:district": "Pune",
+        "addr:full": "#42/2, Vighnahar Complex, karve Road, Paud Phata, Pune",
+        "addr:postcode": "411038",
+        "addr:state": "Maharastra",
+        "amenity": "clinic",
+        "name": "Mansanjeevani Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.825311,
+          18.50551
+        ]
+      },
+      "id": "node/7651453400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7651453402",
+        "addr:district": "Pune",
+        "addr:full": "98, Erandawane Gauthan, Near Kamal Prabha Book Store, Pune",
+        "addr:postcode": "411004",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "name": "Mantri Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.834167,
+          18.505204
+        ]
+      },
+      "id": "node/7651453402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8261103130",
+        "addr:city": "Pune",
+        "addr:housenumber": "207-208",
+        "addr:postcode": "411001",
+        "addr:street": "Estonia, B wing , Opposite Manohar Mangal Karyalay , Gulwani Mahahraj Path, Karve Nagar",
+        "air_conditioning": "yes",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "Inflammatory_Arthritis;Rheumatologist",
+        "name": "SHUBHANAND CLINIC",
+        "website": "https://www.rheumatologypune.com/rheumatologypune"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8318954,
+          18.5048298
+        ]
+      },
+      "id": "node/8261103130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8261505832",
+        "addr:city": "Pune",
+        "addr:housenumber": "B/22",
+        "addr:street": "3rd Floor, Mittal Court, Off Dr Ambedkar Road, 478, Rasta Peth, Mudaliar Rd,, Modi Colony",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "Ophthalmologist",
+        "name": "DR. UPLENCHWAR'S WOMENS & EYE CARE CLINIC",
+        "website": "https://www.uplenchwarhealthcare.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8221756,
+          18.508241
+        ]
+      },
+      "id": "node/8261505832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8261593410",
+        "addr:city": "Pune",
+        "addr:housenumber": "First Floor",
+        "addr:postcode": "411038",
+        "addr:street": "Roopnagari, Opposite Maruti Mandir, Near Club Solaris, Karve Road,, Kothrud",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "Dentistry;Dental_Aesthetics_and_Dental_Implantation",
+        "name": "INTEGRITY DENTAL CARE",
+        "website": "https://www.integritydentalcare.in/integritydentalcare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8204928,
+          18.5039346
+        ]
+      },
+      "id": "node/8261593410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8261635893",
+        "addr:city": "Pune",
+        "addr:postcode": "411004",
+        "addr:street": "Ground Floor, Vinay Apartment, Karve Road, Erandwane",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "Hair_transplant_Surgeon;Maxillofacial;Cosmetic;Burns_&_Microvascular_Surgery",
+        "name": "Perfection Hair Transplant Clinic",
+        "website": "https://www.hairtransplantsurgeonpune.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8288573,
+          18.5069161
+        ]
+      },
+      "id": "node/8261635893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8266048713",
+        "addr:city": "Pune",
+        "addr:housenumber": "B-6",
+        "addr:postcode": "411052",
+        "addr:street": "1st floor, Shalini Residency, above New Poona Bakery, Vitthal Mandir Rd, Karve Nagar, Kothrud",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "Dental_Aesthetics;Dental_Implantation;Pediatric_Dentistry;Endodontics;Orthodontics",
+        "name": "DENTAL FITNESS",
+        "website": "https://www.dentalfitnesspune.com/dentalfitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8222737,
+          18.4913117
+        ]
+      },
+      "id": "node/8266048713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8266436922",
+        "addr:city": "Pune",
+        "addr:housenumber": "2,Shakuntal,46/10",
+        "addr:postcode": "411004",
+        "addr:street": "Law College Road,Erandwana, Erandwana",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "DENTAL_IMPLANTATION",
+        "name": "SMILE GALLERY DENTAL CARE CENTRE",
+        "website": "https://www.smilegallery.in/smilegallery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8303229,
+          18.5090997
+        ]
+      },
+      "id": "node/8266436922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8266714689",
+        "addr:city": "Pune",
+        "addr:housenumber": "34/4B",
+        "addr:postcode": "411004",
+        "addr:street": "Erandawane, Lane Opp. IDBI Bank, Mehendale Garage Road, Erandawane",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "ORTHOPAEDIC;JOINT_REPLACEMENT_SURGEON",
+        "name": "Dr. Devendra Vartak",
+        "website": "https://www.orthodocvartak.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.829271,
+          18.5038101
+        ]
+      },
+      "id": "node/8266714689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8267014540",
+        "addr:city": "Pune",
+        "addr:housenumber": "29",
+        "addr:postcode": "411030",
+        "addr:street": "Anand Kanhare Rd, Premanand Society, Lokamanya Nagar, Laxmi Park Colony,, Sadashiv Peth",
+        "amenity": "clinic",
+        "check_date": "2026-03-15",
+        "healthcare": "clinic",
+        "healthcare:speciality": "Endodontics;Orthodontics_and_Oral_&_Maxillofacial_Surgery",
+        "name": "TEETHZ TANTRAS™",
+        "website": "https://www.teethztantra.com/dr-prasanna-dhumal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8394771,
+          18.5050856
+        ]
+      },
+      "id": "node/8267014540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8269717984",
+        "addr:city": "Pune",
+        "addr:housenumber": "102",
+        "addr:postcode": "411030",
+        "addr:street": "Raghunandan Apartments, Sinhgad Road, opp, ss agarwal school Shivaprasad Housing Society, Dattawadi",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "ORTHODONTIST",
+        "name": "Krushna Orthodontic & Dental Clinic",
+        "website": "https://www.krushnaorthodonticdentalclinic.in/dr-nikita-tilekar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8418888,
+          18.5008306
+        ]
+      },
+      "id": "node/8269717984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8300094519",
+        "addr:city": "Pune",
+        "addr:postcode": "411009",
+        "addr:street": "C/o Parvati Hospital,Inna Apartment First Floor,Above Mahalakshami medical,parvati paytha , Parvati,",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "Physiotherapy",
+        "name": "Physiotherapy Center Pune",
+        "website": "https://www.bestphysiotherapistinpune.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8495742,
+          18.4859887
+        ]
+      },
+      "id": "node/8300094519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8321110974",
+        "amenity": "clinic",
+        "healthcare": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8341817,
+          18.5027884
+        ]
+      },
+      "id": "node/8321110974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8813545344",
+        "addr:district": "Pune",
+        "addr:full": "Jai Bhawani Nagar, Parvati Paytha, Pune",
+        "addr:postcode": "411009",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Janata Hospital ,Pune",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8470078,
+          18.4993855
+        ]
+      },
+      "id": "node/8813545344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9215757550",
+        "addr:district": "Pune",
+        "addr:full": "Deccan Gymkhana, K.P. Kulkarni Marg, Shivajinagar",
+        "addr:postcode": "411004",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Metropolis Healthcare Ltd",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8265103,
+          18.5078453
+        ]
+      },
+      "id": "node/9215757550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9497530067",
+        "name": "Ishwar",
+        "shop": "grocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8457991,
+          18.489082
+        ]
+      },
+      "id": "node/9497530067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9502917899",
+        "addr:city": "pune",
+        "addr:postcode": "411009",
+        "addr:street": "Laxminagar Road",
+        "addr:suburb": "Jai Bhawani Nagar, Parvati Paytha",
+        "amenity": "place_of_worship",
+        "denomination": "temple",
+        "name": "Vetalbaba temple",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8490489,
+          18.4994589
+        ]
+      },
+      "id": "node/9502917899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9603810739",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "SNDT",
+        "name:mr": "एस एन डी टी",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8289274,
+          18.5074957
+        ]
+      },
+      "id": "node/9603810739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9742728991",
+        "addr:city": "Pune",
+        "addr:postcode": "411030,",
+        "addr:street": "Tanaji Malusare Path",
+        "amenity": "clinic",
+        "check_date": "2026-03-13",
+        "healthcare": "clinic",
+        "healthcare:speciality": "cardiology",
+        "name": "Dr Madhusudan Asawa | The Heart Clinic",
+        "opening_hours": "Mo-Sa 15:00-20:00",
+        "operator": "Novosalus",
+        "operator:type": "private",
+        "website": "https://www.heartclinicpune.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8479507,
+          18.5012069
+        ]
+      },
+      "id": "node/9742728991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9774691823",
+        "addr:street": "Parvati, Near Sane Guruji Smarak, Sinhgad road, Pune- 411030,Maharashtra, India",
+        "amenity": "clinic",
+        "check_date": "2026-03-13",
+        "healthcare": "clinic",
+        "healthcare:speciality": "orthopaedics",
+        "name": "Unmesh Orthopedic Clinic",
+        "opening_hours": "Mo,Tu,Th,Fr 17:00-19:00",
+        "operator": "Novosalus",
+        "operator:type": "private",
+        "website": "https://www.dratulpatilortho.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8487739,
+          18.501414
+        ]
+      },
+      "id": "node/9774691823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10108645132",
+        "addr:city": "Pune",
+        "addr:postcode": "411051",
+        "addr:street": "Sinhagad Road",
+        "check_date": "2026-03-15",
+        "name": "Laxmi Drycleaners",
+        "shop": "dry_cleaning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8261993,
+          18.4805149
+        ]
+      },
+      "id": "node/10108645132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10108645133",
+        "addr:city": "Pune",
+        "addr:postcode": "411051",
+        "addr:street": "Sinhagad Road",
+        "check_date": "2026-03-15",
+        "name": "Kekiz The Cake Shop",
+        "operator": "Kekiz",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes",
+        "payment:upi": "yes",
+        "shop": "pastry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8263642,
+          18.4804554
+        ]
+      },
+      "id": "node/10108645133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10108645135",
+        "addr:city": "Pune",
+        "addr:postcode": "411051",
+        "check_date": "2026-03-15",
+        "name": "Universal Pet store",
+        "phone": "09371618622",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8271109,
+          18.4801741
+        ]
+      },
+      "id": "node/10108645135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10108645136",
+        "addr:city": "Pune",
+        "addr:postcode": "411051",
+        "addr:street": "Sinhagad Road",
+        "check_date": "2026-03-15",
+        "name": "Krushna Gift House",
+        "phone": "09960885544",
+        "shop": "gift"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8271564,
+          18.4801564
+        ]
+      },
+      "id": "node/10108645136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10108645137",
+        "addr:city": "Pune",
+        "addr:postcode": "411051",
+        "addr:street": "Hingne Internal Road",
+        "check_date": "2026-03-15",
+        "name": "Mayur Agency",
+        "phone": "07304657338",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8273012,
+          18.4801154
+        ]
+      },
+      "id": "node/10108645137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10108645138",
+        "addr:city": "Pune",
+        "addr:postcode": "411051",
+        "addr:street": "Hingane Internal Road",
+        "check_date": "2026-03-15",
+        "name": "New Govind Traders",
+        "phone": "09372227779",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8274273,
+          18.4800468
+        ]
+      },
+      "id": "node/10108645138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10172956419",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ranka",
+        "operator": "PMPML",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.826352,
+          18.4820208
+        ]
+      },
+      "id": "node/10172956419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10172956420",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Rajaram Bridge",
+        "operator": "PMPML",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8286246,
+          18.4874651
+        ]
+      },
+      "id": "node/10172956420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10172956421",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Rajaram Bridge",
+        "operator": "PMPML",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8291206,
+          18.4875808
+        ]
+      },
+      "id": "node/10172956421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10172956422",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Vitthalvadi",
+        "operator": "PMPML",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8279864,
+          18.4850441
+        ]
+      },
+      "id": "node/10172956422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10172986714",
+        "addr:city": "Pune",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "GLOBAL HOSPITAL & RESEARCH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8410045,
+          18.5012869
+        ]
+      },
+      "id": "node/10172986714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10172994212",
+        "amenity": "place_of_worship",
+        "name": "Bal Shivaji Mitra Mandal",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.838614,
+          18.5043621
+        ]
+      },
+      "id": "node/10172994212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10172994214",
+        "amenity": "place_of_worship",
+        "name": "Parvati Mandir",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8471091,
+          18.4975371
+        ]
+      },
+      "id": "node/10172994214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10172994216",
+        "amenity": "place_of_worship",
+        "name": "Ganesh Mandir",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8499978,
+          18.4919168
+        ]
+      },
+      "id": "node/10172994216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10222895354",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Patwardhan Baug",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8324717,
+          18.4976012
+        ]
+      },
+      "id": "node/10222895354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10313195118",
+        "amenity": "place_of_worship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8475308,
+          18.4901189
+        ]
+      },
+      "id": "node/10313195118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10313195119",
+        "amenity": "place_of_worship",
+        "name": "Dashbhuja Ganapati",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8460656,
+          18.4891688
+        ]
+      },
+      "id": "node/10313195119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10313195120",
+        "addr:city": "Pune",
+        "addr:housenumber": "mian road",
+        "addr:postcode": "411009",
+        "addr:street": "Dhomkar Path",
+        "name": "carpet store",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "operator": "snehal",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "9885467721",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8466929,
+          18.4907505
+        ]
+      },
+      "id": "node/10313195120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10593418590",
+        "addr:city": "Pune",
+        "addr:housenumber": "Flat No 8, Prasad Apartments, Behind Indian Overseas Bank, Shangrila Hotel Lane,",
+        "addr:postcode": "411004",
+        "addr:street": "Off Karve Road, Near Law College Road",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "conservative_dentistry;_aesthetic_dentistry_and_endodontics",
+        "name": "Dixit Dental Clinic",
+        "opening_hours": "Available on call",
+        "operator": "Novosalus",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8312717,
+          18.5092075
+        ]
+      },
+      "id": "node/10593418590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10692792823",
+        "amenity": "school",
+        "name": "dnyanda nutan balvikas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8202498,
+          18.4897544
+        ]
+      },
+      "id": "node/10692792823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10692810140",
+        "amenity": "school",
+        "name": "bharatratna dr.APJ abdul kalam e-learning school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8212115,
+          18.4848591
+        ]
+      },
+      "id": "node/10692810140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10692810141",
+        "amenity": "school",
+        "name": "blue bird nursey school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8207628,
+          18.4889072
+        ]
+      },
+      "id": "node/10692810141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10692820321",
+        "amenity": "school",
+        "name": "tree house play group"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8203595,
+          18.4897341
+        ]
+      },
+      "id": "node/10692820321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11581294532",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:housenumber": "Shop No 8",
+        "addr:postcode": "411052",
+        "addr:street": "Laxmi Terraces, Near paitaan Footwear Shop, Girija Shankar Society Road, Karvenagar",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "skin_and_spine",
+        "name": "Dr. Soman's Skin and Spine Clinic",
+        "operator": "Novosalus Technology",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8212927,
+          18.4929995
+        ]
+      },
+      "id": "node/11581294532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11651983008",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:housenumber": "46/2B/2",
+        "addr:postcode": "411038",
+        "addr:street": "Paud Rd, Mahaganesh Colony, Kothrud",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "joint_replacement;laparoscopic_and_endoscopic;intensivist_and_diabetologist;urologist;anesthesiologist;obstetrician_and_gynaecologist",
+        "name": "Sushrut Hospital",
+        "operator": "Novosalus Technology",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8212265,
+          18.5094542
+        ]
+      },
+      "id": "node/11651983008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11918137345",
+        "name": "Third Wave Coffee",
+        "phone": "9986652806",
+        "shop": "coffee",
+        "website": "https://cafe.thirdwavecoffee.in/coffee-cafe-kothrud-pune-30089/home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8214391,
+          18.5027408
+        ]
+      },
+      "id": "node/11918137345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11937490407",
+        "addr:city": "Pune",
+        "addr:district": "Maharashtra",
+        "addr:housenumber": "Lane No - 55",
+        "addr:postcode": "411009",
+        "addr:street": "Parvati Paytha ,Janta Vasahat",
+        "check_date": "2026-03-13",
+        "name": "Akshay General Store",
+        "opening_hours": "24/7",
+        "payment:app": "yes",
+        "payment:cash": "yes",
+        "phone": "9158761528",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8402924,
+          18.4934892
+        ]
+      },
+      "id": "node/11937490407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11937509787",
+        "addr:city": "Pune",
+        "addr:district": "Maharashtra",
+        "addr:postcode": "411009",
+        "addr:street": "Parvati Paytha, Janta Vasahat",
+        "amenity": "place_of_worship",
+        "check_date": "2026-03-13",
+        "denomination": "landmark",
+        "name": "Waghjai Mandir",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8395514,
+          18.4922603
+        ]
+      },
+      "id": "node/11937509787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11941736126",
+        "addr:city": "Pune",
+        "addr:district": "Maharashtra",
+        "addr:postcode": "411009",
+        "addr:street": "Parvati Paytha , janta vasahat",
+        "amenity": "place_of_worship",
+        "check_date": "2026-03-13",
+        "name": "Maruti Temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8404402,
+          18.4938226
+        ]
+      },
+      "id": "node/11941736126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11941736587",
+        "addr:city": "Pune",
+        "addr:district": "Maharashtra",
+        "addr:housenumber": "Lane No- 53",
+        "addr:postcode": "411009",
+        "addr:street": "Parvati Paytha ,Janta Vasahat",
+        "amenity": "clinic",
+        "check_date": "2026-03-13",
+        "healthcare": "clinic",
+        "name": "Dr.Jawalkar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8403606,
+          18.4935752
+        ]
+      },
+      "id": "node/11941736587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11942759805",
+        "addr:city": "Pune",
+        "addr:postcode": "411009",
+        "addr:street": "Parvti Paytha,Janta Vasahat",
+        "amenity": "fire_station",
+        "name": "Janta Fire Brigade station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8484683,
+          18.4996173
+        ]
+      },
+      "id": "node/11942759805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11993223834",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:housenumber": "1st floor , office no.2",
+        "addr:postcode": "411052",
+        "addr:street": "Anmol Heights, Vithal mandir road, Karve Nagar",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "dentist",
+        "name": "Phadke's Vitality Dental Clinic",
+        "operator": "Novosalus Technology",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8240796,
+          18.4906992
+        ]
+      },
+      "id": "node/11993223834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12169115286",
+        "beauty": "nails;cosmetics;spa;hair_removal;hair;waxing;eyebrow;massage",
+        "name": "Juice Salon",
+        "opening_hours": "Mo-Su 10:00-21:00",
+        "operator": "Juice",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8219777,
+          18.5020889
+        ]
+      },
+      "id": "node/12169115286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12176130582",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:postcode": "411009",
+        "amenity": "clinic",
+        "healthcare": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8457414,
+          18.4892033
+        ]
+      },
+      "id": "node/12176130582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12298737017",
+        "amenity": "clinic",
+        "check_date": "2026-03-13",
+        "healthcare": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8401987,
+          18.493414
+        ]
+      },
+      "id": "node/12298737017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13098762701",
+        "addr:street": "Erandwane",
+        "amenity": "place_of_worship",
+        "name": "Rajbaug Tarun Mandal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.825809,
+          18.5001122
+        ]
+      },
+      "id": "node/13098762701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13105362503",
+        "addr:city": "pune",
+        "addr:district": "Pune",
+        "addr:postcode": "411019",
+        "addr:street": "1st Floor, Bhamini Arcade, S.No, 118, Near Bank of Baroda, Opposite P L Deshpande Garden, Sinhagad Road",
+        "amenity": "clinic",
+        "check_date": "2026-03-13",
+        "healthcare": "clinic",
+        "name": "Nimbalkar - jarhad Eye Hospital",
+        "operator": "Novosalus Technology",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8336489,
+          18.4917951
+        ]
+      },
+      "id": "node/13105362503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13366468376",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:postcode": "411038",
+        "addr:street": "Rokade Heights, S.No. 46, Office No. 2/3, First Floor",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "gynaecology;cunc",
+        "name": "MyGyne Clinic",
+        "website": "https://www.mygyne.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8221777,
+          18.5082386
+        ]
+      },
+      "id": "node/13366468376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13442739579",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:postcode": "411030",
+        "addr:street": "Gopal Gayan Samaj Road",
+        "air_conditioning": "yes",
+        "hairdresser": "barber",
+        "male": "yes",
+        "name": "Robin Men's Salon",
+        "payment:cash": "yes",
+        "payment:upi": "yes",
+        "phone": "+91 992003528",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.846609,
+          18.5083862
+        ]
+      },
+      "id": "node/13442739579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13442771642",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:postcode": "411030",
+        "addr:street": "Sharad Pandit Path",
+        "name": "Sathe Motors (Shree Ram Motors)",
+        "payment:cash": "yes",
+        "payment:upi": "yes",
+        "phone": "020 24331313",
+        "second_hand": "only",
+        "shop": "car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8461568,
+          18.508528
+        ]
+      },
+      "id": "node/13442771642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13624316770",
+        "check_date": "2026-03-07",
+        "name": "New Balaji Traders",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.842703,
+          18.499323
+        ]
+      },
+      "id": "node/13624316770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13624321684",
+        "amenity": "place_of_worship",
+        "check_date": "2026-03-07",
+        "name": "Sadguru Mangir Baba Temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8451169,
+          18.5031786
+        ]
+      },
+      "id": "node/13624321684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13624346676",
+        "check_date": "2026-03-07",
+        "name": "Bajaj Chetak",
+        "shop": "motorcycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8351595,
+          18.4935224
+        ]
+      },
+      "id": "node/13624346676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13624352781",
+        "check_date": "2026-03-07",
+        "name": "Zeno Health",
+        "shop": "medical_supply"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8434864,
+          18.5093732
+        ]
+      },
+      "id": "node/13624352781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13624359909",
+        "check_date": "2026-03-07",
+        "name": "Suvarna Jewellers",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.843492,
+          18.5093003
+        ]
+      },
+      "id": "node/13624359909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13633147898",
+        "check_date": "2026-03-10",
+        "name": "New Poona Bakery",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8251884,
+          18.5055173
+        ]
+      },
+      "id": "node/13633147898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13637467804",
+        "check_date": "2026-03-11",
+        "name": "Motorola Service Centre",
+        "shop": "mobile_phone_accessories"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8313201,
+          18.5083603
+        ]
+      },
+      "id": "node/13637467804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13644398782",
+        "check_date": "2026-03-13",
+        "name": "Bhakti Garments",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8255581,
+          18.4933696
+        ]
+      },
+      "id": "node/13644398782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13644404346",
+        "check_date": "2026-03-13",
+        "name": "Apte Dairy",
+        "shop": "dairy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8256687,
+          18.4938015
+        ]
+      },
+      "id": "node/13644404346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13672001699",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:postcode": "411030",
+        "addr:street": "Dattawadi Road",
+        "amenity": "place_of_worship",
+        "name": "Wadacha Ganpati",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8375768,
+          18.4977953
+        ]
+      },
+      "id": "node/13672001699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13672024594",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:postcode": "411030",
+        "addr:street": "Dattawadi Road",
+        "amenity": "place_of_worship",
+        "name": "Tulja Bhavani Temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8390819,
+          18.5004727
+        ]
+      },
+      "id": "node/13672024594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13672026326",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:postcode": "411030",
+        "addr:street": "Dattawadi Road",
+        "amenity": "place_of_worship",
+        "name": "Swami samarth temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.839229,
+          18.4999011
+        ]
+      },
+      "id": "node/13672026326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13672035479",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:postcode": "411030",
+        "addr:street": "Dattawadi Road",
+        "amenity": "place_of_worship",
+        "name": "Shree Gramdaivat Mhasoba Pratishthan Trust",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.839243,
+          18.5007841
+        ]
+      },
+      "id": "node/13672035479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13672065473",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:postcode": "411030",
+        "addr:street": "Dattawadi Road",
+        "amenity": "place_of_worship",
+        "name": "Shree Vighnaharta Maruti Mandir",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8390454,
+          18.502981
+        ]
+      },
+      "id": "node/13672065473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13857149701",
+        "highway": "bus_stop",
+        "name": "Swargare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8495471,
+          18.507812
+        ]
+      },
+      "id": "node/13857149701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13875503955",
+        "check_date": "2026-05-25",
+        "name": "General Store",
+        "shop": "general"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.843753,
+          18.5084716
+        ]
+      },
+      "id": "node/13875503955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13875554605",
+        "check_date": "2026-05-25",
+        "internet_access": "no",
+        "name": "Bakery",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8433013,
+          18.5098462
+        ]
+      },
+      "id": "node/13875554605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13875647401",
+        "addr:housenumber": "1477",
+        "addr:postcode": "411030",
+        "addr:street": "Lokmanya Tilak Marg",
+        "name": "टी एंपोरियम",
+        "name:en": "Tea Emporium",
+        "shop": "tea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8498542,
+          18.5082971
+        ]
+      },
+      "id": "node/13875647401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14087277203",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:postcode": "411009",
+        "addr:street": "Janta Road",
+        "amenity": "place_of_worship",
+        "denomination": "hindu_god",
+        "name": "Subhash mithai wala",
+        "religion": "hindu",
+        "service_times": "6:00 am to 9:00 pm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8394752,
+          18.492234
+        ]
+      },
+      "id": "node/14087277203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14106712114",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:housenumber": "Janata Vasahat Rd, Janta Vasahat, Jai Bhawani Nagar, Parvati Paytha",
+        "addr:postcode": "411009",
+        "addr:street": "Janata Vasahat Rd",
+        "amenity": "place_of_worship",
+        "denomination": "temple",
+        "name": "Anand Math",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8466283,
+          18.4996681
+        ]
+      },
+      "id": "node/14106712114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14106725279",
+        "addr:street": "Janata Vasahat Road",
+        "amenity": "place_of_worship",
+        "name": "shree datta mandir",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8419339,
+          18.4954786
+        ]
+      },
+      "id": "node/14106725279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14106725280",
+        "addr:street": "Janata Vasahat Road",
+        "amenity": "place_of_worship",
+        "name": "ganpati mandir",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8420849,
+          18.4956624
+        ]
+      },
+      "id": "node/14106725280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14106743089",
+        "amenity": "place_of_worship",
+        "denomination": "landmark",
+        "name": "Trimurti datta Mandir",
+        "religion": "hindu",
+        "trust:name": "gajraj group trust"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8430856,
+          18.4964898
+        ]
+      },
+      "id": "node/14106743089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14106758108",
+        "amenity": "place_of_worship",
+        "denomination": "landmark",
+        "name": "Chandreshwar sai madir",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.845888,
+          18.4993034
+        ]
+      },
+      "id": "node/14106758108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14106800696",
+        "addr:street": "Janata Vasahat Road",
+        "amenity": "place_of_worship",
+        "name": "ganpati mandir",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8418067,
+          18.495411
+        ]
+      },
+      "id": "node/14106800696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14106838906",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:postcode": "411009",
+        "addr:street": "Janata Vasahat Road",
+        "amenity": "place_of_worship",
+        "denomination": "temple",
+        "name": "Hanuman Temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.84713,
+          18.4996782
+        ]
+      },
+      "id": "node/14106838906"
+    }
+  ]
+}

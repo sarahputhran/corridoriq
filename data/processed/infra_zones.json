@@ -1,0 +1,278 @@
+[
+  {
+    "id": "METRO-L4-INTERFACE",
+    "project_id": "INFRA/METRO/LINE4/2026",
+    "project_name": "Pune Metro Line 4 — Kharadi to Khadakwasla",
+    "agency": "Maharashtra Metro Rail Corporation Limited (Maha Metro)",
+    "status": "active",
+    "start_date": "2026-06-26",
+    "end_date": "2030-04-13",
+    "end_is_approximate": true,
+    "context_only": false,
+    "programme_year_marker": null,
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 1856.8,
+    "chainage_end_m": 2224.6,
+    "geometry_approximated": true,
+    "location_basis": "Permit 0020 (Metro utility-diversion interface) ±150 m. Station names along this stretch appear in pre-approval planning documents, but no source found publishes station positions, and the names may change. Station work zones were therefore not created. Planned station names on this stretch: Hingane Chowk, Rajaram Bridge, Deshpande Udyan, Dandekar Pul.",
+    "source_url": "https://www.punemetrorail.org/Tenders",
+    "source_notes": "The official Line 4 page states the 25.52 km Kharadi–Khadakwasla line runs along Sinhgad Road. Maha Metro's tender P2-C03/2026, dated 26 June 2026, covers viaduct and elevated-station construction from Dandekar Pul to Khadakwasla. Maha Metro's April 2026 presentation said the Line 4/4A projects were targeted for completion within four years; 13 April 2030 is therefore a derived approximate completion date, not a formally published fixed completion date.",
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8337266,
+          18.4917474
+        ],
+        [
+          73.8337578,
+          18.4917796
+        ],
+        [
+          73.8337849,
+          18.4918076
+        ],
+        [
+          73.8340943,
+          18.4921272
+        ],
+        [
+          73.834159,
+          18.4921892
+        ],
+        [
+          73.8342841,
+          18.4923093
+        ],
+        [
+          73.8343134,
+          18.4923374
+        ],
+        [
+          73.8345692,
+          18.4925828
+        ],
+        [
+          73.8347072,
+          18.4927442
+        ],
+        [
+          73.8347606,
+          18.4928067
+        ],
+        [
+          73.8349552,
+          18.4930487
+        ],
+        [
+          73.8351366,
+          18.4932218
+        ],
+        [
+          73.8354531,
+          18.4935237
+        ],
+        [
+          73.8355135,
+          18.4935808
+        ],
+        [
+          73.8358816,
+          18.49391
+        ],
+        [
+          73.8360325,
+          18.494045
+        ],
+        [
+          73.8361316,
+          18.4941372
+        ]
+      ]
+    }
+  },
+  {
+    "id": "RAJARAM-BRIDGE-WIDENING",
+    "project_id": "INFRA/PMC/RAJARAM/2026",
+    "project_name": "Rajaram Bridge Widening to 30 m",
+    "agency": "Pune Municipal Corporation (PMC), Chief Engineer (Projects)",
+    "status": "planned",
+    "start_date": null,
+    "end_date": null,
+    "end_is_approximate": false,
+    "context_only": true,
+    "programme_year_marker": null,
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 979.8,
+    "chainage_end_m": 1279.8,
+    "geometry_approximated": true,
+    "location_basis": "Junction of Rajaram Bridge with Sinhagad Road, located by the PMPML \"Rajaram Pul\" stops (chainage ~1130 m) ±150 m. Construction dates are not published; the S7 start date is a consultant tender date, so none is used.",
+    "source_url": "https://tenderkart.in/tender/bc2684d2-8573-4638-ab23-7de484052ab2",
+    "source_notes": "PMC issued a 16 April 2026 tender for appointment of a project-management consultant for pre-feasibility activities for widening Rajaram Bridge to 30 m. PMC subsequently cleared the consultant appointment in August 2026. Construction timing is not yet published, so completion is intentionally left null rather than fabricated. The tender listing identifies the official source website as Maharashtra's e-procurement portal (mahatenders.gov.in), but the indexed tender record available for this research was the TenderKart snapshot of PMC tender 2026_PMCP_1295259_1.",
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8281426,
+          18.4861578
+        ],
+        [
+          73.828153,
+          18.486204
+        ],
+        [
+          73.828207,
+          18.4864424
+        ],
+        [
+          73.8282655,
+          18.4865833
+        ],
+        [
+          73.8283202,
+          18.4867032
+        ],
+        [
+          73.8284766,
+          18.487012
+        ],
+        [
+          73.8287118,
+          18.4874019
+        ],
+        [
+          73.8287988,
+          18.4875515
+        ],
+        [
+          73.8289514,
+          18.4877881
+        ],
+        [
+          73.8290195,
+          18.4878703
+        ],
+        [
+          73.8292842,
+          18.4881834
+        ],
+        [
+          73.8295518,
+          18.4884649
+        ]
+      ]
+    }
+  },
+  {
+    "id": "SHIVANE-KHARADI-LINK",
+    "project_id": "INFRA/PMC/SHIVANE-KHARADI/2026",
+    "project_name": "Shivane–Kharadi Riverside Road — Rajaram Bridge to Jawalkar Garden Missing Link",
+    "agency": "Pune Municipal Corporation (PMC)",
+    "status": "ongoing",
+    "start_date": null,
+    "end_date": null,
+    "end_is_approximate": false,
+    "context_only": true,
+    "programme_year_marker": null,
+    "corridor_id": "sinhagad-road",
+    "chainage_start_m": 979.8,
+    "chainage_end_m": 1279.8,
+    "geometry_approximated": true,
+    "location_basis": "The missing link starts at Rajaram Bridge on the Karvenagar bank; it touches the corridor only at the bridge junction, so the same junction zone is used. No completion date is published.",
+    "source_url": "https://indianexpress.com/article/cities/pune/pmc-budget-2026-27-road-projects-katraj-kondhwa-shivane-kharadi-ganeskhind-10574982/",
+    "source_notes": "The broader project was approved in 2011. In 2026 PMC allocated funds and intensified land acquisition for the remaining Rajaram Bridge–Jawalkar Garden section. No defensible final completion date was found, so expected_completion is left null.",
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          73.8281426,
+          18.4861578
+        ],
+        [
+          73.828153,
+          18.486204
+        ],
+        [
+          73.828207,
+          18.4864424
+        ],
+        [
+          73.8282655,
+          18.4865833
+        ],
+        [
+          73.8283202,
+          18.4867032
+        ],
+        [
+          73.8284766,
+          18.487012
+        ],
+        [
+          73.8287118,
+          18.4874019
+        ],
+        [
+          73.8287988,
+          18.4875515
+        ],
+        [
+          73.8289514,
+          18.4877881
+        ],
+        [
+          73.8290195,
+          18.4878703
+        ],
+        [
+          73.8292842,
+          18.4881834
+        ],
+        [
+          73.8295518,
+          18.4884649
+        ]
+      ]
+    }
+  },
+  {
+    "id": "SUNCITY-KARVENAGAR-BRIDGE",
+    "project_id": "INFRA/PMC/2024/SC-KARVENAGAR",
+    "project_name": "Suncity–Karvenagar Mutha River Bridge and Approach Roads",
+    "agency": "Pune Municipal Corporation (PMC)",
+    "status": "completed",
+    "start_date": "2024-01-01",
+    "end_date": "2026-09-30",
+    "end_is_approximate": false,
+    "context_only": true,
+    "programme_year_marker": null,
+    "corridor_id": null,
+    "chainage_start_m": null,
+    "chainage_end_m": null,
+    "geometry_approximated": true,
+    "location_basis": "Suncity/Anandnagar approach geocodes about 963 m from the corridor line, beyond its Hingne end, so it has no chainage range. Kept as completed history.",
+    "source_url": "https://www.hindustantimes.com/cities/pune-news/suncitykarvenagar-bridge-work-54-complete-101740939398341.html",
+    "source_notes": "PMC officials reported construction began in January 2024 with a 30-month project duration. In July 2026, PMC was expediting the approach-road/land-acquisition work and a report said the flyover was ~80% complete with an intended opening within about 2.5 months. The bridge itself was targeted for opening by 26 May 2026.",
+    "geom": null
+  },
+  {
+    "id": "BARANGANI-MALA-DRAINAGE",
+    "project_id": "INFRA/PMC/DRAINAGE/SINHAGAD/2026",
+    "project_name": "Sinhagad Road Drainage and Stormwater Line Repairs near Barangani Mala",
+    "agency": "Pune Municipal Corporation (PMC)",
+    "status": "planned",
+    "start_date": null,
+    "end_date": null,
+    "end_is_approximate": false,
+    "context_only": true,
+    "programme_year_marker": 2026,
+    "corridor_id": null,
+    "chainage_start_m": null,
+    "chainage_end_m": null,
+    "geometry_approximated": true,
+    "location_basis": "Barangani Mala geocodes to Dhayari, about 4079 m from the corridor line, so it has no chainage range. Kept as off-corridor context.",
+    "source_url": "https://timesofindia.indiatimes.com/city/pune/a-year-after-gbs-outbreak-pmc-to-repair-drainage-stormwater-lines-to-prevent-water-contamination/articleshow/127422471.cms",
+    "source_notes": "PMC announced a ₹20 crore programme after surveying drainage infrastructure near Barangani Mala. The source does not give a defensible construction start or completion date; the start_date is therefore a programme-year marker, not a claimed physical construction start.",
+    "geom": null
+  }
+]

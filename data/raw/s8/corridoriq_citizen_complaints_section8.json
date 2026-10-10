@@ -1,0 +1,182 @@
+[
+  {
+    "evidence_id": "CIT-01",
+    "source_type": "news_interview",
+    "date": "2024-05-12",
+    "source": "Hindustan Times",
+    "location": "Manik Bagh Chowk / Veer Baji Pasalkar flyover, Sinhagad Road",
+    "complaint_or_evidence": "Residents reported that multiple pits dug for flyover work were risky because barricading was inadequate. An accident at a pit also caused major congestion.",
+    "quote": "I travel daily from the Sinhagad Road for work and it is a risky ride.",
+    "problem_tags": [
+      "open_excavation",
+      "poor_barricading",
+      "traffic_disruption",
+      "safety"
+    ],
+    "corridoriq_validation": "Direct evidence that excavation associated with infrastructure work creates safety and traffic impacts on the corridor.",
+    "strength": "HIGH",
+    "source_url": "https://www.hindustantimes.com/cities/pune-news/open-pits-pose-risk-to-commuters-at-sinhagad-road-101715452834369.html"
+  },
+  {
+    "evidence_id": "CIT-02",
+    "source_type": "news_interview",
+    "date": "2024-12-06",
+    "source": "Free Press Journal",
+    "location": "Parvati Bridge to Dandekar Pool, Sinhagad Road",
+    "complaint_or_evidence": "Residents said water-pipeline repair work left the road inadequately restored, without proper markings, warning barricades or reflectors; another resident said repairs deteriorated quickly.",
+    "quote": "The road was dug up for water pipeline repairs but was left improperly constructed.",
+    "problem_tags": [
+      "poor_restoration",
+      "water_pipeline",
+      "safety",
+      "repeat_damage"
+    ],
+    "corridoriq_validation": "Direct evidence for the restoration-quality problem and for tracking excavation history before approving another cut.",
+    "strength": "HIGH",
+    "source_url": "https://www.freepressjournal.in/pune/infrastructure-issues-plague-sinhagad-road-absence-of-barricades-reflectors-and-speed-breakers-lead-to-traffic-woes"
+  },
+  {
+    "evidence_id": "CIT-03",
+    "source_type": "news_interview",
+    "date": "2024-06-12",
+    "source": "Hindustan Times",
+    "location": "Approximately 1 km stretch of Sinhagad Road; OFC laid in 100–500 m patches",
+    "complaint_or_evidence": "PMC removed unauthorised optical-fibre cables laid through stormwater lines after waterlogging. Residents and civic activists questioned how the works were permitted and criticised weak enforcement against illegal excavation/cabling.",
+    "quote": "How can anyone lay cables in stormwater lines without the knowledge of PMC officials?",
+    "problem_tags": [
+      "OFC",
+      "illegal_excavation",
+      "utility_coordination",
+      "drainage",
+      "waterlogging"
+    ],
+    "corridoriq_validation": "Strong evidence that utility works can conflict with existing municipal infrastructure and that permit/department coordination matters.",
+    "strength": "HIGH",
+    "source_url": "https://www.hindustantimes.com/cities/pune-news/pmc-files-police-complaint-over-stormwater-line-blockage-101718133215557.html"
+  },
+  {
+    "evidence_id": "CIT-04",
+    "source_type": "news_interview",
+    "date": "2022-06-20",
+    "source": "Times of India",
+    "location": "Garden to Navshya Maruti Chowk, Sinhagad Road",
+    "complaint_or_evidence": "A resident reported that PMC dug the road for a water pipeline, reducing road width. The article also reports underground drainage digging and flyover work contributing to congestion.",
+    "quote": "The civic body has dug up the road ... for laying a water pipeline, but it has reduced the road width.",
+    "problem_tags": [
+      "water_pipeline",
+      "road_width_reduction",
+      "drainage",
+      "traffic_congestion"
+    ],
+    "corridoriq_validation": "Direct evidence that multiple simultaneous works can consume carriageway capacity and create a coordination problem.",
+    "strength": "HIGH",
+    "source_url": "https://timesofindia.indiatimes.com/city/pune/work-on-sinhagad-rd-a-nightmare-for-travel/articleshow/92293112.cms"
+  },
+  {
+    "evidence_id": "CIT-05",
+    "source_type": "news_interview",
+    "date": "2021-06-03",
+    "source": "Hindustan Times",
+    "location": "Dandekar Bridge Chowk to Dhayari Phata Chowk, Sinhagad Road",
+    "complaint_or_evidence": "A residents' forum said road sections were already dug for pipeline work, narrowing Sinhagad Road and contributing to daily morning traffic jams. Another resident asked that the digging be completed quickly.",
+    "quote": "Already there are spots where the road is dug up for pipeline work. So, Sinhagad road has become narrow.",
+    "problem_tags": [
+      "pipeline_work",
+      "road_narrowing",
+      "traffic_congestion",
+      "unfinished_work"
+    ],
+    "corridoriq_validation": "Strong corridor-specific citizen evidence that utility excavation directly worsens congestion.",
+    "strength": "HIGH",
+    "source_url": "https://www.hindustantimes.com/cities/others/residents-complain-of-huge-rush-of-hawkers-on-sinhgad-road-101622730791185.html"
+  },
+  {
+    "evidence_id": "CIT-06",
+    "source_type": "news_interview",
+    "date": "2025-10",
+    "source": "Times of India",
+    "location": "Hingne Chowk near Wadgaon Budruk–Hingne flyover, Sinhagad Road",
+    "complaint_or_evidence": "Two PMPML buses became stuck on a newly concreted stretch after utility relocation work. The concrete had not settled properly, requiring emergency replacement and traffic diversion. Residents criticised the recurrent disruption and poor planning.",
+    "quote": "Local residents criticized the poor planning and recurrent traffic issues on the road.",
+    "problem_tags": [
+      "utility_relocation",
+      "poor_restoration",
+      "traffic_disruption",
+      "public_transport"
+    ],
+    "corridoriq_validation": "Very strong evidence connecting utility relocation, restoration timing and downstream traffic/public-transport disruption.",
+    "strength": "HIGH",
+    "source_url": "https://timesofindia.indiatimes.com/city/pune/pmpml-buses-get-stuck-on-newly-concreted-stretch-of-sinhagad-road/articleshow/124437290.cms"
+  },
+  {
+    "evidence_id": "CIT-07",
+    "source_type": "X_embedded_in_news",
+    "date": "2025-05-22",
+    "source": "X post embedded by LatestLY",
+    "location": "Goyal Ganga / Sinhagad Road",
+    "complaint_or_evidence": "A public X post reported a burst water pipeline at Goyal Ganga on Sinhagad Road, tagged PMC and Pune Police, and described a large volume of water being wasted.",
+    "quote": "Sinhgad Road ... pipeline burst. Thousands of litres of water wasted.",
+    "problem_tags": [
+      "water_pipeline",
+      "citizen_report",
+      "road_disruption",
+      "PMC_tagged"
+    ],
+    "corridoriq_validation": "Useful direct social-media evidence of residents reporting utility failures to civic authorities; weaker evidence for repeated road cutting specifically.",
+    "strength": "MEDIUM",
+    "source_url": "https://www.latestly.com/socially/india/news/pune-pipeline-burst-traffic-disrupted-as-major-water-leak-near-goyal-ganga-society-floods-sinhagad-road-in-maharashtra-video-surfaces-6874100.html"
+  },
+  {
+    "evidence_id": "CIT-08",
+    "source_type": "news_interview",
+    "date": "2020-06-30",
+    "source": "Indian Express",
+    "location": "Sinhagad Road; specific business impact reported by an establishment on the road",
+    "complaint_or_evidence": "The road had been concretised, then was dug again about two months later for utility cables. A local business owner said intermittent work caused significant disruption.",
+    "quote": "The concrete layer was completed many months ago ... PMC began digging up the road was once again ... to lay utility cables.",
+    "problem_tags": [
+      "repeat_excavation",
+      "utility_cabling",
+      "poor_coordination",
+      "business_disruption"
+    ],
+    "corridoriq_validation": "This is the strongest historical evidence for CorridorIQ's exact problem statement: a recently completed road was dug again for utilities.",
+    "strength": "VERY_HIGH",
+    "source_url": "https://indianexpress.com/article/cities/pune/deadline-over-roaddiggers-still-send-traffic-into-a-spin/"
+  },
+  {
+    "evidence_id": "CIT-09",
+    "source_type": "news_interview",
+    "date": "2022-09-01",
+    "source": "Times of India",
+    "location": "Rajaram Bridge toward Vadgaon, Sinhagad Road",
+    "complaint_or_evidence": "A regular traveller described major chaos around flyover work, with one lane occupied by infrastructure work and road space also affected by parking and roadside activity. PMC acknowledged receiving citizen complaints around infrastructure-project stretches.",
+    "quote": "The patch from Rajaram Bridge towards Vadgaon ... faces huge of chaos.",
+    "problem_tags": [
+      "infrastructure_project",
+      "lane_occupation",
+      "traffic_congestion",
+      "citizen_complaints"
+    ],
+    "corridoriq_validation": "Supports the broader city-planning problem: permit/utility works need to be considered alongside major infrastructure projects and road-space constraints.",
+    "strength": "MEDIUM",
+    "source_url": "https://timesofindia.indiatimes.com/city/pune/pmc-to-deploy-squads-around-infra-projects/articleshow/94087585.cms"
+  },
+  {
+    "evidence_id": "CIT-10",
+    "source_type": "news_interview",
+    "date": "2026-06-24",
+    "source": "Free Press Journal",
+    "location": "Pune city; PMC Care system",
+    "complaint_or_evidence": "Residents reported that PMC Care complaints were sometimes marked resolved without action or feedback. The article specifically describes complaints about civic issues such as potholes and damaged infrastructure.",
+    "quote": "I have filed complaints several times through PMC Care, but no action was taken.",
+    "problem_tags": [
+      "grievance_redressal",
+      "complaint_tracking",
+      "civic_issues"
+    ],
+    "corridoriq_validation": "Not Sinhagad-specific and not road-cutting-specific, so it should support the governance/auditability argument only, not the core road-digging claim.",
+    "strength": "LOW_FOR_CORE_PROBLEM",
+    "source_url": "https://www.freepressjournal.in/amp/pune/pune-pmc-care-complaints-closed-without-action-allege-citizens"
+  }
+]

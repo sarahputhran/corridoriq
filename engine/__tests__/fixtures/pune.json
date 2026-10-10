@@ -1,0 +1,7255 @@
+{
+ "generated_by": "scripts/export-fixtures.ts. Do not edit by hand; run `npm run data`",
+ "corridor": {
+  "id": "sinhagad-road",
+  "road_name": "Sinhagad Road",
+  "length_m": 3503.8
+ },
+ "permits": [
+  {
+   "permit_id": "PMC/RC/2026/0001",
+   "department": "PMC Water Supply",
+   "purpose": "150mm water main replacement",
+   "work_type": "routine",
+   "in_annual_programme": true,
+   "fault_sanctioned": false,
+   "proposed_start": "2026-11-02",
+   "proposed_end": "2026-12-11",
+   "trench_depth_m": 1.2,
+   "trench_width_m": 1.2,
+   "road_side": "left",
+   "traffic_impact": "one_lane",
+   "status": "proposed",
+   "corridor_id": "sinhagad-road",
+   "chainage_start_m": 205.1,
+   "chainage_end_m": 426.5,
+   "trench_length_m": 221.5,
+   "snap_offset_m": 6.6,
+   "filed_at": "2026-10-01"
+  },
+  {
+   "permit_id": "PMC/RC/2026/0002",
+   "department": "Jio Fiber",
+   "purpose": "OFC duct laying for FTTH",
+   "work_type": "routine",
+   "in_annual_programme": true,
+   "fault_sanctioned": false,
+   "proposed_start": "2026-11-23",
+   "proposed_end": "2026-12-02",
+   "trench_depth_m": 0.6,
+   "trench_width_m": 0.7,
+   "road_side": "left",
+   "traffic_impact": "partial_closure",
+   "status": "proposed",
+   "corridor_id": "sinhagad-road",
+   "chainage_start_m": 214,
+   "chainage_end_m": 405.8,
+   "trench_length_m": 191.8,
+   "snap_offset_m": 0.6,
+   "filed_at": "2026-10-08"
+  },
+  {
+   "permit_id": "PMC/RC/2026/0003",
+   "department": "MSEDCL (electricity)",
+   "purpose": "11kV underground cable trenching and duct installation",
+   "work_type": "routine",
+   "in_annual_programme": true,
+   "fault_sanctioned": false,
+   "proposed_start": "2026-11-26",
+   "proposed_end": "2026-12-06",
+   "trench_depth_m": 0.9,
+   "trench_width_m": 1,
+   "road_side": "center",
+   "traffic_impact": "one_lane",
+   "status": "proposed",
+   "corridor_id": "sinhagad-road",
+   "chainage_start_m": 214.4,
+   "chainage_end_m": 385.5,
+   "trench_length_m": 171.1,
+   "snap_offset_m": 5.2,
+   "filed_at": "2026-10-12"
+  },
+  {
+   "permit_id": "PMC/RC/2026/0004",
+   "department": "Maharashtra Natural Gas Ltd",
+   "purpose": "Gas distribution line extension to residential frontage",
+   "work_type": "routine",
+   "in_annual_programme": true,
+   "fault_sanctioned": false,
+   "proposed_start": "2026-11-09",
+   "proposed_end": "2026-12-09",
+   "trench_depth_m": 0.8,
+   "trench_width_m": 0.8,
+   "road_side": "right",
+   "traffic_impact": "partial_closure",
+   "status": "approved",
+   "corridor_id": "sinhagad-road",
+   "chainage_start_m": 747,
+   "chainage_end_m": 959.7,
+   "trench_length_m": 212.7,
+   "snap_offset_m": 0.5,
+   "filed_at": "2026-09-15"
+  },
+  {
+   "permit_id": "PMC/RC/2026/0005",
+   "department": "MSEDCL (electricity)",
+   "purpose": "LT cable replacement and feeder duct installation",
+   "work_type": "routine",
+   "in_annual_programme": true,
+   "fault_sanctioned": false,
+   "proposed_start": "2026-11-23",
+   "proposed_end": "2026-12-07",
+   "trench_depth_m": 0.9,
+   "trench_width_m": 0.8,
+   "road_side": "right",
+   "traffic_impact": "one_lane",
+   "status": "approved",
+   "corridor_id": "sinhagad-road",
+   "chainage_start_m": 793,
+   "chainage_end_m": 940.4,
+   "trench_length_m": 147.4,
+   "snap_offset_m": 2.9,
+   "filed_at": "2026-09-25"
+  },
+  {
+   "permit_id": "PMC/RC/2026/0006",
+   "department": "Airtel Fiber",
+   "purpose": "OFC duct laying for enterprise and FTTH connections",
+   "work_type": "routine",
+   "in_annual_programme": false,
+   "fault_sanctioned": false,
+   "proposed_start": "2026-11-30",
+   "proposed_end": "2026-12-14",
+   "trench_depth_m": 0.6,
+   "trench_width_m": 0.7,
+   "road_side": "right",
+   "traffic_impact": "partial_closure",
+   "status": "proposed",
+   "corridor_id": "sinhagad-road",
+   "chainage_start_m": 770.1,
+   "chainage_end_m": 949.1,
+   "trench_length_m": 179,
+   "snap_offset_m": 2.9,
+   "filed_at": "2026-10-13"
+  },
+  {
+   "permit_id": "PMC/RC/2026/0007",
+   "department": "PMC Sewerage/Drainage",
+   "purpose": "450mm sewer line rehabilitation and chamber repair",
+   "work_type": "routine",
+   "in_annual_programme": true,
+   "fault_sanctioned": false,
+   "proposed_start": "2026-10-05",
+   "proposed_end": "2026-11-20",
+   "trench_depth_m": 1.5,
+   "trench_width_m": 1.4,
+   "road_side": "left",
+   "traffic_impact": "one_lane",
+   "status": "approved",
+   "corridor_id": "sinhagad-road",
+   "chainage_start_m": 1284,
+   "chainage_end_m": 1388.7,
+   "trench_length_m": 104.7,
+   "snap_offset_m": 0,
+   "filed_at": "2026-09-01"
+  },
+  {
+   "permit_id": "PMC/RC/2026/0008",
+   "department": "Airtel Fiber",
+   "purpose": "OFC duct extension along restored footpath edge",
+   "work_type": "routine",
+   "in_annual_programme": true,
+   "fault_sanctioned": false,
+   "proposed_start": "2026-11-19",
+   "proposed_end": "2026-11-28",
+   "trench_depth_m": 0.6,
+   "trench_width_m": 0.7,
+   "road_side": "left",
+   "traffic_impact": "partial_closure",
+   "status": "proposed",
+   "corridor_id": "sinhagad-road",
+   "chainage_start_m": 1327.4,
+   "chainage_end_m": 1362.1,
+   "trench_length_m": 34.7,
+   "snap_offset_m": 3.6,
+   "filed_at": "2026-10-09"
+  },
+  {
+   "permit_id": "PMC/RC/2026/0009",
+   "department": "Jio Fiber",
+   "purpose": "Micro-duct installation for FTTH expansion",
+   "work_type": "routine",
+   "in_annual_programme": true,
+   "fault_sanctioned": false,
+   "proposed_start": "2026-11-20",
+   "proposed_end": "2026-11-30",
+   "trench_depth_m": 0.6,
+   "trench_width_m": 0.6,
+   "road_side": "left",
+   "traffic_impact": "partial_closure",
+   "status": "proposed",
+   "corridor_id": "sinhagad-road",
+   "chainage_start_m": 1334.4,
+   "chainage_end_m": 1373.3,
+   "trench_length_m": 39,
+   "snap_offset_m": 4,
+   "filed_at": "2026-10-11"
+  },
+  {
+   "permit_id": "PMC/RC/2026/0010",
+   "department": "PMC Water Supply",
+   "purpose": "300mm water feeder replacement",
+   "work_type": "routine",
+   "in_annual_programme": true,
+   "fault_sanctioned": false,
+   "proposed_start": "2026-10-20",
+   "proposed_end": "2026-11-25",
+   "trench_depth_m": 1.2,
+   "trench_width_m": 1.3,
+   "road_side": "right",
+   "traffic_impact": "one_lane",
+   "status": "approved",
+   "corridor_id": "sinhagad-road",
+   "chainage_start_m": 1493,
+   "chainage_end_m": 1597.3,
+   "trench_length_m": 104.4,
+   "snap_offset_m": 0,
+   "filed_at": "2026-09-10"
+  },
+  {
+   "permit_id": "PMC/RC/2026/0011",
+   "department": "Maharashtra Natural Gas Ltd",
+   "purpose": "PE gas service main extension",
+   "work_type": "routine",
+   "in_annual_programme": true,
+   "fault_sanctioned": false,
+   "proposed_start": "2026-11-05",
+   "proposed_end": "2026-11-18",
+   "trench_depth_m": 0.8,
+   "trench_width_m": 0.8,
+   "road_side": "right",
+   "traffic_impact": "partial_closure",
+   "status": "proposed",
+   "corridor_id": "sinhagad-road",
+   "chainage_start_m": 1520.8,
+   "chainage_end_m": 1571.3,
+   "trench_length_m": 50.6,
+   "snap_offset_m": 3.7,
+   "filed_at": "2026-10-10"
+  },
+  {
+   "permit_id": "PMC/RC/2026/0012",
+   "department": "MSEDCL (electricity)",
+   "purpose": "LT underground cable augmentation for local distribution",
+   "work_type": "routine",
+   "in_annual_programme": true,
+   "fault_sanctioned": false,
+   "proposed_start": "2026-12-01",
+   "proposed_end": "2026-12-20",
+   "trench_depth_m": 0.9,
+   "trench_width_m": 0.9,
+   "road_side": "center",
+   "traffic_impact": "one_lane",
+   "status": "proposed",
+   "corridor_id": "sinhagad-road",
+   "chainage_start_m": 1850.7,
+   "chainage_end_m": 1953.5,
+   "trench_length_m": 102.8,
+   "snap_offset_m": 2.5,
+   "filed_at": "2026-10-02"
+  },
+  {
+   "permit_id": "PMC/RC/2026/0013",
+   "department": "Jio Fiber",
+   "purpose": "OFC duct laying for residential FTTH connections",
+   "work_type": "routine",
+   "in_annual_programme": true,
+   "fault_sanctioned": false,
+   "proposed_start": "2026-12-10",
+   "proposed_end": "2026-12-20",
+   "trench_depth_m": 0.6,
+   "trench_width_m": 0.7,
+   "road_side": "right",
+   "traffic_impact": "partial_closure",
+   "status": "proposed",
+   "corridor_id": "sinhagad-road",
+   "chainage_start_m": 1869.9,
+   "chainage_end_m": 1937.7,
+   "trench_length_m": 67.8,
+   "snap_offset_m": 1.9,
+   "filed_at": "2026-10-06"
+  },
+  {
+   "permit_id": "PMC/RC/2026/0014",
+   "department": "PMC Sewerage/Drainage",
+   "purpose": "Stormwater drain desilting and damaged slab replacement",
+   "work_type": "routine",
+   "in_annual_programme": true,
+   "fault_sanctioned": false,
+   "proposed_start": "2026-12-12",
+   "proposed_end": "2026-12-25",
+   "trench_depth_m": 1.1,
+   "trench_width_m": 1.1,
+   "road_side": "left",
+   "traffic_impact": "one_lane",
+   "status": "proposed",
+   "corridor_id": "sinhagad-road",
+   "chainage_start_m": 1880.9,
+   "chainage_end_m": 1965.7,
+   "trench_length_m": 84.8,
+   "snap_offset_m": 2.1,
+   "filed_at": "2026-10-09"
+  },
+  {
+   "permit_id": "PMC/RC/2026/0015",
+   "department": "Airtel Fiber",
+   "purpose": "Small-cell backhaul OFC spur connection",
+   "work_type": "routine",
+   "in_annual_programme": true,
+   "fault_sanctioned": false,
+   "proposed_start": "2026-08-28",
+   "proposed_end": "2026-09-03",
+   "trench_depth_m": 0.6,
+   "trench_width_m": 0.6,
+   "road_side": "left",
+   "traffic_impact": "partial_closure",
+   "status": "completed",
+   "corridor_id": "sinhagad-road",
+   "chainage_start_m": 47.8,
+   "chainage_end_m": 92.2,
+   "trench_length_m": 44.4,
+   "snap_offset_m": 4.4,
+   "filed_at": "2026-08-01"
+  },
+  {
+   "permit_id": "PMC/RC/2026/0016",
+   "department": "PMC Sewerage/Drainage",
+   "purpose": "Inspection chamber reconstruction and local drain repair",
+   "work_type": "routine",
+   "in_annual_programme": true,
+   "fault_sanctioned": false,
+   "proposed_start": "2026-08-15",
+   "proposed_end": "2026-08-24",
+   "trench_depth_m": 1,
+   "trench_width_m": 0.9,
+   "road_side": "right",
+   "traffic_impact": "partial_closure",
+   "status": "completed",
+   "corridor_id": "sinhagad-road",
+   "chainage_start_m": 471.9,
+   "chainage_end_m": 527.6,
+   "trench_length_m": 55.6,
+   "snap_offset_m": 0.7,
+   "filed_at": "2026-07-20"
+  },
+  {
+   "permit_id": "PMC/RC/2026/0017",
+   "department": "MSEDCL (electricity)",
+   "purpose": "Street-side feeder pillar and service cable trenching",
+   "work_type": "routine",
+   "in_annual_programme": true,
+   "fault_sanctioned": false,
+   "proposed_start": "2027-01-11",
+   "proposed_end": "2027-01-18",
+   "trench_depth_m": 0.9,
+   "trench_width_m": 0.7,
+   "road_side": "left",
+   "traffic_impact": "partial_closure",
+   "status": "proposed",
+   "corridor_id": "sinhagad-road",
+   "chainage_start_m": 1064.9,
+   "chainage_end_m": 1135.8,
+   "trench_length_m": 70.9,
+   "snap_offset_m": 0,
+   "filed_at": "2026-10-14"
+  },
+  {
+   "permit_id": "PMC/RC/2026/0018",
+   "department": "PMC Water Supply",
+   "purpose": "Leak repair and replacement of short water-main section",
+   "work_type": "emergency_fault",
+   "in_annual_programme": true,
+   "fault_sanctioned": false,
+   "proposed_start": "2026-10-14",
+   "proposed_end": "2026-10-18",
+   "trench_depth_m": 1.1,
+   "trench_width_m": 0.8,
+   "road_side": "right",
+   "traffic_impact": "one_lane",
+   "status": "in_progress",
+   "corridor_id": "sinhagad-road",
+   "chainage_start_m": 1347.4,
+   "chainage_end_m": 1384,
+   "trench_length_m": 36.6,
+   "snap_offset_m": 9.3,
+   "filed_at": "2026-10-14"
+  },
+  {
+   "permit_id": "PMC/RC/2026/0019",
+   "department": "Maharashtra Natural Gas Ltd",
+   "purpose": "Individual gas service line extension",
+   "work_type": "routine",
+   "in_annual_programme": true,
+   "fault_sanctioned": false,
+   "proposed_start": "2027-05-20",
+   "proposed_end": "2027-05-26",
+   "trench_depth_m": 0.8,
+   "trench_width_m": 0.6,
+   "road_side": "left",
+   "traffic_impact": "partial_closure",
+   "status": "proposed",
+   "corridor_id": "sinhagad-road",
+   "chainage_start_m": 1631.8,
+   "chainage_end_m": 1672.4,
+   "trench_length_m": 40.6,
+   "snap_offset_m": 12.3,
+   "filed_at": "2026-10-07"
+  },
+  {
+   "permit_id": "PMC/RC/2026/0020",
+   "department": "Pune Metro Rail",
+   "purpose": "Utility protection and service diversion works for corridor interface",
+   "work_type": "routine",
+   "in_annual_programme": true,
+   "fault_sanctioned": false,
+   "proposed_start": "2026-10-20",
+   "proposed_end": "2026-12-18",
+   "trench_depth_m": 1,
+   "trench_width_m": 1.5,
+   "road_side": "full-width",
+   "traffic_impact": "one_lane",
+   "status": "approved",
+   "corridor_id": "sinhagad-road",
+   "chainage_start_m": 2006.8,
+   "chainage_end_m": 2074.6,
+   "trench_length_m": 67.8,
+   "snap_offset_m": 1.9,
+   "filed_at": "2026-09-05"
+  },
+  {
+   "permit_id": "PMC/RC/2026/0021",
+   "department": "PMC Water Supply",
+   "purpose": "Valve chamber reconstruction and 100mm distribution pipe replacement",
+   "work_type": "routine",
+   "in_annual_programme": true,
+   "fault_sanctioned": false,
+   "proposed_start": "2026-12-01",
+   "proposed_end": "2026-12-08",
+   "trench_depth_m": 1,
+   "trench_width_m": 0.8,
+   "road_side": "left",
+   "traffic_impact": "partial_closure",
+   "status": "proposed",
+   "corridor_id": "sinhagad-road",
+   "chainage_start_m": 1226.6,
+   "chainage_end_m": 1258.7,
+   "trench_length_m": 32.1,
+   "snap_offset_m": 3.8,
+   "filed_at": "2026-10-12"
+  },
+  {
+   "permit_id": "PMC/RC/2026/0022",
+   "department": "Airtel Fiber",
+   "purpose": "OFC repair and duct joint replacement",
+   "work_type": "emergency_fault",
+   "in_annual_programme": true,
+   "fault_sanctioned": false,
+   "proposed_start": "2026-08-30",
+   "proposed_end": "2026-09-05",
+   "trench_depth_m": 0.6,
+   "trench_width_m": 0.6,
+   "road_side": "right",
+   "traffic_impact": "partial_closure",
+   "status": "completed",
+   "corridor_id": "sinhagad-road",
+   "chainage_start_m": 1300.4,
+   "chainage_end_m": 1323.6,
+   "trench_length_m": 23.1,
+   "snap_offset_m": 1.6,
+   "filed_at": "2026-08-30"
+  },
+  {
+   "permit_id": "PMC/RC/2026/0023",
+   "department": "PMC Water Supply",
+   "purpose": "200mm water distribution main replacement near Karva Hospital",
+   "work_type": "routine",
+   "in_annual_programme": true,
+   "fault_sanctioned": false,
+   "proposed_start": "2026-10-26",
+   "proposed_end": "2026-11-26",
+   "trench_depth_m": 1.2,
+   "trench_width_m": 1,
+   "road_side": "left",
+   "traffic_impact": "partial_closure",
+   "status": "proposed",
+   "corridor_id": "sinhagad-road",
+   "chainage_start_m": 3256.5,
+   "chainage_end_m": 3453.8,
+   "trench_length_m": 197.3,
+   "snap_offset_m": 3,
+   "filed_at": "2026-09-20"
+  },
+  {
+   "permit_id": "PMC/RC/2026/0024",
+   "department": "Jio Fiber",
+   "purpose": "OFC duct laying for FTTH near Karva Hospital",
+   "work_type": "routine",
+   "in_annual_programme": true,
+   "fault_sanctioned": false,
+   "proposed_start": "2026-11-12",
+   "proposed_end": "2026-11-23",
+   "trench_depth_m": 0.6,
+   "trench_width_m": 0.5,
+   "road_side": "right",
+   "traffic_impact": "partial_closure",
+   "status": "proposed",
+   "corridor_id": "sinhagad-road",
+   "chainage_start_m": 3301.6,
+   "chainage_end_m": 3420.5,
+   "trench_length_m": 118.9,
+   "snap_offset_m": 3,
+   "filed_at": "2026-10-10"
+  },
+  {
+   "permit_id": "PMC/RC/2026/0025",
+   "department": "MSEDCL (electricity)",
+   "purpose": "Street light feeder cable replacement",
+   "work_type": "routine",
+   "in_annual_programme": true,
+   "fault_sanctioned": false,
+   "proposed_start": "2026-08-10",
+   "proposed_end": "2026-08-18",
+   "trench_depth_m": 0.8,
+   "trench_width_m": 0.5,
+   "road_side": "right",
+   "traffic_impact": "partial_closure",
+   "status": "completed",
+   "corridor_id": "sinhagad-road",
+   "chainage_start_m": 2588.9,
+   "chainage_end_m": 2682.9,
+   "trench_length_m": 94,
+   "snap_offset_m": 3,
+   "filed_at": "2026-07-15"
+  }
+ ],
+ "restorations": [
+  {
+   "id": "R1",
+   "chainage_start_m": 371.9,
+   "chainage_end_m": 627.6,
+   "completed_on": "2026-08-28",
+   "surface": "bituminous",
+   "protected": false
+  },
+  {
+   "id": "R2",
+   "chainage_start_m": 697,
+   "chainage_end_m": 1009.7,
+   "completed_on": "2025-11-01",
+   "surface": "cement_concrete",
+   "protected": true
+  },
+  {
+   "id": "R3",
+   "chainage_start_m": 2588.9,
+   "chainage_end_m": 2682.9,
+   "completed_on": "2026-08-20",
+   "surface": "bituminous",
+   "protected": false
+  }
+ ],
+ "infraZones": [
+  {
+   "id": "METRO-L4-INTERFACE",
+   "project_name": "Pune Metro Line 4 — Kharadi to Khadakwasla",
+   "agency": "Maharashtra Metro Rail Corporation Limited (Maha Metro)",
+   "status": "active",
+   "start_date": "2026-06-26",
+   "end_date": "2030-04-13",
+   "context_only": false,
+   "chainage_start_m": 1856.8,
+   "chainage_end_m": 2224.6
+  },
+  {
+   "id": "RAJARAM-BRIDGE-WIDENING",
+   "project_name": "Rajaram Bridge Widening to 30 m",
+   "agency": "Pune Municipal Corporation (PMC), Chief Engineer (Projects)",
+   "status": "planned",
+   "start_date": null,
+   "end_date": null,
+   "context_only": true,
+   "chainage_start_m": 979.8,
+   "chainage_end_m": 1279.8
+  },
+  {
+   "id": "SHIVANE-KHARADI-LINK",
+   "project_name": "Shivane–Kharadi Riverside Road — Rajaram Bridge to Jawalkar Garden Missing Link",
+   "agency": "Pune Municipal Corporation (PMC)",
+   "status": "ongoing",
+   "start_date": null,
+   "end_date": null,
+   "context_only": true,
+   "chainage_start_m": 979.8,
+   "chainage_end_m": 1279.8
+  }
+ ],
+ "rules": [
+  {
+   "rule_id": "PMC_DLP_12M",
+   "action": "REVIEW_REQUIRED",
+   "severity": "HIGH",
+   "trigger_text": "proposed_start_date is within 12 months after restoration_completion_date",
+   "params": {
+    "months": 12
+   },
+   "enabled": true
+  },
+  {
+   "rule_id": "PMC_CC_DLP_PRIOR_APPROVAL",
+   "action": "REVIEW_REQUIRED",
+   "severity": "HIGH",
+   "trigger_text": "CC/mastic road OR active defect-liability period",
+   "params": {
+    "surfaces": [
+     "cc",
+     "cement_concrete",
+     "mastic"
+    ],
+    "dlp_months": 12
+   },
+   "enabled": true
+  },
+  {
+   "rule_id": "PMC_MONSOON_5M",
+   "action": "BLOCK",
+   "severity": "HIGH",
+   "trigger_text": "routine excavation proposed from 30 April through 30 September",
+   "params": {
+    "start_mmdd": "04-30",
+    "end_mmdd": "09-30",
+    "applies_to": "routine"
+   },
+   "enabled": true
+  },
+  {
+   "rule_id": "PMC_FAULT_48H",
+   "action": "ALLOW_WITH_CONDITIONS",
+   "severity": "MEDIUM",
+   "trigger_text": "emergency fault repair",
+   "params": {
+    "hours": 48
+   },
+   "enabled": true
+  },
+  {
+   "rule_id": "PMC_FAULT_MONSOON_5X1",
+   "action": "BLOCK_OR_ESCALATE",
+   "severity": "HIGH",
+   "trigger_text": "fault repair during restricted period without appropriate sanction",
+   "params": {
+    "max_length_m": 5,
+    "max_width_m": 1
+   },
+   "enabled": true
+  },
+  {
+   "rule_id": "PMC_100M_STAGING",
+   "action": "ALLOW_WITH_CONDITIONS",
+   "severity": "MEDIUM",
+   "trigger_text": "trench length > 100 m",
+   "params": {
+    "max_length_m": 100
+   },
+   "enabled": true
+  },
+  {
+   "rule_id": "PMC_ANNUAL_PROGRAMME",
+   "action": "REVIEW_REQUIRED",
+   "severity": "MEDIUM",
+   "trigger_text": "planned utility trenching is absent from annual coordinated programme",
+   "params": {},
+   "enabled": true
+  },
+  {
+   "rule_id": "XPMS_REPEAT_SAME_6M",
+   "action": "RESCHEDULE_OR_WAIVER",
+   "severity": "HIGH",
+   "trigger_text": "same proponent excavated same location within previous 6 months OR plans another opening within 6 months",
+   "params": {
+    "months": 6
+   },
+   "enabled": true
+  },
+  {
+   "rule_id": "XPMS_REPEAT_OTHER_3M",
+   "action": "RESCHEDULE_OR_COMMON_TRENCH",
+   "severity": "HIGH",
+   "trigger_text": "other proponent excavated same location within previous 3 months OR plans work within 3 months",
+   "params": {
+    "months": 3
+   },
+   "enabled": true
+  },
+  {
+   "rule_id": "XPMS_COMMON_TRENCH_3_6M",
+   "action": "COORDINATION_REQUIRED",
+   "severity": "HIGH",
+   "trigger_text": "different proponents have spatially conflicting works within 3–6 months",
+   "params": {
+    "min_months": 3,
+    "max_months": 6
+   },
+   "enabled": true
+  },
+  {
+   "rule_id": "MOHUA_UTILITY_COORDINATION",
+   "action": "COORDINATION_REQUIRED",
+   "severity": "MEDIUM",
+   "trigger_text": "compatible OFC/power/gas or similar works are planned on the same urban road area",
+   "params": {
+    "groups": [
+     [
+      "Jio Fiber",
+      "Airtel Fiber",
+      "MSEDCL (electricity)",
+      "Maharashtra Natural Gas Ltd"
+     ]
+    ]
+   },
+   "enabled": true
+  },
+  {
+   "rule_id": "CORRIDOR_CRITICAL_MORATORIUM",
+   "action": "BLOCK_OR_CHIEF_ENGINEER_REVIEW",
+   "severity": "HIGH",
+   "trigger_text": "protected arterial/newly reconstructed road within configured protection period",
+   "params": {
+    "months": 36
+   },
+   "enabled": true
+  },
+  {
+   "rule_id": "CORRIDOR_RESTORED_12M",
+   "action": "REVIEW_REQUIRED",
+   "severity": "HIGH",
+   "trigger_text": "recently restored stretch within configured restoration window",
+   "params": {
+    "months": 12
+   },
+   "enabled": true
+  },
+  {
+   "rule_id": "CORRIDOR_FACILITY_CRITICALITY_GATE",
+   "action": "COORDINATION_REQUIRED",
+   "severity": "HIGH",
+   "trigger_text": "affected segment intersects configured critical-facility context AND coordination opportunity exists",
+   "params": {
+    "buffer_m": 200,
+    "critical_types": [
+     "hospital",
+     "clinic",
+     "school"
+    ],
+    "include_bus": true,
+    "commercial_min": 5
+   },
+   "enabled": true
+  },
+  {
+   "rule_id": "CORRIDOR_SAME_SEGMENT_MULTIWORK",
+   "action": "COORDINATION_REQUIRED",
+   "severity": "HIGH",
+   "trigger_text": "2+ permits overlap spatially on same corridor segment and execution windows overlap or fall within configured coordination window",
+   "params": {
+    "window_days": 90,
+    "adjacent_m": 50,
+    "nearby_m": 200,
+    "overlap_tolerance_m": 5
+   },
+   "enabled": true
+  },
+  {
+   "rule_id": "CORRIDOR_EXECUTION_FEASIBILITY",
+   "action": "ENGINEERING_REVIEW",
+   "severity": "MEDIUM",
+   "trigger_text": "spatially overlapping permits proposed for joint execution",
+   "params": {
+    "max_depth_diff_m": 0.6,
+    "heuristic": true,
+    "not_joint_departments": [
+     "Pune Metro Rail"
+    ],
+    "separation_pairs": [
+     [
+      "Maharashtra Natural Gas Ltd",
+      "MSEDCL (electricity)"
+     ]
+    ]
+   },
+   "enabled": true
+  }
+ ],
+ "context": {
+  "PMC/RC/2026/0001": {
+   "facilities": [
+    {
+     "id": "FAC-0209",
+     "name": "The Cake and Cream Factory",
+     "type": "commercial",
+     "distance_m": 19.1
+    },
+    {
+     "id": "FAC-0019",
+     "name": "Ranka",
+     "type": "bus_stop",
+     "distance_m": 44
+    },
+    {
+     "id": "FAC-0139",
+     "name": "Laxmi Drycleaners",
+     "type": "commercial",
+     "distance_m": 74.9
+    },
+    {
+     "id": "FAC-0133",
+     "name": "Kekiz The Cake Shop",
+     "type": "commercial",
+     "distance_m": 92.8
+    },
+    {
+     "id": "FAC-0203",
+     "name": "Sujata Mastani",
+     "type": "commercial",
+     "distance_m": 115.8
+    },
+    {
+     "id": "FAC-0181",
+     "name": "Ranka Jewellers",
+     "type": "commercial",
+     "distance_m": 162.9
+    },
+    {
+     "id": "FAC-0216",
+     "name": "Universal Pet store",
+     "type": "commercial",
+     "distance_m": 174.7
+    },
+    {
+     "id": "FAC-0137",
+     "name": "Krushna Gift House",
+     "type": "commercial",
+     "distance_m": 179.7
+    },
+    {
+     "id": "FAC-0147",
+     "name": "Mayur Agency",
+     "type": "commercial",
+     "distance_m": 194.7
+    },
+    {
+     "id": "FAC-0159",
+     "name": "New Vithhal Furniture",
+     "type": "commercial",
+     "distance_m": 208.1
+    },
+    {
+     "id": "FAC-0156",
+     "name": "New Govind Traders",
+     "type": "commercial",
+     "distance_m": 209.9
+    },
+    {
+     "id": "FAC-0286",
+     "name": "Mandir",
+     "type": "place_of_worship",
+     "distance_m": 227.3
+    },
+    {
+     "id": "FAC-0026",
+     "name": "Vitthalvadi",
+     "type": "bus_stop",
+     "distance_m": 421.5
+    }
+   ],
+   "busRoutes": [
+    {
+     "id": "1024",
+     "route_name": "Venutai Chavan College to Kothrud Depot (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "1326",
+     "route_name": "Dsk Vishwa to Nigdi Bhakti Shakti Stand (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "14",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "223",
+     "route_name": "Dsk Vishwa to Bhekrai Nagar (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "297",
+     "route_name": "Narhegaon to Shivaji Nagar (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "45",
+     "route_name": "Dhayareshwar Mandir to Swargate Natraj Stand (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "48",
+     "route_name": "Suncity to Swargate Natraj Stand (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "55",
+     "route_name": "Vadgaon Budruk Stand to Swargate Natraj Stand (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "858",
+     "route_name": "Sanaswadi Nandoshi to Swargate (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "866",
+     "route_name": "Sinhgad to Shaniwarwada Stand (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "876",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "878",
+     "route_name": "Varasgaon Goradwadi to Swargate (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "885",
+     "route_name": "Manerwadi Phata Khanapur to Swargate (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "890",
+     "route_name": "Shanipar Stand to Suncity (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "894",
+     "route_name": "Vadgaon Budruk Stand to Pune Station Jayprakash Stand (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "904",
+     "route_name": "Ghule Nagar Vadgaon Budruk to Swargate (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "905",
+     "route_name": "Swargate to Ghule Nagar Vadgaon Budruk (DOWN)",
+     "distance_m": 12
+    },
+    {
+     "id": "1025",
+     "route_name": "Kothrud Depot to Venutai Chavan College (DOWN)",
+     "distance_m": 13.3
+    },
+    {
+     "id": "1327",
+     "route_name": "Nigdi Bhakti Shakti Stand to Dsk Vishwa (DOWN)",
+     "distance_m": 13.3
+    },
+    {
+     "id": "15",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 13.3
+    },
+    {
+     "id": "224",
+     "route_name": "Bhekrai Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 13.3
+    },
+    {
+     "id": "298",
+     "route_name": "Shivaji Nagar to Narhegaon (DOWN)",
+     "distance_m": 13.3
+    },
+    {
+     "id": "47",
+     "route_name": "Swargate Natraj Stand to Dhayareshwar Mandir (DOWN)",
+     "distance_m": 13.3
+    },
+    {
+     "id": "49",
+     "route_name": "Swargate Natraj Stand to Suncity (DOWN)",
+     "distance_m": 13.3
+    },
+    {
+     "id": "57",
+     "route_name": "Swargate Natraj Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 13.3
+    },
+    {
+     "id": "859",
+     "route_name": "Swargate to Sanaswadi Nandoshi (DOWN)",
+     "distance_m": 13.3
+    },
+    {
+     "id": "873",
+     "route_name": "Shaniwarwada Stand to Sinhgad (DOWN)",
+     "distance_m": 13.3
+    },
+    {
+     "id": "877",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 13.3
+    },
+    {
+     "id": "879",
+     "route_name": "Swargate to Varasgaon Goradwadi (DOWN)",
+     "distance_m": 13.3
+    },
+    {
+     "id": "887",
+     "route_name": "Swargate to Manerwadi Phata Khanapur (DOWN)",
+     "distance_m": 13.3
+    },
+    {
+     "id": "891",
+     "route_name": "Suncity to Shanipar Stand (DOWN)",
+     "distance_m": 13.3
+    },
+    {
+     "id": "895",
+     "route_name": "Pune Station Jayprakash Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 13.3
+    }
+   ]
+  },
+  "PMC/RC/2026/0002": {
+   "facilities": [
+    {
+     "id": "FAC-0209",
+     "name": "The Cake and Cream Factory",
+     "type": "commercial",
+     "distance_m": 19.1
+    },
+    {
+     "id": "FAC-0019",
+     "name": "Ranka",
+     "type": "bus_stop",
+     "distance_m": 64.2
+    },
+    {
+     "id": "FAC-0139",
+     "name": "Laxmi Drycleaners",
+     "type": "commercial",
+     "distance_m": 74.9
+    },
+    {
+     "id": "FAC-0133",
+     "name": "Kekiz The Cake Shop",
+     "type": "commercial",
+     "distance_m": 92.8
+    },
+    {
+     "id": "FAC-0203",
+     "name": "Sujata Mastani",
+     "type": "commercial",
+     "distance_m": 136.1
+    },
+    {
+     "id": "FAC-0216",
+     "name": "Universal Pet store",
+     "type": "commercial",
+     "distance_m": 174.7
+    },
+    {
+     "id": "FAC-0137",
+     "name": "Krushna Gift House",
+     "type": "commercial",
+     "distance_m": 179.7
+    },
+    {
+     "id": "FAC-0181",
+     "name": "Ranka Jewellers",
+     "type": "commercial",
+     "distance_m": 183.3
+    },
+    {
+     "id": "FAC-0147",
+     "name": "Mayur Agency",
+     "type": "commercial",
+     "distance_m": 194.7
+    },
+    {
+     "id": "FAC-0156",
+     "name": "New Govind Traders",
+     "type": "commercial",
+     "distance_m": 209.9
+    },
+    {
+     "id": "FAC-0159",
+     "name": "New Vithhal Furniture",
+     "type": "commercial",
+     "distance_m": 228.9
+    },
+    {
+     "id": "FAC-0286",
+     "name": "Mandir",
+     "type": "place_of_worship",
+     "distance_m": 240.8
+    },
+    {
+     "id": "FAC-0026",
+     "name": "Vitthalvadi",
+     "type": "bus_stop",
+     "distance_m": 442
+    }
+   ],
+   "busRoutes": [
+    {
+     "id": "1024",
+     "route_name": "Venutai Chavan College to Kothrud Depot (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "1326",
+     "route_name": "Dsk Vishwa to Nigdi Bhakti Shakti Stand (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "14",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "223",
+     "route_name": "Dsk Vishwa to Bhekrai Nagar (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "297",
+     "route_name": "Narhegaon to Shivaji Nagar (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "45",
+     "route_name": "Dhayareshwar Mandir to Swargate Natraj Stand (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "48",
+     "route_name": "Suncity to Swargate Natraj Stand (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "55",
+     "route_name": "Vadgaon Budruk Stand to Swargate Natraj Stand (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "858",
+     "route_name": "Sanaswadi Nandoshi to Swargate (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "866",
+     "route_name": "Sinhgad to Shaniwarwada Stand (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "876",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "878",
+     "route_name": "Varasgaon Goradwadi to Swargate (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "885",
+     "route_name": "Manerwadi Phata Khanapur to Swargate (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "890",
+     "route_name": "Shanipar Stand to Suncity (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "894",
+     "route_name": "Vadgaon Budruk Stand to Pune Station Jayprakash Stand (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "904",
+     "route_name": "Ghule Nagar Vadgaon Budruk to Swargate (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "905",
+     "route_name": "Swargate to Ghule Nagar Vadgaon Budruk (DOWN)",
+     "distance_m": 16.1
+    },
+    {
+     "id": "1025",
+     "route_name": "Kothrud Depot to Venutai Chavan College (DOWN)",
+     "distance_m": 16.5
+    },
+    {
+     "id": "1327",
+     "route_name": "Nigdi Bhakti Shakti Stand to Dsk Vishwa (DOWN)",
+     "distance_m": 16.5
+    },
+    {
+     "id": "15",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 16.5
+    },
+    {
+     "id": "224",
+     "route_name": "Bhekrai Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 16.5
+    },
+    {
+     "id": "298",
+     "route_name": "Shivaji Nagar to Narhegaon (DOWN)",
+     "distance_m": 16.5
+    },
+    {
+     "id": "47",
+     "route_name": "Swargate Natraj Stand to Dhayareshwar Mandir (DOWN)",
+     "distance_m": 16.5
+    },
+    {
+     "id": "49",
+     "route_name": "Swargate Natraj Stand to Suncity (DOWN)",
+     "distance_m": 16.5
+    },
+    {
+     "id": "57",
+     "route_name": "Swargate Natraj Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 16.5
+    },
+    {
+     "id": "859",
+     "route_name": "Swargate to Sanaswadi Nandoshi (DOWN)",
+     "distance_m": 16.5
+    },
+    {
+     "id": "873",
+     "route_name": "Shaniwarwada Stand to Sinhgad (DOWN)",
+     "distance_m": 16.5
+    },
+    {
+     "id": "877",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 16.5
+    },
+    {
+     "id": "879",
+     "route_name": "Swargate to Varasgaon Goradwadi (DOWN)",
+     "distance_m": 16.5
+    },
+    {
+     "id": "887",
+     "route_name": "Swargate to Manerwadi Phata Khanapur (DOWN)",
+     "distance_m": 16.5
+    },
+    {
+     "id": "891",
+     "route_name": "Suncity to Shanipar Stand (DOWN)",
+     "distance_m": 16.5
+    },
+    {
+     "id": "895",
+     "route_name": "Pune Station Jayprakash Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 16.5
+    }
+   ]
+  },
+  "PMC/RC/2026/0003": {
+   "facilities": [
+    {
+     "id": "FAC-0209",
+     "name": "The Cake and Cream Factory",
+     "type": "commercial",
+     "distance_m": 22.3
+    },
+    {
+     "id": "FAC-0139",
+     "name": "Laxmi Drycleaners",
+     "type": "commercial",
+     "distance_m": 74.9
+    },
+    {
+     "id": "FAC-0019",
+     "name": "Ranka",
+     "type": "bus_stop",
+     "distance_m": 84.2
+    },
+    {
+     "id": "FAC-0133",
+     "name": "Kekiz The Cake Shop",
+     "type": "commercial",
+     "distance_m": 92.8
+    },
+    {
+     "id": "FAC-0203",
+     "name": "Sujata Mastani",
+     "type": "commercial",
+     "distance_m": 156.1
+    },
+    {
+     "id": "FAC-0216",
+     "name": "Universal Pet store",
+     "type": "commercial",
+     "distance_m": 174.7
+    },
+    {
+     "id": "FAC-0137",
+     "name": "Krushna Gift House",
+     "type": "commercial",
+     "distance_m": 179.7
+    },
+    {
+     "id": "FAC-0147",
+     "name": "Mayur Agency",
+     "type": "commercial",
+     "distance_m": 194.7
+    },
+    {
+     "id": "FAC-0181",
+     "name": "Ranka Jewellers",
+     "type": "commercial",
+     "distance_m": 203.2
+    },
+    {
+     "id": "FAC-0156",
+     "name": "New Govind Traders",
+     "type": "commercial",
+     "distance_m": 209.9
+    },
+    {
+     "id": "FAC-0159",
+     "name": "New Vithhal Furniture",
+     "type": "commercial",
+     "distance_m": 249.1
+    },
+    {
+     "id": "FAC-0286",
+     "name": "Mandir",
+     "type": "place_of_worship",
+     "distance_m": 254.9
+    },
+    {
+     "id": "FAC-0026",
+     "name": "Vitthalvadi",
+     "type": "bus_stop",
+     "distance_m": 462
+    }
+   ],
+   "busRoutes": [
+    {
+     "id": "1024",
+     "route_name": "Venutai Chavan College to Kothrud Depot (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "1326",
+     "route_name": "Dsk Vishwa to Nigdi Bhakti Shakti Stand (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "14",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "223",
+     "route_name": "Dsk Vishwa to Bhekrai Nagar (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "297",
+     "route_name": "Narhegaon to Shivaji Nagar (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "45",
+     "route_name": "Dhayareshwar Mandir to Swargate Natraj Stand (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "48",
+     "route_name": "Suncity to Swargate Natraj Stand (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "55",
+     "route_name": "Vadgaon Budruk Stand to Swargate Natraj Stand (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "858",
+     "route_name": "Sanaswadi Nandoshi to Swargate (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "866",
+     "route_name": "Sinhgad to Shaniwarwada Stand (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "876",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "878",
+     "route_name": "Varasgaon Goradwadi to Swargate (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "885",
+     "route_name": "Manerwadi Phata Khanapur to Swargate (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "890",
+     "route_name": "Shanipar Stand to Suncity (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "894",
+     "route_name": "Vadgaon Budruk Stand to Pune Station Jayprakash Stand (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "904",
+     "route_name": "Ghule Nagar Vadgaon Budruk to Swargate (UP)",
+     "distance_m": 0.5
+    },
+    {
+     "id": "1025",
+     "route_name": "Kothrud Depot to Venutai Chavan College (DOWN)",
+     "distance_m": 18.9
+    },
+    {
+     "id": "1327",
+     "route_name": "Nigdi Bhakti Shakti Stand to Dsk Vishwa (DOWN)",
+     "distance_m": 18.9
+    },
+    {
+     "id": "15",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 18.9
+    },
+    {
+     "id": "224",
+     "route_name": "Bhekrai Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 18.9
+    },
+    {
+     "id": "298",
+     "route_name": "Shivaji Nagar to Narhegaon (DOWN)",
+     "distance_m": 18.9
+    },
+    {
+     "id": "47",
+     "route_name": "Swargate Natraj Stand to Dhayareshwar Mandir (DOWN)",
+     "distance_m": 18.9
+    },
+    {
+     "id": "49",
+     "route_name": "Swargate Natraj Stand to Suncity (DOWN)",
+     "distance_m": 18.9
+    },
+    {
+     "id": "57",
+     "route_name": "Swargate Natraj Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 18.9
+    },
+    {
+     "id": "859",
+     "route_name": "Swargate to Sanaswadi Nandoshi (DOWN)",
+     "distance_m": 18.9
+    },
+    {
+     "id": "873",
+     "route_name": "Shaniwarwada Stand to Sinhgad (DOWN)",
+     "distance_m": 18.9
+    },
+    {
+     "id": "877",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 18.9
+    },
+    {
+     "id": "879",
+     "route_name": "Swargate to Varasgaon Goradwadi (DOWN)",
+     "distance_m": 18.9
+    },
+    {
+     "id": "887",
+     "route_name": "Swargate to Manerwadi Phata Khanapur (DOWN)",
+     "distance_m": 18.9
+    },
+    {
+     "id": "891",
+     "route_name": "Suncity to Shanipar Stand (DOWN)",
+     "distance_m": 18.9
+    },
+    {
+     "id": "895",
+     "route_name": "Pune Station Jayprakash Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 18.9
+    },
+    {
+     "id": "905",
+     "route_name": "Swargate to Ghule Nagar Vadgaon Budruk (DOWN)",
+     "distance_m": 18.9
+    }
+   ]
+  },
+  "PMC/RC/2026/0004": {
+   "facilities": [
+    {
+     "id": "FAC-0026",
+     "name": "Vitthalvadi",
+     "type": "bus_stop",
+     "distance_m": 0
+    },
+    {
+     "id": "FAC-0159",
+     "name": "New Vithhal Furniture",
+     "type": "commercial",
+     "distance_m": 111.1
+    },
+    {
+     "id": "FAC-0181",
+     "name": "Ranka Jewellers",
+     "type": "commercial",
+     "distance_m": 156.2
+    },
+    {
+     "id": "FAC-0015",
+     "name": "Rajaram Bridge",
+     "type": "bus_stop",
+     "distance_m": 174
+    },
+    {
+     "id": "FAC-0016",
+     "name": "Rajaram Bridge",
+     "type": "bus_stop",
+     "distance_m": 207.8
+    },
+    {
+     "id": "FAC-0203",
+     "name": "Sujata Mastani",
+     "type": "commercial",
+     "distance_m": 210.6
+    },
+    {
+     "id": "FAC-0286",
+     "name": "Mandir",
+     "type": "place_of_worship",
+     "distance_m": 225.3
+    },
+    {
+     "id": "FAC-0019",
+     "name": "Ranka",
+     "type": "bus_stop",
+     "distance_m": 273.9
+    },
+    {
+     "id": "FAC-0300",
+     "name": "Sarda Math",
+     "type": "place_of_worship",
+     "distance_m": 337.9
+    },
+    {
+     "id": "FAC-0209",
+     "name": "The Cake and Cream Factory",
+     "type": "commercial",
+     "distance_m": 348.8
+    },
+    {
+     "id": "FAC-0133",
+     "name": "Kekiz The Cake Shop",
+     "type": "commercial",
+     "distance_m": 431.1
+    },
+    {
+     "id": "FAC-0139",
+     "name": "Laxmi Drycleaners",
+     "type": "commercial",
+     "distance_m": 431.1
+    },
+    {
+     "id": "FAC-0216",
+     "name": "Universal Pet store",
+     "type": "commercial",
+     "distance_m": 442.6
+    },
+    {
+     "id": "FAC-0137",
+     "name": "Krushna Gift House",
+     "type": "commercial",
+     "distance_m": 443.9
+    },
+    {
+     "id": "FAC-0147",
+     "name": "Mayur Agency",
+     "type": "commercial",
+     "distance_m": 446.6
+    },
+    {
+     "id": "FAC-0156",
+     "name": "New Govind Traders",
+     "type": "commercial",
+     "distance_m": 453.1
+    },
+    {
+     "id": "FAC-0283",
+     "name": "Hanuman Mandir",
+     "type": "place_of_worship",
+     "distance_m": 471.2
+    }
+   ],
+   "busRoutes": [
+    {
+     "id": "1025",
+     "route_name": "Kothrud Depot to Venutai Chavan College (DOWN)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "1327",
+     "route_name": "Nigdi Bhakti Shakti Stand to Dsk Vishwa (DOWN)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "15",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "224",
+     "route_name": "Bhekrai Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "298",
+     "route_name": "Shivaji Nagar to Narhegaon (DOWN)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "47",
+     "route_name": "Swargate Natraj Stand to Dhayareshwar Mandir (DOWN)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "49",
+     "route_name": "Swargate Natraj Stand to Suncity (DOWN)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "57",
+     "route_name": "Swargate Natraj Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "859",
+     "route_name": "Swargate to Sanaswadi Nandoshi (DOWN)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "873",
+     "route_name": "Shaniwarwada Stand to Sinhgad (DOWN)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "877",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "879",
+     "route_name": "Swargate to Varasgaon Goradwadi (DOWN)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "887",
+     "route_name": "Swargate to Manerwadi Phata Khanapur (DOWN)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "891",
+     "route_name": "Suncity to Shanipar Stand (DOWN)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "895",
+     "route_name": "Pune Station Jayprakash Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "1024",
+     "route_name": "Venutai Chavan College to Kothrud Depot (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "1326",
+     "route_name": "Dsk Vishwa to Nigdi Bhakti Shakti Stand (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "14",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "223",
+     "route_name": "Dsk Vishwa to Bhekrai Nagar (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "297",
+     "route_name": "Narhegaon to Shivaji Nagar (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "45",
+     "route_name": "Dhayareshwar Mandir to Swargate Natraj Stand (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "48",
+     "route_name": "Suncity to Swargate Natraj Stand (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "55",
+     "route_name": "Vadgaon Budruk Stand to Swargate Natraj Stand (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "858",
+     "route_name": "Sanaswadi Nandoshi to Swargate (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "866",
+     "route_name": "Sinhgad to Shaniwarwada Stand (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "876",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "878",
+     "route_name": "Varasgaon Goradwadi to Swargate (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "885",
+     "route_name": "Manerwadi Phata Khanapur to Swargate (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "890",
+     "route_name": "Shanipar Stand to Suncity (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "894",
+     "route_name": "Vadgaon Budruk Stand to Pune Station Jayprakash Stand (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "904",
+     "route_name": "Ghule Nagar Vadgaon Budruk to Swargate (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "905",
+     "route_name": "Swargate to Ghule Nagar Vadgaon Budruk (DOWN)",
+     "distance_m": 1.8
+    }
+   ]
+  },
+  "PMC/RC/2026/0005": {
+   "facilities": [
+    {
+     "id": "FAC-0026",
+     "name": "Vitthalvadi",
+     "type": "bus_stop",
+     "distance_m": 0
+    },
+    {
+     "id": "FAC-0159",
+     "name": "New Vithhal Furniture",
+     "type": "commercial",
+     "distance_m": 157
+    },
+    {
+     "id": "FAC-0015",
+     "name": "Rajaram Bridge",
+     "type": "bus_stop",
+     "distance_m": 192.6
+    },
+    {
+     "id": "FAC-0181",
+     "name": "Ranka Jewellers",
+     "type": "commercial",
+     "distance_m": 200.2
+    },
+    {
+     "id": "FAC-0016",
+     "name": "Rajaram Bridge",
+     "type": "bus_stop",
+     "distance_m": 225
+    },
+    {
+     "id": "FAC-0286",
+     "name": "Mandir",
+     "type": "place_of_worship",
+     "distance_m": 252.6
+    },
+    {
+     "id": "FAC-0203",
+     "name": "Sujata Mastani",
+     "type": "commercial",
+     "distance_m": 256.5
+    },
+    {
+     "id": "FAC-0019",
+     "name": "Ranka",
+     "type": "bus_stop",
+     "distance_m": 318.7
+    },
+    {
+     "id": "FAC-0300",
+     "name": "Sarda Math",
+     "type": "place_of_worship",
+     "distance_m": 356.5
+    },
+    {
+     "id": "FAC-0209",
+     "name": "The Cake and Cream Factory",
+     "type": "commercial",
+     "distance_m": 394.2
+    },
+    {
+     "id": "FAC-0139",
+     "name": "Laxmi Drycleaners",
+     "type": "commercial",
+     "distance_m": 476.9
+    },
+    {
+     "id": "FAC-0133",
+     "name": "Kekiz The Cake Shop",
+     "type": "commercial",
+     "distance_m": 477.1
+    },
+    {
+     "id": "FAC-0216",
+     "name": "Universal Pet store",
+     "type": "commercial",
+     "distance_m": 488
+    },
+    {
+     "id": "FAC-0283",
+     "name": "Hanuman Mandir",
+     "type": "place_of_worship",
+     "distance_m": 488.6
+    },
+    {
+     "id": "FAC-0137",
+     "name": "Krushna Gift House",
+     "type": "commercial",
+     "distance_m": 489.2
+    },
+    {
+     "id": "FAC-0147",
+     "name": "Mayur Agency",
+     "type": "commercial",
+     "distance_m": 491.6
+    },
+    {
+     "id": "FAC-0156",
+     "name": "New Govind Traders",
+     "type": "commercial",
+     "distance_m": 497.8
+    }
+   ],
+   "busRoutes": [
+    {
+     "id": "1024",
+     "route_name": "Venutai Chavan College to Kothrud Depot (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "1326",
+     "route_name": "Dsk Vishwa to Nigdi Bhakti Shakti Stand (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "14",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "223",
+     "route_name": "Dsk Vishwa to Bhekrai Nagar (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "297",
+     "route_name": "Narhegaon to Shivaji Nagar (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "45",
+     "route_name": "Dhayareshwar Mandir to Swargate Natraj Stand (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "48",
+     "route_name": "Suncity to Swargate Natraj Stand (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "55",
+     "route_name": "Vadgaon Budruk Stand to Swargate Natraj Stand (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "858",
+     "route_name": "Sanaswadi Nandoshi to Swargate (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "866",
+     "route_name": "Sinhgad to Shaniwarwada Stand (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "876",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "878",
+     "route_name": "Varasgaon Goradwadi to Swargate (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "885",
+     "route_name": "Manerwadi Phata Khanapur to Swargate (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "890",
+     "route_name": "Shanipar Stand to Suncity (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "894",
+     "route_name": "Vadgaon Budruk Stand to Pune Station Jayprakash Stand (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "904",
+     "route_name": "Ghule Nagar Vadgaon Budruk to Swargate (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "905",
+     "route_name": "Swargate to Ghule Nagar Vadgaon Budruk (DOWN)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "1025",
+     "route_name": "Kothrud Depot to Venutai Chavan College (DOWN)",
+     "distance_m": 5.9
+    },
+    {
+     "id": "1327",
+     "route_name": "Nigdi Bhakti Shakti Stand to Dsk Vishwa (DOWN)",
+     "distance_m": 5.9
+    },
+    {
+     "id": "15",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 5.9
+    },
+    {
+     "id": "224",
+     "route_name": "Bhekrai Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 5.9
+    },
+    {
+     "id": "298",
+     "route_name": "Shivaji Nagar to Narhegaon (DOWN)",
+     "distance_m": 5.9
+    },
+    {
+     "id": "47",
+     "route_name": "Swargate Natraj Stand to Dhayareshwar Mandir (DOWN)",
+     "distance_m": 5.9
+    },
+    {
+     "id": "49",
+     "route_name": "Swargate Natraj Stand to Suncity (DOWN)",
+     "distance_m": 5.9
+    },
+    {
+     "id": "57",
+     "route_name": "Swargate Natraj Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 5.9
+    },
+    {
+     "id": "859",
+     "route_name": "Swargate to Sanaswadi Nandoshi (DOWN)",
+     "distance_m": 5.9
+    },
+    {
+     "id": "873",
+     "route_name": "Shaniwarwada Stand to Sinhgad (DOWN)",
+     "distance_m": 5.9
+    },
+    {
+     "id": "877",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 5.9
+    },
+    {
+     "id": "879",
+     "route_name": "Swargate to Varasgaon Goradwadi (DOWN)",
+     "distance_m": 5.9
+    },
+    {
+     "id": "887",
+     "route_name": "Swargate to Manerwadi Phata Khanapur (DOWN)",
+     "distance_m": 5.9
+    },
+    {
+     "id": "891",
+     "route_name": "Suncity to Shanipar Stand (DOWN)",
+     "distance_m": 5.9
+    },
+    {
+     "id": "895",
+     "route_name": "Pune Station Jayprakash Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 5.9
+    }
+   ]
+  },
+  "PMC/RC/2026/0006": {
+   "facilities": [
+    {
+     "id": "FAC-0026",
+     "name": "Vitthalvadi",
+     "type": "bus_stop",
+     "distance_m": 0
+    },
+    {
+     "id": "FAC-0159",
+     "name": "New Vithhal Furniture",
+     "type": "commercial",
+     "distance_m": 134.2
+    },
+    {
+     "id": "FAC-0181",
+     "name": "Ranka Jewellers",
+     "type": "commercial",
+     "distance_m": 178.2
+    },
+    {
+     "id": "FAC-0015",
+     "name": "Rajaram Bridge",
+     "type": "bus_stop",
+     "distance_m": 184.3
+    },
+    {
+     "id": "FAC-0016",
+     "name": "Rajaram Bridge",
+     "type": "bus_stop",
+     "distance_m": 217.3
+    },
+    {
+     "id": "FAC-0203",
+     "name": "Sujata Mastani",
+     "type": "commercial",
+     "distance_m": 233.6
+    },
+    {
+     "id": "FAC-0286",
+     "name": "Mandir",
+     "type": "place_of_worship",
+     "distance_m": 238.4
+    },
+    {
+     "id": "FAC-0019",
+     "name": "Ranka",
+     "type": "bus_stop",
+     "distance_m": 296.3
+    },
+    {
+     "id": "FAC-0300",
+     "name": "Sarda Math",
+     "type": "place_of_worship",
+     "distance_m": 348.2
+    },
+    {
+     "id": "FAC-0209",
+     "name": "The Cake and Cream Factory",
+     "type": "commercial",
+     "distance_m": 371.6
+    },
+    {
+     "id": "FAC-0139",
+     "name": "Laxmi Drycleaners",
+     "type": "commercial",
+     "distance_m": 454.1
+    },
+    {
+     "id": "FAC-0133",
+     "name": "Kekiz The Cake Shop",
+     "type": "commercial",
+     "distance_m": 454.2
+    },
+    {
+     "id": "FAC-0216",
+     "name": "Universal Pet store",
+     "type": "commercial",
+     "distance_m": 465.3
+    },
+    {
+     "id": "FAC-0137",
+     "name": "Krushna Gift House",
+     "type": "commercial",
+     "distance_m": 466.5
+    },
+    {
+     "id": "FAC-0147",
+     "name": "Mayur Agency",
+     "type": "commercial",
+     "distance_m": 469.1
+    },
+    {
+     "id": "FAC-0156",
+     "name": "New Govind Traders",
+     "type": "commercial",
+     "distance_m": 475.4
+    },
+    {
+     "id": "FAC-0283",
+     "name": "Hanuman Mandir",
+     "type": "place_of_worship",
+     "distance_m": 480.7
+    }
+   ],
+   "busRoutes": [
+    {
+     "id": "1024",
+     "route_name": "Venutai Chavan College to Kothrud Depot (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "1326",
+     "route_name": "Dsk Vishwa to Nigdi Bhakti Shakti Stand (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "14",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "223",
+     "route_name": "Dsk Vishwa to Bhekrai Nagar (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "297",
+     "route_name": "Narhegaon to Shivaji Nagar (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "45",
+     "route_name": "Dhayareshwar Mandir to Swargate Natraj Stand (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "48",
+     "route_name": "Suncity to Swargate Natraj Stand (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "55",
+     "route_name": "Vadgaon Budruk Stand to Swargate Natraj Stand (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "858",
+     "route_name": "Sanaswadi Nandoshi to Swargate (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "866",
+     "route_name": "Sinhgad to Shaniwarwada Stand (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "876",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "878",
+     "route_name": "Varasgaon Goradwadi to Swargate (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "885",
+     "route_name": "Manerwadi Phata Khanapur to Swargate (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "890",
+     "route_name": "Shanipar Stand to Suncity (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "894",
+     "route_name": "Vadgaon Budruk Stand to Pune Station Jayprakash Stand (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "904",
+     "route_name": "Ghule Nagar Vadgaon Budruk to Swargate (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "905",
+     "route_name": "Swargate to Ghule Nagar Vadgaon Budruk (DOWN)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "1025",
+     "route_name": "Kothrud Depot to Venutai Chavan College (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "1327",
+     "route_name": "Nigdi Bhakti Shakti Stand to Dsk Vishwa (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "15",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "224",
+     "route_name": "Bhekrai Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "298",
+     "route_name": "Shivaji Nagar to Narhegaon (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "47",
+     "route_name": "Swargate Natraj Stand to Dhayareshwar Mandir (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "49",
+     "route_name": "Swargate Natraj Stand to Suncity (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "57",
+     "route_name": "Swargate Natraj Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "859",
+     "route_name": "Swargate to Sanaswadi Nandoshi (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "873",
+     "route_name": "Shaniwarwada Stand to Sinhgad (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "877",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "879",
+     "route_name": "Swargate to Varasgaon Goradwadi (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "887",
+     "route_name": "Swargate to Manerwadi Phata Khanapur (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "891",
+     "route_name": "Suncity to Shanipar Stand (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "895",
+     "route_name": "Pune Station Jayprakash Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 1.9
+    }
+   ]
+  },
+  "PMC/RC/2026/0007": {
+   "facilities": [
+    {
+     "id": "FAC-0300",
+     "name": "Sarda Math",
+     "type": "place_of_worship",
+     "distance_m": 54.7
+    },
+    {
+     "id": "FAC-0016",
+     "name": "Rajaram Bridge",
+     "type": "bus_stop",
+     "distance_m": 112.3
+    },
+    {
+     "id": "FAC-0015",
+     "name": "Rajaram Bridge",
+     "type": "bus_stop",
+     "distance_m": 152.2
+    },
+    {
+     "id": "FAC-0283",
+     "name": "Hanuman Mandir",
+     "type": "place_of_worship",
+     "distance_m": 366.7
+    },
+    {
+     "id": "FAC-0027",
+     "name": "Vitthalwadi Jagat Naka",
+     "type": "bus_stop",
+     "distance_m": 369.7
+    },
+    {
+     "id": "FAC-0336",
+     "name": "Kridaniketan Shala",
+     "type": "school",
+     "distance_m": 389.3
+    },
+    {
+     "id": "FAC-0026",
+     "name": "Vitthalvadi",
+     "type": "bus_stop",
+     "distance_m": 418.6
+    },
+    {
+     "id": "FAC-0053",
+     "name": "Nimbalkar - jarhad Eye Hospital",
+     "type": "clinic",
+     "distance_m": 460.9
+    }
+   ],
+   "busRoutes": [
+    {
+     "id": "1024",
+     "route_name": "Venutai Chavan College to Kothrud Depot (UP)",
+     "distance_m": 17
+    },
+    {
+     "id": "1326",
+     "route_name": "Dsk Vishwa to Nigdi Bhakti Shakti Stand (UP)",
+     "distance_m": 17
+    },
+    {
+     "id": "223",
+     "route_name": "Dsk Vishwa to Bhekrai Nagar (UP)",
+     "distance_m": 17
+    },
+    {
+     "id": "297",
+     "route_name": "Narhegaon to Shivaji Nagar (UP)",
+     "distance_m": 17
+    },
+    {
+     "id": "45",
+     "route_name": "Dhayareshwar Mandir to Swargate Natraj Stand (UP)",
+     "distance_m": 17
+    },
+    {
+     "id": "48",
+     "route_name": "Suncity to Swargate Natraj Stand (UP)",
+     "distance_m": 17
+    },
+    {
+     "id": "55",
+     "route_name": "Vadgaon Budruk Stand to Swargate Natraj Stand (UP)",
+     "distance_m": 17
+    },
+    {
+     "id": "858",
+     "route_name": "Sanaswadi Nandoshi to Swargate (UP)",
+     "distance_m": 17
+    },
+    {
+     "id": "866",
+     "route_name": "Sinhgad to Shaniwarwada Stand (UP)",
+     "distance_m": 17
+    },
+    {
+     "id": "876",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 17
+    },
+    {
+     "id": "878",
+     "route_name": "Varasgaon Goradwadi to Swargate (UP)",
+     "distance_m": 17
+    },
+    {
+     "id": "885",
+     "route_name": "Manerwadi Phata Khanapur to Swargate (UP)",
+     "distance_m": 17
+    },
+    {
+     "id": "890",
+     "route_name": "Shanipar Stand to Suncity (UP)",
+     "distance_m": 17
+    },
+    {
+     "id": "894",
+     "route_name": "Vadgaon Budruk Stand to Pune Station Jayprakash Stand (UP)",
+     "distance_m": 17
+    },
+    {
+     "id": "904",
+     "route_name": "Ghule Nagar Vadgaon Budruk to Swargate (UP)",
+     "distance_m": 17
+    },
+    {
+     "id": "1025",
+     "route_name": "Kothrud Depot to Venutai Chavan College (DOWN)",
+     "distance_m": 31.3
+    },
+    {
+     "id": "1327",
+     "route_name": "Nigdi Bhakti Shakti Stand to Dsk Vishwa (DOWN)",
+     "distance_m": 31.3
+    },
+    {
+     "id": "224",
+     "route_name": "Bhekrai Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 31.3
+    },
+    {
+     "id": "298",
+     "route_name": "Shivaji Nagar to Narhegaon (DOWN)",
+     "distance_m": 31.3
+    },
+    {
+     "id": "47",
+     "route_name": "Swargate Natraj Stand to Dhayareshwar Mandir (DOWN)",
+     "distance_m": 31.3
+    },
+    {
+     "id": "49",
+     "route_name": "Swargate Natraj Stand to Suncity (DOWN)",
+     "distance_m": 31.3
+    },
+    {
+     "id": "57",
+     "route_name": "Swargate Natraj Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 31.3
+    },
+    {
+     "id": "859",
+     "route_name": "Swargate to Sanaswadi Nandoshi (DOWN)",
+     "distance_m": 31.3
+    },
+    {
+     "id": "873",
+     "route_name": "Shaniwarwada Stand to Sinhgad (DOWN)",
+     "distance_m": 31.3
+    },
+    {
+     "id": "877",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 31.3
+    },
+    {
+     "id": "879",
+     "route_name": "Swargate to Varasgaon Goradwadi (DOWN)",
+     "distance_m": 31.3
+    },
+    {
+     "id": "887",
+     "route_name": "Swargate to Manerwadi Phata Khanapur (DOWN)",
+     "distance_m": 31.3
+    },
+    {
+     "id": "891",
+     "route_name": "Suncity to Shanipar Stand (DOWN)",
+     "distance_m": 31.3
+    },
+    {
+     "id": "895",
+     "route_name": "Pune Station Jayprakash Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 31.3
+    },
+    {
+     "id": "905",
+     "route_name": "Swargate to Ghule Nagar Vadgaon Budruk (DOWN)",
+     "distance_m": 33.5
+    },
+    {
+     "id": "15",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 138.8
+    },
+    {
+     "id": "14",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 155.4
+    },
+    {
+     "id": "154",
+     "route_name": "Pune Station Moledina Stand to Galinde Path (UP)",
+     "distance_m": 382.1
+    },
+    {
+     "id": "155",
+     "route_name": "Galinde Path to Pune Station Moledina Stand (DOWN)",
+     "distance_m": 398
+    },
+    {
+     "id": "962",
+     "route_name": "Marketyard Depot to Nda 10 No. Gate (DOWN)",
+     "distance_m": 428.1
+    }
+   ]
+  },
+  "PMC/RC/2026/0008": {
+   "facilities": [
+    {
+     "id": "FAC-0300",
+     "name": "Sarda Math",
+     "type": "place_of_worship",
+     "distance_m": 72.2
+    },
+    {
+     "id": "FAC-0016",
+     "name": "Rajaram Bridge",
+     "type": "bus_stop",
+     "distance_m": 153.2
+    },
+    {
+     "id": "FAC-0015",
+     "name": "Rajaram Bridge",
+     "type": "bus_stop",
+     "distance_m": 195.3
+    },
+    {
+     "id": "FAC-0283",
+     "name": "Hanuman Mandir",
+     "type": "place_of_worship",
+     "distance_m": 385.5
+    },
+    {
+     "id": "FAC-0027",
+     "name": "Vitthalwadi Jagat Naka",
+     "type": "bus_stop",
+     "distance_m": 396.2
+    },
+    {
+     "id": "FAC-0336",
+     "name": "Kridaniketan Shala",
+     "type": "school",
+     "distance_m": 412.8
+    },
+    {
+     "id": "FAC-0026",
+     "name": "Vitthalvadi",
+     "type": "bus_stop",
+     "distance_m": 458.4
+    },
+    {
+     "id": "FAC-0053",
+     "name": "Nimbalkar - jarhad Eye Hospital",
+     "type": "clinic",
+     "distance_m": 487.1
+    }
+   ],
+   "busRoutes": [
+    {
+     "id": "1024",
+     "route_name": "Venutai Chavan College to Kothrud Depot (UP)",
+     "distance_m": 21.9
+    },
+    {
+     "id": "1326",
+     "route_name": "Dsk Vishwa to Nigdi Bhakti Shakti Stand (UP)",
+     "distance_m": 21.9
+    },
+    {
+     "id": "223",
+     "route_name": "Dsk Vishwa to Bhekrai Nagar (UP)",
+     "distance_m": 21.9
+    },
+    {
+     "id": "297",
+     "route_name": "Narhegaon to Shivaji Nagar (UP)",
+     "distance_m": 21.9
+    },
+    {
+     "id": "45",
+     "route_name": "Dhayareshwar Mandir to Swargate Natraj Stand (UP)",
+     "distance_m": 21.9
+    },
+    {
+     "id": "48",
+     "route_name": "Suncity to Swargate Natraj Stand (UP)",
+     "distance_m": 21.9
+    },
+    {
+     "id": "55",
+     "route_name": "Vadgaon Budruk Stand to Swargate Natraj Stand (UP)",
+     "distance_m": 21.9
+    },
+    {
+     "id": "858",
+     "route_name": "Sanaswadi Nandoshi to Swargate (UP)",
+     "distance_m": 21.9
+    },
+    {
+     "id": "866",
+     "route_name": "Sinhgad to Shaniwarwada Stand (UP)",
+     "distance_m": 21.9
+    },
+    {
+     "id": "876",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 21.9
+    },
+    {
+     "id": "878",
+     "route_name": "Varasgaon Goradwadi to Swargate (UP)",
+     "distance_m": 21.9
+    },
+    {
+     "id": "885",
+     "route_name": "Manerwadi Phata Khanapur to Swargate (UP)",
+     "distance_m": 21.9
+    },
+    {
+     "id": "890",
+     "route_name": "Shanipar Stand to Suncity (UP)",
+     "distance_m": 21.9
+    },
+    {
+     "id": "894",
+     "route_name": "Vadgaon Budruk Stand to Pune Station Jayprakash Stand (UP)",
+     "distance_m": 21.9
+    },
+    {
+     "id": "904",
+     "route_name": "Ghule Nagar Vadgaon Budruk to Swargate (UP)",
+     "distance_m": 21.9
+    },
+    {
+     "id": "905",
+     "route_name": "Swargate to Ghule Nagar Vadgaon Budruk (DOWN)",
+     "distance_m": 36.7
+    },
+    {
+     "id": "1025",
+     "route_name": "Kothrud Depot to Venutai Chavan College (DOWN)",
+     "distance_m": 36.8
+    },
+    {
+     "id": "1327",
+     "route_name": "Nigdi Bhakti Shakti Stand to Dsk Vishwa (DOWN)",
+     "distance_m": 36.8
+    },
+    {
+     "id": "224",
+     "route_name": "Bhekrai Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 36.8
+    },
+    {
+     "id": "298",
+     "route_name": "Shivaji Nagar to Narhegaon (DOWN)",
+     "distance_m": 36.8
+    },
+    {
+     "id": "47",
+     "route_name": "Swargate Natraj Stand to Dhayareshwar Mandir (DOWN)",
+     "distance_m": 36.8
+    },
+    {
+     "id": "49",
+     "route_name": "Swargate Natraj Stand to Suncity (DOWN)",
+     "distance_m": 36.8
+    },
+    {
+     "id": "57",
+     "route_name": "Swargate Natraj Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 36.8
+    },
+    {
+     "id": "859",
+     "route_name": "Swargate to Sanaswadi Nandoshi (DOWN)",
+     "distance_m": 36.8
+    },
+    {
+     "id": "873",
+     "route_name": "Shaniwarwada Stand to Sinhgad (DOWN)",
+     "distance_m": 36.8
+    },
+    {
+     "id": "877",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 36.8
+    },
+    {
+     "id": "879",
+     "route_name": "Swargate to Varasgaon Goradwadi (DOWN)",
+     "distance_m": 36.8
+    },
+    {
+     "id": "887",
+     "route_name": "Swargate to Manerwadi Phata Khanapur (DOWN)",
+     "distance_m": 36.8
+    },
+    {
+     "id": "891",
+     "route_name": "Suncity to Shanipar Stand (DOWN)",
+     "distance_m": 36.8
+    },
+    {
+     "id": "895",
+     "route_name": "Pune Station Jayprakash Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 36.8
+    },
+    {
+     "id": "15",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 182.1
+    },
+    {
+     "id": "14",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 198.1
+    },
+    {
+     "id": "154",
+     "route_name": "Pune Station Moledina Stand to Galinde Path (UP)",
+     "distance_m": 385.6
+    },
+    {
+     "id": "155",
+     "route_name": "Galinde Path to Pune Station Moledina Stand (DOWN)",
+     "distance_m": 400.4
+    },
+    {
+     "id": "962",
+     "route_name": "Marketyard Depot to Nda 10 No. Gate (DOWN)",
+     "distance_m": 448.5
+    }
+   ]
+  },
+  "PMC/RC/2026/0009": {
+   "facilities": [
+    {
+     "id": "FAC-0300",
+     "name": "Sarda Math",
+     "type": "place_of_worship",
+     "distance_m": 77.4
+    },
+    {
+     "id": "FAC-0016",
+     "name": "Rajaram Bridge",
+     "type": "bus_stop",
+     "distance_m": 159.7
+    },
+    {
+     "id": "FAC-0015",
+     "name": "Rajaram Bridge",
+     "type": "bus_stop",
+     "distance_m": 202.2
+    },
+    {
+     "id": "FAC-0027",
+     "name": "Vitthalwadi Jagat Naka",
+     "type": "bus_stop",
+     "distance_m": 385
+    },
+    {
+     "id": "FAC-0283",
+     "name": "Hanuman Mandir",
+     "type": "place_of_worship",
+     "distance_m": 389.5
+    },
+    {
+     "id": "FAC-0336",
+     "name": "Kridaniketan Shala",
+     "type": "school",
+     "distance_m": 402.8
+    },
+    {
+     "id": "FAC-0026",
+     "name": "Vitthalvadi",
+     "type": "bus_stop",
+     "distance_m": 464.6
+    },
+    {
+     "id": "FAC-0053",
+     "name": "Nimbalkar - jarhad Eye Hospital",
+     "type": "clinic",
+     "distance_m": 476
+    }
+   ],
+   "busRoutes": [
+    {
+     "id": "1024",
+     "route_name": "Venutai Chavan College to Kothrud Depot (UP)",
+     "distance_m": 19.8
+    },
+    {
+     "id": "1326",
+     "route_name": "Dsk Vishwa to Nigdi Bhakti Shakti Stand (UP)",
+     "distance_m": 19.8
+    },
+    {
+     "id": "223",
+     "route_name": "Dsk Vishwa to Bhekrai Nagar (UP)",
+     "distance_m": 19.8
+    },
+    {
+     "id": "297",
+     "route_name": "Narhegaon to Shivaji Nagar (UP)",
+     "distance_m": 19.8
+    },
+    {
+     "id": "45",
+     "route_name": "Dhayareshwar Mandir to Swargate Natraj Stand (UP)",
+     "distance_m": 19.8
+    },
+    {
+     "id": "48",
+     "route_name": "Suncity to Swargate Natraj Stand (UP)",
+     "distance_m": 19.8
+    },
+    {
+     "id": "55",
+     "route_name": "Vadgaon Budruk Stand to Swargate Natraj Stand (UP)",
+     "distance_m": 19.8
+    },
+    {
+     "id": "858",
+     "route_name": "Sanaswadi Nandoshi to Swargate (UP)",
+     "distance_m": 19.8
+    },
+    {
+     "id": "866",
+     "route_name": "Sinhgad to Shaniwarwada Stand (UP)",
+     "distance_m": 19.8
+    },
+    {
+     "id": "876",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 19.8
+    },
+    {
+     "id": "878",
+     "route_name": "Varasgaon Goradwadi to Swargate (UP)",
+     "distance_m": 19.8
+    },
+    {
+     "id": "885",
+     "route_name": "Manerwadi Phata Khanapur to Swargate (UP)",
+     "distance_m": 19.8
+    },
+    {
+     "id": "890",
+     "route_name": "Shanipar Stand to Suncity (UP)",
+     "distance_m": 19.8
+    },
+    {
+     "id": "894",
+     "route_name": "Vadgaon Budruk Stand to Pune Station Jayprakash Stand (UP)",
+     "distance_m": 19.8
+    },
+    {
+     "id": "904",
+     "route_name": "Ghule Nagar Vadgaon Budruk to Swargate (UP)",
+     "distance_m": 19.8
+    },
+    {
+     "id": "1025",
+     "route_name": "Kothrud Depot to Venutai Chavan College (DOWN)",
+     "distance_m": 34.4
+    },
+    {
+     "id": "1327",
+     "route_name": "Nigdi Bhakti Shakti Stand to Dsk Vishwa (DOWN)",
+     "distance_m": 34.4
+    },
+    {
+     "id": "224",
+     "route_name": "Bhekrai Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 34.4
+    },
+    {
+     "id": "298",
+     "route_name": "Shivaji Nagar to Narhegaon (DOWN)",
+     "distance_m": 34.4
+    },
+    {
+     "id": "47",
+     "route_name": "Swargate Natraj Stand to Dhayareshwar Mandir (DOWN)",
+     "distance_m": 34.4
+    },
+    {
+     "id": "49",
+     "route_name": "Swargate Natraj Stand to Suncity (DOWN)",
+     "distance_m": 34.4
+    },
+    {
+     "id": "57",
+     "route_name": "Swargate Natraj Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 34.4
+    },
+    {
+     "id": "859",
+     "route_name": "Swargate to Sanaswadi Nandoshi (DOWN)",
+     "distance_m": 34.4
+    },
+    {
+     "id": "873",
+     "route_name": "Shaniwarwada Stand to Sinhgad (DOWN)",
+     "distance_m": 34.4
+    },
+    {
+     "id": "877",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 34.4
+    },
+    {
+     "id": "879",
+     "route_name": "Swargate to Varasgaon Goradwadi (DOWN)",
+     "distance_m": 34.4
+    },
+    {
+     "id": "887",
+     "route_name": "Swargate to Manerwadi Phata Khanapur (DOWN)",
+     "distance_m": 34.4
+    },
+    {
+     "id": "891",
+     "route_name": "Suncity to Shanipar Stand (DOWN)",
+     "distance_m": 34.4
+    },
+    {
+     "id": "895",
+     "route_name": "Pune Station Jayprakash Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 34.4
+    },
+    {
+     "id": "905",
+     "route_name": "Swargate to Ghule Nagar Vadgaon Budruk (DOWN)",
+     "distance_m": 35.3
+    },
+    {
+     "id": "15",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 189.1
+    },
+    {
+     "id": "14",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 204.9
+    },
+    {
+     "id": "154",
+     "route_name": "Pune Station Moledina Stand to Galinde Path (UP)",
+     "distance_m": 387.3
+    },
+    {
+     "id": "155",
+     "route_name": "Galinde Path to Pune Station Moledina Stand (DOWN)",
+     "distance_m": 401.8
+    },
+    {
+     "id": "962",
+     "route_name": "Marketyard Depot to Nda 10 No. Gate (DOWN)",
+     "distance_m": 452.4
+    }
+   ]
+  },
+  "PMC/RC/2026/0010": {
+   "facilities": [
+    {
+     "id": "FAC-0027",
+     "name": "Vitthalwadi Jagat Naka",
+     "type": "bus_stop",
+     "distance_m": 162.9
+    },
+    {
+     "id": "FAC-0300",
+     "name": "Sarda Math",
+     "type": "place_of_worship",
+     "distance_m": 225.8
+    },
+    {
+     "id": "FAC-0336",
+     "name": "Kridaniketan Shala",
+     "type": "school",
+     "distance_m": 230
+    },
+    {
+     "id": "FAC-0053",
+     "name": "Nimbalkar - jarhad Eye Hospital",
+     "type": "clinic",
+     "distance_m": 257.6
+    },
+    {
+     "id": "FAC-0016",
+     "name": "Rajaram Bridge",
+     "type": "bus_stop",
+     "distance_m": 310.7
+    },
+    {
+     "id": "FAC-0015",
+     "name": "Rajaram Bridge",
+     "type": "bus_stop",
+     "distance_m": 358
+    }
+   ],
+   "busRoutes": [
+    {
+     "id": "1025",
+     "route_name": "Kothrud Depot to Venutai Chavan College (DOWN)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "1327",
+     "route_name": "Nigdi Bhakti Shakti Stand to Dsk Vishwa (DOWN)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "224",
+     "route_name": "Bhekrai Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "298",
+     "route_name": "Shivaji Nagar to Narhegaon (DOWN)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "47",
+     "route_name": "Swargate Natraj Stand to Dhayareshwar Mandir (DOWN)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "49",
+     "route_name": "Swargate Natraj Stand to Suncity (DOWN)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "57",
+     "route_name": "Swargate Natraj Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "859",
+     "route_name": "Swargate to Sanaswadi Nandoshi (DOWN)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "873",
+     "route_name": "Shaniwarwada Stand to Sinhgad (DOWN)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "877",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "879",
+     "route_name": "Swargate to Varasgaon Goradwadi (DOWN)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "887",
+     "route_name": "Swargate to Manerwadi Phata Khanapur (DOWN)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "891",
+     "route_name": "Suncity to Shanipar Stand (DOWN)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "895",
+     "route_name": "Pune Station Jayprakash Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "1024",
+     "route_name": "Venutai Chavan College to Kothrud Depot (UP)",
+     "distance_m": 1.5
+    },
+    {
+     "id": "1326",
+     "route_name": "Dsk Vishwa to Nigdi Bhakti Shakti Stand (UP)",
+     "distance_m": 1.5
+    },
+    {
+     "id": "223",
+     "route_name": "Dsk Vishwa to Bhekrai Nagar (UP)",
+     "distance_m": 1.5
+    },
+    {
+     "id": "297",
+     "route_name": "Narhegaon to Shivaji Nagar (UP)",
+     "distance_m": 1.5
+    },
+    {
+     "id": "45",
+     "route_name": "Dhayareshwar Mandir to Swargate Natraj Stand (UP)",
+     "distance_m": 1.5
+    },
+    {
+     "id": "48",
+     "route_name": "Suncity to Swargate Natraj Stand (UP)",
+     "distance_m": 1.5
+    },
+    {
+     "id": "55",
+     "route_name": "Vadgaon Budruk Stand to Swargate Natraj Stand (UP)",
+     "distance_m": 1.5
+    },
+    {
+     "id": "858",
+     "route_name": "Sanaswadi Nandoshi to Swargate (UP)",
+     "distance_m": 1.5
+    },
+    {
+     "id": "866",
+     "route_name": "Sinhgad to Shaniwarwada Stand (UP)",
+     "distance_m": 1.5
+    },
+    {
+     "id": "876",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 1.5
+    },
+    {
+     "id": "878",
+     "route_name": "Varasgaon Goradwadi to Swargate (UP)",
+     "distance_m": 1.5
+    },
+    {
+     "id": "885",
+     "route_name": "Manerwadi Phata Khanapur to Swargate (UP)",
+     "distance_m": 1.5
+    },
+    {
+     "id": "890",
+     "route_name": "Shanipar Stand to Suncity (UP)",
+     "distance_m": 1.5
+    },
+    {
+     "id": "894",
+     "route_name": "Vadgaon Budruk Stand to Pune Station Jayprakash Stand (UP)",
+     "distance_m": 1.5
+    },
+    {
+     "id": "904",
+     "route_name": "Ghule Nagar Vadgaon Budruk to Swargate (UP)",
+     "distance_m": 1.5
+    },
+    {
+     "id": "905",
+     "route_name": "Swargate to Ghule Nagar Vadgaon Budruk (DOWN)",
+     "distance_m": 8.2
+    },
+    {
+     "id": "15",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 346.7
+    },
+    {
+     "id": "14",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 359
+    },
+    {
+     "id": "154",
+     "route_name": "Pune Station Moledina Stand to Galinde Path (UP)",
+     "distance_m": 462.2
+    },
+    {
+     "id": "155",
+     "route_name": "Galinde Path to Pune Station Moledina Stand (DOWN)",
+     "distance_m": 470.4
+    }
+   ]
+  },
+  "PMC/RC/2026/0011": {
+   "facilities": [
+    {
+     "id": "FAC-0027",
+     "name": "Vitthalwadi Jagat Naka",
+     "type": "bus_stop",
+     "distance_m": 188.8
+    },
+    {
+     "id": "FAC-0336",
+     "name": "Kridaniketan Shala",
+     "type": "school",
+     "distance_m": 247.5
+    },
+    {
+     "id": "FAC-0300",
+     "name": "Sarda Math",
+     "type": "place_of_worship",
+     "distance_m": 253.5
+    },
+    {
+     "id": "FAC-0053",
+     "name": "Nimbalkar - jarhad Eye Hospital",
+     "type": "clinic",
+     "distance_m": 283
+    },
+    {
+     "id": "FAC-0016",
+     "name": "Rajaram Bridge",
+     "type": "bus_stop",
+     "distance_m": 336.9
+    },
+    {
+     "id": "FAC-0015",
+     "name": "Rajaram Bridge",
+     "type": "bus_stop",
+     "distance_m": 384.8
+    }
+   ],
+   "busRoutes": [
+    {
+     "id": "1025",
+     "route_name": "Kothrud Depot to Venutai Chavan College (DOWN)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "1327",
+     "route_name": "Nigdi Bhakti Shakti Stand to Dsk Vishwa (DOWN)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "224",
+     "route_name": "Bhekrai Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "298",
+     "route_name": "Shivaji Nagar to Narhegaon (DOWN)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "47",
+     "route_name": "Swargate Natraj Stand to Dhayareshwar Mandir (DOWN)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "49",
+     "route_name": "Swargate Natraj Stand to Suncity (DOWN)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "57",
+     "route_name": "Swargate Natraj Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "859",
+     "route_name": "Swargate to Sanaswadi Nandoshi (DOWN)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "873",
+     "route_name": "Shaniwarwada Stand to Sinhgad (DOWN)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "877",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "879",
+     "route_name": "Swargate to Varasgaon Goradwadi (DOWN)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "887",
+     "route_name": "Swargate to Manerwadi Phata Khanapur (DOWN)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "891",
+     "route_name": "Suncity to Shanipar Stand (DOWN)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "895",
+     "route_name": "Pune Station Jayprakash Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "1024",
+     "route_name": "Venutai Chavan College to Kothrud Depot (UP)",
+     "distance_m": 8.8
+    },
+    {
+     "id": "1326",
+     "route_name": "Dsk Vishwa to Nigdi Bhakti Shakti Stand (UP)",
+     "distance_m": 8.8
+    },
+    {
+     "id": "223",
+     "route_name": "Dsk Vishwa to Bhekrai Nagar (UP)",
+     "distance_m": 8.8
+    },
+    {
+     "id": "297",
+     "route_name": "Narhegaon to Shivaji Nagar (UP)",
+     "distance_m": 8.8
+    },
+    {
+     "id": "45",
+     "route_name": "Dhayareshwar Mandir to Swargate Natraj Stand (UP)",
+     "distance_m": 8.8
+    },
+    {
+     "id": "48",
+     "route_name": "Suncity to Swargate Natraj Stand (UP)",
+     "distance_m": 8.8
+    },
+    {
+     "id": "55",
+     "route_name": "Vadgaon Budruk Stand to Swargate Natraj Stand (UP)",
+     "distance_m": 8.8
+    },
+    {
+     "id": "858",
+     "route_name": "Sanaswadi Nandoshi to Swargate (UP)",
+     "distance_m": 8.8
+    },
+    {
+     "id": "866",
+     "route_name": "Sinhgad to Shaniwarwada Stand (UP)",
+     "distance_m": 8.8
+    },
+    {
+     "id": "876",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 8.8
+    },
+    {
+     "id": "878",
+     "route_name": "Varasgaon Goradwadi to Swargate (UP)",
+     "distance_m": 8.8
+    },
+    {
+     "id": "885",
+     "route_name": "Manerwadi Phata Khanapur to Swargate (UP)",
+     "distance_m": 8.8
+    },
+    {
+     "id": "890",
+     "route_name": "Shanipar Stand to Suncity (UP)",
+     "distance_m": 8.8
+    },
+    {
+     "id": "894",
+     "route_name": "Vadgaon Budruk Stand to Pune Station Jayprakash Stand (UP)",
+     "distance_m": 8.8
+    },
+    {
+     "id": "904",
+     "route_name": "Ghule Nagar Vadgaon Budruk to Swargate (UP)",
+     "distance_m": 8.8
+    },
+    {
+     "id": "905",
+     "route_name": "Swargate to Ghule Nagar Vadgaon Budruk (DOWN)",
+     "distance_m": 9.3
+    },
+    {
+     "id": "15",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 373.6
+    },
+    {
+     "id": "14",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 385.5
+    },
+    {
+     "id": "154",
+     "route_name": "Pune Station Moledina Stand to Galinde Path (UP)",
+     "distance_m": 482
+    },
+    {
+     "id": "155",
+     "route_name": "Galinde Path to Pune Station Moledina Stand (DOWN)",
+     "distance_m": 489.4
+    }
+   ]
+  },
+  "PMC/RC/2026/0012": {
+   "facilities": [
+    {
+     "id": "FAC-0053",
+     "name": "Nimbalkar - jarhad Eye Hospital",
+     "type": "clinic",
+     "distance_m": 9.6
+    },
+    {
+     "id": "FAC-0027",
+     "name": "Vitthalwadi Jagat Naka",
+     "type": "bus_stop",
+     "distance_m": 92
+    },
+    {
+     "id": "FAC-0089",
+     "name": "Bajaj Chetak",
+     "type": "commercial",
+     "distance_m": 152.7
+    },
+    {
+     "id": "FAC-0336",
+     "name": "Kridaniketan Shala",
+     "type": "school",
+     "distance_m": 167.9
+    },
+    {
+     "id": "FAC-0291",
+     "name": "Navshya Maruti",
+     "type": "place_of_worship",
+     "distance_m": 178
+    },
+    {
+     "id": "FAC-0124",
+     "name": "Jay Ganesh",
+     "type": "commercial",
+     "distance_m": 206.9
+    },
+    {
+     "id": "FAC-0220",
+     "name": "Vanhausen",
+     "type": "commercial",
+     "distance_m": 228.4
+    }
+   ],
+   "busRoutes": [
+    {
+     "id": "1024",
+     "route_name": "Venutai Chavan College to Kothrud Depot (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "1326",
+     "route_name": "Dsk Vishwa to Nigdi Bhakti Shakti Stand (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "223",
+     "route_name": "Dsk Vishwa to Bhekrai Nagar (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "297",
+     "route_name": "Narhegaon to Shivaji Nagar (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "45",
+     "route_name": "Dhayareshwar Mandir to Swargate Natraj Stand (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "48",
+     "route_name": "Suncity to Swargate Natraj Stand (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "55",
+     "route_name": "Vadgaon Budruk Stand to Swargate Natraj Stand (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "858",
+     "route_name": "Sanaswadi Nandoshi to Swargate (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "866",
+     "route_name": "Sinhgad to Shaniwarwada Stand (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "876",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "878",
+     "route_name": "Varasgaon Goradwadi to Swargate (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "885",
+     "route_name": "Manerwadi Phata Khanapur to Swargate (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "890",
+     "route_name": "Shanipar Stand to Suncity (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "894",
+     "route_name": "Vadgaon Budruk Stand to Pune Station Jayprakash Stand (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "904",
+     "route_name": "Ghule Nagar Vadgaon Budruk to Swargate (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "905",
+     "route_name": "Swargate to Ghule Nagar Vadgaon Budruk (DOWN)",
+     "distance_m": 3.4
+    },
+    {
+     "id": "1025",
+     "route_name": "Kothrud Depot to Venutai Chavan College (DOWN)",
+     "distance_m": 12.8
+    },
+    {
+     "id": "1327",
+     "route_name": "Nigdi Bhakti Shakti Stand to Dsk Vishwa (DOWN)",
+     "distance_m": 12.8
+    },
+    {
+     "id": "224",
+     "route_name": "Bhekrai Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 12.8
+    },
+    {
+     "id": "298",
+     "route_name": "Shivaji Nagar to Narhegaon (DOWN)",
+     "distance_m": 12.8
+    },
+    {
+     "id": "47",
+     "route_name": "Swargate Natraj Stand to Dhayareshwar Mandir (DOWN)",
+     "distance_m": 12.8
+    },
+    {
+     "id": "49",
+     "route_name": "Swargate Natraj Stand to Suncity (DOWN)",
+     "distance_m": 12.8
+    },
+    {
+     "id": "57",
+     "route_name": "Swargate Natraj Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 12.8
+    },
+    {
+     "id": "859",
+     "route_name": "Swargate to Sanaswadi Nandoshi (DOWN)",
+     "distance_m": 12.8
+    },
+    {
+     "id": "873",
+     "route_name": "Shaniwarwada Stand to Sinhgad (DOWN)",
+     "distance_m": 12.8
+    },
+    {
+     "id": "877",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 12.8
+    },
+    {
+     "id": "879",
+     "route_name": "Swargate to Varasgaon Goradwadi (DOWN)",
+     "distance_m": 12.8
+    },
+    {
+     "id": "887",
+     "route_name": "Swargate to Manerwadi Phata Khanapur (DOWN)",
+     "distance_m": 12.8
+    },
+    {
+     "id": "891",
+     "route_name": "Suncity to Shanipar Stand (DOWN)",
+     "distance_m": 12.8
+    },
+    {
+     "id": "895",
+     "route_name": "Pune Station Jayprakash Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 12.8
+    }
+   ]
+  },
+  "PMC/RC/2026/0013": {
+   "facilities": [
+    {
+     "id": "FAC-0053",
+     "name": "Nimbalkar - jarhad Eye Hospital",
+     "type": "clinic",
+     "distance_m": 17.6
+    },
+    {
+     "id": "FAC-0027",
+     "name": "Vitthalwadi Jagat Naka",
+     "type": "bus_stop",
+     "distance_m": 111.1
+    },
+    {
+     "id": "FAC-0089",
+     "name": "Bajaj Chetak",
+     "type": "commercial",
+     "distance_m": 168.2
+    },
+    {
+     "id": "FAC-0336",
+     "name": "Kridaniketan Shala",
+     "type": "school",
+     "distance_m": 177.4
+    },
+    {
+     "id": "FAC-0291",
+     "name": "Navshya Maruti",
+     "type": "place_of_worship",
+     "distance_m": 193.7
+    },
+    {
+     "id": "FAC-0124",
+     "name": "Jay Ganesh",
+     "type": "commercial",
+     "distance_m": 218.8
+    },
+    {
+     "id": "FAC-0220",
+     "name": "Vanhausen",
+     "type": "commercial",
+     "distance_m": 244.1
+    }
+   ],
+   "busRoutes": [
+    {
+     "id": "1024",
+     "route_name": "Venutai Chavan College to Kothrud Depot (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "1326",
+     "route_name": "Dsk Vishwa to Nigdi Bhakti Shakti Stand (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "223",
+     "route_name": "Dsk Vishwa to Bhekrai Nagar (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "297",
+     "route_name": "Narhegaon to Shivaji Nagar (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "45",
+     "route_name": "Dhayareshwar Mandir to Swargate Natraj Stand (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "48",
+     "route_name": "Suncity to Swargate Natraj Stand (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "55",
+     "route_name": "Vadgaon Budruk Stand to Swargate Natraj Stand (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "858",
+     "route_name": "Sanaswadi Nandoshi to Swargate (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "866",
+     "route_name": "Sinhgad to Shaniwarwada Stand (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "876",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "878",
+     "route_name": "Varasgaon Goradwadi to Swargate (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "885",
+     "route_name": "Manerwadi Phata Khanapur to Swargate (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "890",
+     "route_name": "Shanipar Stand to Suncity (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "894",
+     "route_name": "Vadgaon Budruk Stand to Pune Station Jayprakash Stand (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "904",
+     "route_name": "Ghule Nagar Vadgaon Budruk to Swargate (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "905",
+     "route_name": "Swargate to Ghule Nagar Vadgaon Budruk (DOWN)",
+     "distance_m": 4.1
+    },
+    {
+     "id": "1025",
+     "route_name": "Kothrud Depot to Venutai Chavan College (DOWN)",
+     "distance_m": 13.3
+    },
+    {
+     "id": "1327",
+     "route_name": "Nigdi Bhakti Shakti Stand to Dsk Vishwa (DOWN)",
+     "distance_m": 13.3
+    },
+    {
+     "id": "224",
+     "route_name": "Bhekrai Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 13.3
+    },
+    {
+     "id": "298",
+     "route_name": "Shivaji Nagar to Narhegaon (DOWN)",
+     "distance_m": 13.3
+    },
+    {
+     "id": "47",
+     "route_name": "Swargate Natraj Stand to Dhayareshwar Mandir (DOWN)",
+     "distance_m": 13.3
+    },
+    {
+     "id": "49",
+     "route_name": "Swargate Natraj Stand to Suncity (DOWN)",
+     "distance_m": 13.3
+    },
+    {
+     "id": "57",
+     "route_name": "Swargate Natraj Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 13.3
+    },
+    {
+     "id": "859",
+     "route_name": "Swargate to Sanaswadi Nandoshi (DOWN)",
+     "distance_m": 13.3
+    },
+    {
+     "id": "873",
+     "route_name": "Shaniwarwada Stand to Sinhgad (DOWN)",
+     "distance_m": 13.3
+    },
+    {
+     "id": "877",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 13.3
+    },
+    {
+     "id": "879",
+     "route_name": "Swargate to Varasgaon Goradwadi (DOWN)",
+     "distance_m": 13.3
+    },
+    {
+     "id": "887",
+     "route_name": "Swargate to Manerwadi Phata Khanapur (DOWN)",
+     "distance_m": 13.3
+    },
+    {
+     "id": "891",
+     "route_name": "Suncity to Shanipar Stand (DOWN)",
+     "distance_m": 13.3
+    },
+    {
+     "id": "895",
+     "route_name": "Pune Station Jayprakash Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 13.3
+    }
+   ]
+  },
+  "PMC/RC/2026/0014": {
+   "facilities": [
+    {
+     "id": "FAC-0053",
+     "name": "Nimbalkar - jarhad Eye Hospital",
+     "type": "clinic",
+     "distance_m": 27.5
+    },
+    {
+     "id": "FAC-0027",
+     "name": "Vitthalwadi Jagat Naka",
+     "type": "bus_stop",
+     "distance_m": 122
+    },
+    {
+     "id": "FAC-0089",
+     "name": "Bajaj Chetak",
+     "type": "commercial",
+     "distance_m": 140.8
+    },
+    {
+     "id": "FAC-0291",
+     "name": "Navshya Maruti",
+     "type": "place_of_worship",
+     "distance_m": 165.9
+    },
+    {
+     "id": "FAC-0336",
+     "name": "Kridaniketan Shala",
+     "type": "school",
+     "distance_m": 183.5
+    },
+    {
+     "id": "FAC-0124",
+     "name": "Jay Ganesh",
+     "type": "commercial",
+     "distance_m": 198.1
+    },
+    {
+     "id": "FAC-0220",
+     "name": "Vanhausen",
+     "type": "commercial",
+     "distance_m": 216.3
+    }
+   ],
+   "busRoutes": [
+    {
+     "id": "1024",
+     "route_name": "Venutai Chavan College to Kothrud Depot (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "1326",
+     "route_name": "Dsk Vishwa to Nigdi Bhakti Shakti Stand (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "223",
+     "route_name": "Dsk Vishwa to Bhekrai Nagar (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "297",
+     "route_name": "Narhegaon to Shivaji Nagar (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "45",
+     "route_name": "Dhayareshwar Mandir to Swargate Natraj Stand (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "48",
+     "route_name": "Suncity to Swargate Natraj Stand (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "55",
+     "route_name": "Vadgaon Budruk Stand to Swargate Natraj Stand (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "858",
+     "route_name": "Sanaswadi Nandoshi to Swargate (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "866",
+     "route_name": "Sinhgad to Shaniwarwada Stand (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "876",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "878",
+     "route_name": "Varasgaon Goradwadi to Swargate (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "885",
+     "route_name": "Manerwadi Phata Khanapur to Swargate (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "890",
+     "route_name": "Shanipar Stand to Suncity (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "894",
+     "route_name": "Vadgaon Budruk Stand to Pune Station Jayprakash Stand (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "904",
+     "route_name": "Ghule Nagar Vadgaon Budruk to Swargate (UP)",
+     "distance_m": 0.1
+    },
+    {
+     "id": "905",
+     "route_name": "Swargate to Ghule Nagar Vadgaon Budruk (DOWN)",
+     "distance_m": 4.5
+    },
+    {
+     "id": "1025",
+     "route_name": "Kothrud Depot to Venutai Chavan College (DOWN)",
+     "distance_m": 12.4
+    },
+    {
+     "id": "1327",
+     "route_name": "Nigdi Bhakti Shakti Stand to Dsk Vishwa (DOWN)",
+     "distance_m": 12.4
+    },
+    {
+     "id": "224",
+     "route_name": "Bhekrai Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 12.4
+    },
+    {
+     "id": "298",
+     "route_name": "Shivaji Nagar to Narhegaon (DOWN)",
+     "distance_m": 12.4
+    },
+    {
+     "id": "47",
+     "route_name": "Swargate Natraj Stand to Dhayareshwar Mandir (DOWN)",
+     "distance_m": 12.4
+    },
+    {
+     "id": "49",
+     "route_name": "Swargate Natraj Stand to Suncity (DOWN)",
+     "distance_m": 12.4
+    },
+    {
+     "id": "57",
+     "route_name": "Swargate Natraj Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 12.4
+    },
+    {
+     "id": "859",
+     "route_name": "Swargate to Sanaswadi Nandoshi (DOWN)",
+     "distance_m": 12.4
+    },
+    {
+     "id": "873",
+     "route_name": "Shaniwarwada Stand to Sinhgad (DOWN)",
+     "distance_m": 12.4
+    },
+    {
+     "id": "877",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 12.4
+    },
+    {
+     "id": "879",
+     "route_name": "Swargate to Varasgaon Goradwadi (DOWN)",
+     "distance_m": 12.4
+    },
+    {
+     "id": "887",
+     "route_name": "Swargate to Manerwadi Phata Khanapur (DOWN)",
+     "distance_m": 12.4
+    },
+    {
+     "id": "891",
+     "route_name": "Suncity to Shanipar Stand (DOWN)",
+     "distance_m": 12.4
+    },
+    {
+     "id": "895",
+     "route_name": "Pune Station Jayprakash Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 12.4
+    }
+   ]
+  },
+  "PMC/RC/2026/0015": {
+   "facilities": [
+    {
+     "id": "FAC-0139",
+     "name": "Laxmi Drycleaners",
+     "type": "commercial",
+     "distance_m": 241
+    },
+    {
+     "id": "FAC-0133",
+     "name": "Kekiz The Cake Shop",
+     "type": "commercial",
+     "distance_m": 251.2
+    },
+    {
+     "id": "FAC-0209",
+     "name": "The Cake and Cream Factory",
+     "type": "commercial",
+     "distance_m": 304.3
+    },
+    {
+     "id": "FAC-0216",
+     "name": "Universal Pet store",
+     "type": "commercial",
+     "distance_m": 307.1
+    },
+    {
+     "id": "FAC-0137",
+     "name": "Krushna Gift House",
+     "type": "commercial",
+     "distance_m": 310.9
+    },
+    {
+     "id": "FAC-0147",
+     "name": "Mayur Agency",
+     "type": "commercial",
+     "distance_m": 323.8
+    },
+    {
+     "id": "FAC-0156",
+     "name": "New Govind Traders",
+     "type": "commercial",
+     "distance_m": 334.2
+    },
+    {
+     "id": "FAC-0019",
+     "name": "Ranka",
+     "type": "bus_stop",
+     "distance_m": 376.5
+    },
+    {
+     "id": "FAC-0203",
+     "name": "Sujata Mastani",
+     "type": "commercial",
+     "distance_m": 447
+    },
+    {
+     "id": "FAC-0181",
+     "name": "Ranka Jewellers",
+     "type": "commercial",
+     "distance_m": 494.7
+    }
+   ],
+   "busRoutes": [
+    {
+     "id": "1024",
+     "route_name": "Venutai Chavan College to Kothrud Depot (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "1326",
+     "route_name": "Dsk Vishwa to Nigdi Bhakti Shakti Stand (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "14",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "223",
+     "route_name": "Dsk Vishwa to Bhekrai Nagar (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "297",
+     "route_name": "Narhegaon to Shivaji Nagar (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "45",
+     "route_name": "Dhayareshwar Mandir to Swargate Natraj Stand (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "48",
+     "route_name": "Suncity to Swargate Natraj Stand (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "55",
+     "route_name": "Vadgaon Budruk Stand to Swargate Natraj Stand (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "858",
+     "route_name": "Sanaswadi Nandoshi to Swargate (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "866",
+     "route_name": "Sinhgad to Shaniwarwada Stand (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "876",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "878",
+     "route_name": "Varasgaon Goradwadi to Swargate (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "885",
+     "route_name": "Manerwadi Phata Khanapur to Swargate (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "890",
+     "route_name": "Shanipar Stand to Suncity (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "894",
+     "route_name": "Vadgaon Budruk Stand to Pune Station Jayprakash Stand (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "904",
+     "route_name": "Ghule Nagar Vadgaon Budruk to Swargate (UP)",
+     "distance_m": 1.8
+    },
+    {
+     "id": "1025",
+     "route_name": "Kothrud Depot to Venutai Chavan College (DOWN)",
+     "distance_m": 27.5
+    },
+    {
+     "id": "1327",
+     "route_name": "Nigdi Bhakti Shakti Stand to Dsk Vishwa (DOWN)",
+     "distance_m": 27.5
+    },
+    {
+     "id": "15",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 27.5
+    },
+    {
+     "id": "224",
+     "route_name": "Bhekrai Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 27.5
+    },
+    {
+     "id": "298",
+     "route_name": "Shivaji Nagar to Narhegaon (DOWN)",
+     "distance_m": 27.5
+    },
+    {
+     "id": "47",
+     "route_name": "Swargate Natraj Stand to Dhayareshwar Mandir (DOWN)",
+     "distance_m": 27.5
+    },
+    {
+     "id": "49",
+     "route_name": "Swargate Natraj Stand to Suncity (DOWN)",
+     "distance_m": 27.5
+    },
+    {
+     "id": "57",
+     "route_name": "Swargate Natraj Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 27.5
+    },
+    {
+     "id": "859",
+     "route_name": "Swargate to Sanaswadi Nandoshi (DOWN)",
+     "distance_m": 27.5
+    },
+    {
+     "id": "873",
+     "route_name": "Shaniwarwada Stand to Sinhgad (DOWN)",
+     "distance_m": 27.5
+    },
+    {
+     "id": "877",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 27.5
+    },
+    {
+     "id": "879",
+     "route_name": "Swargate to Varasgaon Goradwadi (DOWN)",
+     "distance_m": 27.5
+    },
+    {
+     "id": "887",
+     "route_name": "Swargate to Manerwadi Phata Khanapur (DOWN)",
+     "distance_m": 27.5
+    },
+    {
+     "id": "891",
+     "route_name": "Suncity to Shanipar Stand (DOWN)",
+     "distance_m": 27.5
+    },
+    {
+     "id": "895",
+     "route_name": "Pune Station Jayprakash Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 27.5
+    },
+    {
+     "id": "905",
+     "route_name": "Swargate to Ghule Nagar Vadgaon Budruk (DOWN)",
+     "distance_m": 27.5
+    }
+   ]
+  },
+  "PMC/RC/2026/0016": {
+   "facilities": [
+    {
+     "id": "FAC-0019",
+     "name": "Ranka",
+     "type": "bus_stop",
+     "distance_m": 10.4
+    },
+    {
+     "id": "FAC-0203",
+     "name": "Sujata Mastani",
+     "type": "commercial",
+     "distance_m": 29.7
+    },
+    {
+     "id": "FAC-0181",
+     "name": "Ranka Jewellers",
+     "type": "commercial",
+     "distance_m": 66.6
+    },
+    {
+     "id": "FAC-0209",
+     "name": "The Cake and Cream Factory",
+     "type": "commercial",
+     "distance_m": 77.7
+    },
+    {
+     "id": "FAC-0159",
+     "name": "New Vithhal Furniture",
+     "type": "commercial",
+     "distance_m": 107.1
+    },
+    {
+     "id": "FAC-0139",
+     "name": "Laxmi Drycleaners",
+     "type": "commercial",
+     "distance_m": 166
+    },
+    {
+     "id": "FAC-0133",
+     "name": "Kekiz The Cake Shop",
+     "type": "commercial",
+     "distance_m": 170.8
+    },
+    {
+     "id": "FAC-0286",
+     "name": "Mandir",
+     "type": "place_of_worship",
+     "distance_m": 180
+    },
+    {
+     "id": "FAC-0216",
+     "name": "Universal Pet store",
+     "type": "commercial",
+     "distance_m": 213.7
+    },
+    {
+     "id": "FAC-0137",
+     "name": "Krushna Gift House",
+     "type": "commercial",
+     "distance_m": 217.2
+    },
+    {
+     "id": "FAC-0147",
+     "name": "Mayur Agency",
+     "type": "commercial",
+     "distance_m": 227.1
+    },
+    {
+     "id": "FAC-0156",
+     "name": "New Govind Traders",
+     "type": "commercial",
+     "distance_m": 239.6
+    },
+    {
+     "id": "FAC-0026",
+     "name": "Vitthalvadi",
+     "type": "bus_stop",
+     "distance_m": 322.1
+    }
+   ],
+   "busRoutes": [
+    {
+     "id": "1025",
+     "route_name": "Kothrud Depot to Venutai Chavan College (DOWN)",
+     "distance_m": 0
+    },
+    {
+     "id": "1327",
+     "route_name": "Nigdi Bhakti Shakti Stand to Dsk Vishwa (DOWN)",
+     "distance_m": 0
+    },
+    {
+     "id": "15",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 0
+    },
+    {
+     "id": "224",
+     "route_name": "Bhekrai Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 0
+    },
+    {
+     "id": "298",
+     "route_name": "Shivaji Nagar to Narhegaon (DOWN)",
+     "distance_m": 0
+    },
+    {
+     "id": "47",
+     "route_name": "Swargate Natraj Stand to Dhayareshwar Mandir (DOWN)",
+     "distance_m": 0
+    },
+    {
+     "id": "49",
+     "route_name": "Swargate Natraj Stand to Suncity (DOWN)",
+     "distance_m": 0
+    },
+    {
+     "id": "57",
+     "route_name": "Swargate Natraj Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 0
+    },
+    {
+     "id": "859",
+     "route_name": "Swargate to Sanaswadi Nandoshi (DOWN)",
+     "distance_m": 0
+    },
+    {
+     "id": "873",
+     "route_name": "Shaniwarwada Stand to Sinhgad (DOWN)",
+     "distance_m": 0
+    },
+    {
+     "id": "877",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 0
+    },
+    {
+     "id": "879",
+     "route_name": "Swargate to Varasgaon Goradwadi (DOWN)",
+     "distance_m": 0
+    },
+    {
+     "id": "887",
+     "route_name": "Swargate to Manerwadi Phata Khanapur (DOWN)",
+     "distance_m": 0
+    },
+    {
+     "id": "891",
+     "route_name": "Suncity to Shanipar Stand (DOWN)",
+     "distance_m": 0
+    },
+    {
+     "id": "895",
+     "route_name": "Pune Station Jayprakash Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 0
+    },
+    {
+     "id": "905",
+     "route_name": "Swargate to Ghule Nagar Vadgaon Budruk (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "1024",
+     "route_name": "Venutai Chavan College to Kothrud Depot (UP)",
+     "distance_m": 8.1
+    },
+    {
+     "id": "1326",
+     "route_name": "Dsk Vishwa to Nigdi Bhakti Shakti Stand (UP)",
+     "distance_m": 8.1
+    },
+    {
+     "id": "14",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 8.1
+    },
+    {
+     "id": "223",
+     "route_name": "Dsk Vishwa to Bhekrai Nagar (UP)",
+     "distance_m": 8.1
+    },
+    {
+     "id": "297",
+     "route_name": "Narhegaon to Shivaji Nagar (UP)",
+     "distance_m": 8.1
+    },
+    {
+     "id": "45",
+     "route_name": "Dhayareshwar Mandir to Swargate Natraj Stand (UP)",
+     "distance_m": 8.1
+    },
+    {
+     "id": "48",
+     "route_name": "Suncity to Swargate Natraj Stand (UP)",
+     "distance_m": 8.1
+    },
+    {
+     "id": "55",
+     "route_name": "Vadgaon Budruk Stand to Swargate Natraj Stand (UP)",
+     "distance_m": 8.1
+    },
+    {
+     "id": "858",
+     "route_name": "Sanaswadi Nandoshi to Swargate (UP)",
+     "distance_m": 8.1
+    },
+    {
+     "id": "866",
+     "route_name": "Sinhgad to Shaniwarwada Stand (UP)",
+     "distance_m": 8.1
+    },
+    {
+     "id": "876",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 8.1
+    },
+    {
+     "id": "878",
+     "route_name": "Varasgaon Goradwadi to Swargate (UP)",
+     "distance_m": 8.1
+    },
+    {
+     "id": "885",
+     "route_name": "Manerwadi Phata Khanapur to Swargate (UP)",
+     "distance_m": 8.1
+    },
+    {
+     "id": "890",
+     "route_name": "Shanipar Stand to Suncity (UP)",
+     "distance_m": 8.1
+    },
+    {
+     "id": "894",
+     "route_name": "Vadgaon Budruk Stand to Pune Station Jayprakash Stand (UP)",
+     "distance_m": 8.1
+    },
+    {
+     "id": "904",
+     "route_name": "Ghule Nagar Vadgaon Budruk to Swargate (UP)",
+     "distance_m": 8.1
+    }
+   ]
+  },
+  "PMC/RC/2026/0017": {
+   "facilities": [
+    {
+     "id": "FAC-0015",
+     "name": "Rajaram Bridge",
+     "type": "bus_stop",
+     "distance_m": 11.4
+    },
+    {
+     "id": "FAC-0016",
+     "name": "Rajaram Bridge",
+     "type": "bus_stop",
+     "distance_m": 44.2
+    },
+    {
+     "id": "FAC-0300",
+     "name": "Sarda Math",
+     "type": "place_of_worship",
+     "distance_m": 163.5
+    },
+    {
+     "id": "FAC-0026",
+     "name": "Vitthalvadi",
+     "type": "bus_stop",
+     "distance_m": 208.5
+    },
+    {
+     "id": "FAC-0283",
+     "name": "Hanuman Mandir",
+     "type": "place_of_worship",
+     "distance_m": 366.5
+    },
+    {
+     "id": "FAC-0159",
+     "name": "New Vithhal Furniture",
+     "type": "commercial",
+     "distance_m": 426
+    },
+    {
+     "id": "FAC-0181",
+     "name": "Ranka Jewellers",
+     "type": "commercial",
+     "distance_m": 463
+    },
+    {
+     "id": "FAC-0286",
+     "name": "Mandir",
+     "type": "place_of_worship",
+     "distance_m": 463.8
+    }
+   ],
+   "busRoutes": [
+    {
+     "id": "1024",
+     "route_name": "Venutai Chavan College to Kothrud Depot (UP)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "1326",
+     "route_name": "Dsk Vishwa to Nigdi Bhakti Shakti Stand (UP)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "223",
+     "route_name": "Dsk Vishwa to Bhekrai Nagar (UP)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "297",
+     "route_name": "Narhegaon to Shivaji Nagar (UP)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "45",
+     "route_name": "Dhayareshwar Mandir to Swargate Natraj Stand (UP)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "48",
+     "route_name": "Suncity to Swargate Natraj Stand (UP)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "55",
+     "route_name": "Vadgaon Budruk Stand to Swargate Natraj Stand (UP)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "858",
+     "route_name": "Sanaswadi Nandoshi to Swargate (UP)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "866",
+     "route_name": "Sinhgad to Shaniwarwada Stand (UP)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "876",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "878",
+     "route_name": "Varasgaon Goradwadi to Swargate (UP)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "885",
+     "route_name": "Manerwadi Phata Khanapur to Swargate (UP)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "890",
+     "route_name": "Shanipar Stand to Suncity (UP)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "894",
+     "route_name": "Vadgaon Budruk Stand to Pune Station Jayprakash Stand (UP)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "904",
+     "route_name": "Ghule Nagar Vadgaon Budruk to Swargate (UP)",
+     "distance_m": 1.7
+    },
+    {
+     "id": "905",
+     "route_name": "Swargate to Ghule Nagar Vadgaon Budruk (DOWN)",
+     "distance_m": 2
+    },
+    {
+     "id": "14",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 3.7
+    },
+    {
+     "id": "15",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 4.5
+    },
+    {
+     "id": "1025",
+     "route_name": "Kothrud Depot to Venutai Chavan College (DOWN)",
+     "distance_m": 22.9
+    },
+    {
+     "id": "1327",
+     "route_name": "Nigdi Bhakti Shakti Stand to Dsk Vishwa (DOWN)",
+     "distance_m": 22.9
+    },
+    {
+     "id": "224",
+     "route_name": "Bhekrai Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 22.9
+    },
+    {
+     "id": "298",
+     "route_name": "Shivaji Nagar to Narhegaon (DOWN)",
+     "distance_m": 22.9
+    },
+    {
+     "id": "47",
+     "route_name": "Swargate Natraj Stand to Dhayareshwar Mandir (DOWN)",
+     "distance_m": 22.9
+    },
+    {
+     "id": "49",
+     "route_name": "Swargate Natraj Stand to Suncity (DOWN)",
+     "distance_m": 22.9
+    },
+    {
+     "id": "57",
+     "route_name": "Swargate Natraj Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 22.9
+    },
+    {
+     "id": "859",
+     "route_name": "Swargate to Sanaswadi Nandoshi (DOWN)",
+     "distance_m": 22.9
+    },
+    {
+     "id": "873",
+     "route_name": "Shaniwarwada Stand to Sinhgad (DOWN)",
+     "distance_m": 22.9
+    },
+    {
+     "id": "877",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 22.9
+    },
+    {
+     "id": "879",
+     "route_name": "Swargate to Varasgaon Goradwadi (DOWN)",
+     "distance_m": 22.9
+    },
+    {
+     "id": "887",
+     "route_name": "Swargate to Manerwadi Phata Khanapur (DOWN)",
+     "distance_m": 22.9
+    },
+    {
+     "id": "891",
+     "route_name": "Suncity to Shanipar Stand (DOWN)",
+     "distance_m": 22.9
+    },
+    {
+     "id": "895",
+     "route_name": "Pune Station Jayprakash Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 22.9
+    },
+    {
+     "id": "962",
+     "route_name": "Marketyard Depot to Nda 10 No. Gate (DOWN)",
+     "distance_m": 413.1
+    },
+    {
+     "id": "154",
+     "route_name": "Pune Station Moledina Stand to Galinde Path (UP)",
+     "distance_m": 432.1
+    },
+    {
+     "id": "155",
+     "route_name": "Galinde Path to Pune Station Moledina Stand (DOWN)",
+     "distance_m": 452.6
+    }
+   ]
+  },
+  "PMC/RC/2026/0018": {
+   "facilities": [
+    {
+     "id": "FAC-0300",
+     "name": "Sarda Math",
+     "type": "place_of_worship",
+     "distance_m": 88.1
+    },
+    {
+     "id": "FAC-0016",
+     "name": "Rajaram Bridge",
+     "type": "bus_stop",
+     "distance_m": 171.8
+    },
+    {
+     "id": "FAC-0015",
+     "name": "Rajaram Bridge",
+     "type": "bus_stop",
+     "distance_m": 214.9
+    },
+    {
+     "id": "FAC-0027",
+     "name": "Vitthalwadi Jagat Naka",
+     "type": "bus_stop",
+     "distance_m": 374.4
+    },
+    {
+     "id": "FAC-0336",
+     "name": "Kridaniketan Shala",
+     "type": "school",
+     "distance_m": 393.4
+    },
+    {
+     "id": "FAC-0283",
+     "name": "Hanuman Mandir",
+     "type": "place_of_worship",
+     "distance_m": 397.5
+    },
+    {
+     "id": "FAC-0053",
+     "name": "Nimbalkar - jarhad Eye Hospital",
+     "type": "clinic",
+     "distance_m": 465.5
+    },
+    {
+     "id": "FAC-0026",
+     "name": "Vitthalvadi",
+     "type": "bus_stop",
+     "distance_m": 476
+    }
+   ],
+   "busRoutes": [
+    {
+     "id": "1024",
+     "route_name": "Venutai Chavan College to Kothrud Depot (UP)",
+     "distance_m": 17.9
+    },
+    {
+     "id": "1326",
+     "route_name": "Dsk Vishwa to Nigdi Bhakti Shakti Stand (UP)",
+     "distance_m": 17.9
+    },
+    {
+     "id": "223",
+     "route_name": "Dsk Vishwa to Bhekrai Nagar (UP)",
+     "distance_m": 17.9
+    },
+    {
+     "id": "297",
+     "route_name": "Narhegaon to Shivaji Nagar (UP)",
+     "distance_m": 17.9
+    },
+    {
+     "id": "45",
+     "route_name": "Dhayareshwar Mandir to Swargate Natraj Stand (UP)",
+     "distance_m": 17.9
+    },
+    {
+     "id": "48",
+     "route_name": "Suncity to Swargate Natraj Stand (UP)",
+     "distance_m": 17.9
+    },
+    {
+     "id": "55",
+     "route_name": "Vadgaon Budruk Stand to Swargate Natraj Stand (UP)",
+     "distance_m": 17.9
+    },
+    {
+     "id": "858",
+     "route_name": "Sanaswadi Nandoshi to Swargate (UP)",
+     "distance_m": 17.9
+    },
+    {
+     "id": "866",
+     "route_name": "Sinhgad to Shaniwarwada Stand (UP)",
+     "distance_m": 17.9
+    },
+    {
+     "id": "876",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 17.9
+    },
+    {
+     "id": "878",
+     "route_name": "Varasgaon Goradwadi to Swargate (UP)",
+     "distance_m": 17.9
+    },
+    {
+     "id": "885",
+     "route_name": "Manerwadi Phata Khanapur to Swargate (UP)",
+     "distance_m": 17.9
+    },
+    {
+     "id": "890",
+     "route_name": "Shanipar Stand to Suncity (UP)",
+     "distance_m": 17.9
+    },
+    {
+     "id": "894",
+     "route_name": "Vadgaon Budruk Stand to Pune Station Jayprakash Stand (UP)",
+     "distance_m": 17.9
+    },
+    {
+     "id": "904",
+     "route_name": "Ghule Nagar Vadgaon Budruk to Swargate (UP)",
+     "distance_m": 17.9
+    },
+    {
+     "id": "1025",
+     "route_name": "Kothrud Depot to Venutai Chavan College (DOWN)",
+     "distance_m": 32.3
+    },
+    {
+     "id": "1327",
+     "route_name": "Nigdi Bhakti Shakti Stand to Dsk Vishwa (DOWN)",
+     "distance_m": 32.3
+    },
+    {
+     "id": "224",
+     "route_name": "Bhekrai Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 32.3
+    },
+    {
+     "id": "298",
+     "route_name": "Shivaji Nagar to Narhegaon (DOWN)",
+     "distance_m": 32.3
+    },
+    {
+     "id": "47",
+     "route_name": "Swargate Natraj Stand to Dhayareshwar Mandir (DOWN)",
+     "distance_m": 32.3
+    },
+    {
+     "id": "49",
+     "route_name": "Swargate Natraj Stand to Suncity (DOWN)",
+     "distance_m": 32.3
+    },
+    {
+     "id": "57",
+     "route_name": "Swargate Natraj Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 32.3
+    },
+    {
+     "id": "859",
+     "route_name": "Swargate to Sanaswadi Nandoshi (DOWN)",
+     "distance_m": 32.3
+    },
+    {
+     "id": "873",
+     "route_name": "Shaniwarwada Stand to Sinhgad (DOWN)",
+     "distance_m": 32.3
+    },
+    {
+     "id": "877",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 32.3
+    },
+    {
+     "id": "879",
+     "route_name": "Swargate to Varasgaon Goradwadi (DOWN)",
+     "distance_m": 32.3
+    },
+    {
+     "id": "887",
+     "route_name": "Swargate to Manerwadi Phata Khanapur (DOWN)",
+     "distance_m": 32.3
+    },
+    {
+     "id": "891",
+     "route_name": "Suncity to Shanipar Stand (DOWN)",
+     "distance_m": 32.3
+    },
+    {
+     "id": "895",
+     "route_name": "Pune Station Jayprakash Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 32.3
+    },
+    {
+     "id": "905",
+     "route_name": "Swargate to Ghule Nagar Vadgaon Budruk (DOWN)",
+     "distance_m": 34.1
+    },
+    {
+     "id": "15",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 202.1
+    },
+    {
+     "id": "14",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 217.4
+    },
+    {
+     "id": "154",
+     "route_name": "Pune Station Moledina Stand to Galinde Path (UP)",
+     "distance_m": 391.2
+    },
+    {
+     "id": "155",
+     "route_name": "Galinde Path to Pune Station Moledina Stand (DOWN)",
+     "distance_m": 405.1
+    },
+    {
+     "id": "962",
+     "route_name": "Marketyard Depot to Nda 10 No. Gate (DOWN)",
+     "distance_m": 460.1
+    }
+   ]
+  },
+  "PMC/RC/2026/0019": {
+   "facilities": [
+    {
+     "id": "FAC-0027",
+     "name": "Vitthalwadi Jagat Naka",
+     "type": "bus_stop",
+     "distance_m": 88.1
+    },
+    {
+     "id": "FAC-0336",
+     "name": "Kridaniketan Shala",
+     "type": "school",
+     "distance_m": 182.1
+    },
+    {
+     "id": "FAC-0053",
+     "name": "Nimbalkar - jarhad Eye Hospital",
+     "type": "clinic",
+     "distance_m": 183
+    },
+    {
+     "id": "FAC-0300",
+     "name": "Sarda Math",
+     "type": "place_of_worship",
+     "distance_m": 361.3
+    },
+    {
+     "id": "FAC-0089",
+     "name": "Bajaj Chetak",
+     "type": "commercial",
+     "distance_m": 432.6
+    },
+    {
+     "id": "FAC-0016",
+     "name": "Rajaram Bridge",
+     "type": "bus_stop",
+     "distance_m": 447
+    },
+    {
+     "id": "FAC-0124",
+     "name": "Jay Ganesh",
+     "type": "commercial",
+     "distance_m": 458.4
+    },
+    {
+     "id": "FAC-0291",
+     "name": "Navshya Maruti",
+     "type": "place_of_worship",
+     "distance_m": 458.7
+    },
+    {
+     "id": "FAC-0015",
+     "name": "Rajaram Bridge",
+     "type": "bus_stop",
+     "distance_m": 495.3
+    }
+   ],
+   "busRoutes": [
+    {
+     "id": "1025",
+     "route_name": "Kothrud Depot to Venutai Chavan College (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "1327",
+     "route_name": "Nigdi Bhakti Shakti Stand to Dsk Vishwa (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "224",
+     "route_name": "Bhekrai Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "298",
+     "route_name": "Shivaji Nagar to Narhegaon (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "47",
+     "route_name": "Swargate Natraj Stand to Dhayareshwar Mandir (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "49",
+     "route_name": "Swargate Natraj Stand to Suncity (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "57",
+     "route_name": "Swargate Natraj Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "859",
+     "route_name": "Swargate to Sanaswadi Nandoshi (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "873",
+     "route_name": "Shaniwarwada Stand to Sinhgad (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "877",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "879",
+     "route_name": "Swargate to Varasgaon Goradwadi (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "887",
+     "route_name": "Swargate to Manerwadi Phata Khanapur (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "891",
+     "route_name": "Suncity to Shanipar Stand (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "895",
+     "route_name": "Pune Station Jayprakash Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 1.9
+    },
+    {
+     "id": "905",
+     "route_name": "Swargate to Ghule Nagar Vadgaon Budruk (DOWN)",
+     "distance_m": 7.9
+    },
+    {
+     "id": "1024",
+     "route_name": "Venutai Chavan College to Kothrud Depot (UP)",
+     "distance_m": 11.3
+    },
+    {
+     "id": "1326",
+     "route_name": "Dsk Vishwa to Nigdi Bhakti Shakti Stand (UP)",
+     "distance_m": 11.3
+    },
+    {
+     "id": "223",
+     "route_name": "Dsk Vishwa to Bhekrai Nagar (UP)",
+     "distance_m": 11.3
+    },
+    {
+     "id": "297",
+     "route_name": "Narhegaon to Shivaji Nagar (UP)",
+     "distance_m": 11.3
+    },
+    {
+     "id": "45",
+     "route_name": "Dhayareshwar Mandir to Swargate Natraj Stand (UP)",
+     "distance_m": 11.3
+    },
+    {
+     "id": "48",
+     "route_name": "Suncity to Swargate Natraj Stand (UP)",
+     "distance_m": 11.3
+    },
+    {
+     "id": "55",
+     "route_name": "Vadgaon Budruk Stand to Swargate Natraj Stand (UP)",
+     "distance_m": 11.3
+    },
+    {
+     "id": "858",
+     "route_name": "Sanaswadi Nandoshi to Swargate (UP)",
+     "distance_m": 11.3
+    },
+    {
+     "id": "866",
+     "route_name": "Sinhgad to Shaniwarwada Stand (UP)",
+     "distance_m": 11.3
+    },
+    {
+     "id": "876",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 11.3
+    },
+    {
+     "id": "878",
+     "route_name": "Varasgaon Goradwadi to Swargate (UP)",
+     "distance_m": 11.3
+    },
+    {
+     "id": "885",
+     "route_name": "Manerwadi Phata Khanapur to Swargate (UP)",
+     "distance_m": 11.3
+    },
+    {
+     "id": "890",
+     "route_name": "Shanipar Stand to Suncity (UP)",
+     "distance_m": 11.3
+    },
+    {
+     "id": "894",
+     "route_name": "Vadgaon Budruk Stand to Pune Station Jayprakash Stand (UP)",
+     "distance_m": 11.3
+    },
+    {
+     "id": "904",
+     "route_name": "Ghule Nagar Vadgaon Budruk to Swargate (UP)",
+     "distance_m": 11.3
+    },
+    {
+     "id": "15",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 484.2
+    },
+    {
+     "id": "14",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 495.9
+    }
+   ]
+  },
+  "PMC/RC/2026/0020": {
+   "facilities": [
+    {
+     "id": "FAC-0089",
+     "name": "Bajaj Chetak",
+     "type": "commercial",
+     "distance_m": 36.5
+    },
+    {
+     "id": "FAC-0291",
+     "name": "Navshya Maruti",
+     "type": "place_of_worship",
+     "distance_m": 57.6
+    },
+    {
+     "id": "FAC-0220",
+     "name": "Vanhausen",
+     "type": "commercial",
+     "distance_m": 107.8
+    },
+    {
+     "id": "FAC-0124",
+     "name": "Jay Ganesh",
+     "type": "commercial",
+     "distance_m": 136.2
+    },
+    {
+     "id": "FAC-0053",
+     "name": "Nimbalkar - jarhad Eye Hospital",
+     "type": "clinic",
+     "distance_m": 151.9
+    },
+    {
+     "id": "FAC-0027",
+     "name": "Vitthalwadi Jagat Naka",
+     "type": "bus_stop",
+     "distance_m": 247.4
+    },
+    {
+     "id": "FAC-0336",
+     "name": "Kridaniketan Shala",
+     "type": "school",
+     "distance_m": 276.5
+    },
+    {
+     "id": "FAC-0306",
+     "name": "swami samarth temple",
+     "type": "place_of_worship",
+     "distance_m": 459.3
+    },
+    {
+     "id": "FAC-0305",
+     "name": "Subhash mithai wala",
+     "type": "place_of_worship",
+     "distance_m": 472.5
+    },
+    {
+     "id": "FAC-0315",
+     "name": "wagzai mandir",
+     "type": "place_of_worship",
+     "distance_m": 479.4
+    },
+    {
+     "id": "FAC-0314",
+     "name": "Waghjai Mandir",
+     "type": "place_of_worship",
+     "distance_m": 479.7
+    },
+    {
+     "id": "FAC-0232",
+     "name": null,
+     "type": "hospital",
+     "distance_m": 482.6
+    },
+    {
+     "id": "FAC-0246",
+     "name": "Clinic",
+     "type": "hospital",
+     "distance_m": 486.5
+    },
+    {
+     "id": "FAC-0233",
+     "name": null,
+     "type": "hospital",
+     "distance_m": 494.5
+    },
+    {
+     "id": "FAC-0234",
+     "name": null,
+     "type": "hospital",
+     "distance_m": 497.8
+    }
+   ],
+   "busRoutes": [
+    {
+     "id": "1024",
+     "route_name": "Venutai Chavan College to Kothrud Depot (UP)",
+     "distance_m": 0
+    },
+    {
+     "id": "1326",
+     "route_name": "Dsk Vishwa to Nigdi Bhakti Shakti Stand (UP)",
+     "distance_m": 0
+    },
+    {
+     "id": "223",
+     "route_name": "Dsk Vishwa to Bhekrai Nagar (UP)",
+     "distance_m": 0
+    },
+    {
+     "id": "297",
+     "route_name": "Narhegaon to Shivaji Nagar (UP)",
+     "distance_m": 0
+    },
+    {
+     "id": "45",
+     "route_name": "Dhayareshwar Mandir to Swargate Natraj Stand (UP)",
+     "distance_m": 0
+    },
+    {
+     "id": "48",
+     "route_name": "Suncity to Swargate Natraj Stand (UP)",
+     "distance_m": 0
+    },
+    {
+     "id": "55",
+     "route_name": "Vadgaon Budruk Stand to Swargate Natraj Stand (UP)",
+     "distance_m": 0
+    },
+    {
+     "id": "858",
+     "route_name": "Sanaswadi Nandoshi to Swargate (UP)",
+     "distance_m": 0
+    },
+    {
+     "id": "866",
+     "route_name": "Sinhgad to Shaniwarwada Stand (UP)",
+     "distance_m": 0
+    },
+    {
+     "id": "876",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 0
+    },
+    {
+     "id": "878",
+     "route_name": "Varasgaon Goradwadi to Swargate (UP)",
+     "distance_m": 0
+    },
+    {
+     "id": "885",
+     "route_name": "Manerwadi Phata Khanapur to Swargate (UP)",
+     "distance_m": 0
+    },
+    {
+     "id": "890",
+     "route_name": "Shanipar Stand to Suncity (UP)",
+     "distance_m": 0
+    },
+    {
+     "id": "894",
+     "route_name": "Vadgaon Budruk Stand to Pune Station Jayprakash Stand (UP)",
+     "distance_m": 0
+    },
+    {
+     "id": "904",
+     "route_name": "Ghule Nagar Vadgaon Budruk to Swargate (UP)",
+     "distance_m": 0
+    },
+    {
+     "id": "905",
+     "route_name": "Swargate to Ghule Nagar Vadgaon Budruk (DOWN)",
+     "distance_m": 7.9
+    },
+    {
+     "id": "1025",
+     "route_name": "Kothrud Depot to Venutai Chavan College (DOWN)",
+     "distance_m": 13.1
+    },
+    {
+     "id": "1327",
+     "route_name": "Nigdi Bhakti Shakti Stand to Dsk Vishwa (DOWN)",
+     "distance_m": 13.1
+    },
+    {
+     "id": "224",
+     "route_name": "Bhekrai Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 13.1
+    },
+    {
+     "id": "298",
+     "route_name": "Shivaji Nagar to Narhegaon (DOWN)",
+     "distance_m": 13.1
+    },
+    {
+     "id": "47",
+     "route_name": "Swargate Natraj Stand to Dhayareshwar Mandir (DOWN)",
+     "distance_m": 13.1
+    },
+    {
+     "id": "49",
+     "route_name": "Swargate Natraj Stand to Suncity (DOWN)",
+     "distance_m": 13.1
+    },
+    {
+     "id": "57",
+     "route_name": "Swargate Natraj Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 13.1
+    },
+    {
+     "id": "859",
+     "route_name": "Swargate to Sanaswadi Nandoshi (DOWN)",
+     "distance_m": 13.1
+    },
+    {
+     "id": "873",
+     "route_name": "Shaniwarwada Stand to Sinhgad (DOWN)",
+     "distance_m": 13.1
+    },
+    {
+     "id": "877",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 13.1
+    },
+    {
+     "id": "879",
+     "route_name": "Swargate to Varasgaon Goradwadi (DOWN)",
+     "distance_m": 13.1
+    },
+    {
+     "id": "887",
+     "route_name": "Swargate to Manerwadi Phata Khanapur (DOWN)",
+     "distance_m": 13.1
+    },
+    {
+     "id": "891",
+     "route_name": "Suncity to Shanipar Stand (DOWN)",
+     "distance_m": 13.1
+    },
+    {
+     "id": "895",
+     "route_name": "Pune Station Jayprakash Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 13.1
+    }
+   ]
+  },
+  "PMC/RC/2026/0021": {
+   "facilities": [
+    {
+     "id": "FAC-0016",
+     "name": "Rajaram Bridge",
+     "type": "bus_stop",
+     "distance_m": 59.3
+    },
+    {
+     "id": "FAC-0300",
+     "name": "Sarda Math",
+     "type": "place_of_worship",
+     "distance_m": 61.1
+    },
+    {
+     "id": "FAC-0015",
+     "name": "Rajaram Bridge",
+     "type": "bus_stop",
+     "distance_m": 94.8
+    },
+    {
+     "id": "FAC-0283",
+     "name": "Hanuman Mandir",
+     "type": "place_of_worship",
+     "distance_m": 355.3
+    },
+    {
+     "id": "FAC-0026",
+     "name": "Vitthalvadi",
+     "type": "bus_stop",
+     "distance_m": 364.4
+    },
+    {
+     "id": "FAC-0027",
+     "name": "Vitthalwadi Jagat Naka",
+     "type": "bus_stop",
+     "distance_m": 498.9
+    }
+   ],
+   "busRoutes": [
+    {
+     "id": "1024",
+     "route_name": "Venutai Chavan College to Kothrud Depot (UP)",
+     "distance_m": 22.6
+    },
+    {
+     "id": "1326",
+     "route_name": "Dsk Vishwa to Nigdi Bhakti Shakti Stand (UP)",
+     "distance_m": 22.6
+    },
+    {
+     "id": "223",
+     "route_name": "Dsk Vishwa to Bhekrai Nagar (UP)",
+     "distance_m": 22.6
+    },
+    {
+     "id": "297",
+     "route_name": "Narhegaon to Shivaji Nagar (UP)",
+     "distance_m": 22.6
+    },
+    {
+     "id": "45",
+     "route_name": "Dhayareshwar Mandir to Swargate Natraj Stand (UP)",
+     "distance_m": 22.6
+    },
+    {
+     "id": "48",
+     "route_name": "Suncity to Swargate Natraj Stand (UP)",
+     "distance_m": 22.6
+    },
+    {
+     "id": "55",
+     "route_name": "Vadgaon Budruk Stand to Swargate Natraj Stand (UP)",
+     "distance_m": 22.6
+    },
+    {
+     "id": "858",
+     "route_name": "Sanaswadi Nandoshi to Swargate (UP)",
+     "distance_m": 22.6
+    },
+    {
+     "id": "866",
+     "route_name": "Sinhgad to Shaniwarwada Stand (UP)",
+     "distance_m": 22.6
+    },
+    {
+     "id": "876",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 22.6
+    },
+    {
+     "id": "878",
+     "route_name": "Varasgaon Goradwadi to Swargate (UP)",
+     "distance_m": 22.6
+    },
+    {
+     "id": "885",
+     "route_name": "Manerwadi Phata Khanapur to Swargate (UP)",
+     "distance_m": 22.6
+    },
+    {
+     "id": "890",
+     "route_name": "Shanipar Stand to Suncity (UP)",
+     "distance_m": 22.6
+    },
+    {
+     "id": "894",
+     "route_name": "Vadgaon Budruk Stand to Pune Station Jayprakash Stand (UP)",
+     "distance_m": 22.6
+    },
+    {
+     "id": "904",
+     "route_name": "Ghule Nagar Vadgaon Budruk to Swargate (UP)",
+     "distance_m": 22.6
+    },
+    {
+     "id": "905",
+     "route_name": "Swargate to Ghule Nagar Vadgaon Budruk (DOWN)",
+     "distance_m": 28.8
+    },
+    {
+     "id": "1025",
+     "route_name": "Kothrud Depot to Venutai Chavan College (DOWN)",
+     "distance_m": 40.7
+    },
+    {
+     "id": "1327",
+     "route_name": "Nigdi Bhakti Shakti Stand to Dsk Vishwa (DOWN)",
+     "distance_m": 40.7
+    },
+    {
+     "id": "224",
+     "route_name": "Bhekrai Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 40.7
+    },
+    {
+     "id": "298",
+     "route_name": "Shivaji Nagar to Narhegaon (DOWN)",
+     "distance_m": 40.7
+    },
+    {
+     "id": "47",
+     "route_name": "Swargate Natraj Stand to Dhayareshwar Mandir (DOWN)",
+     "distance_m": 40.7
+    },
+    {
+     "id": "49",
+     "route_name": "Swargate Natraj Stand to Suncity (DOWN)",
+     "distance_m": 40.7
+    },
+    {
+     "id": "57",
+     "route_name": "Swargate Natraj Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 40.7
+    },
+    {
+     "id": "859",
+     "route_name": "Swargate to Sanaswadi Nandoshi (DOWN)",
+     "distance_m": 40.7
+    },
+    {
+     "id": "873",
+     "route_name": "Shaniwarwada Stand to Sinhgad (DOWN)",
+     "distance_m": 40.7
+    },
+    {
+     "id": "877",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 40.7
+    },
+    {
+     "id": "879",
+     "route_name": "Swargate to Varasgaon Goradwadi (DOWN)",
+     "distance_m": 40.7
+    },
+    {
+     "id": "887",
+     "route_name": "Swargate to Manerwadi Phata Khanapur (DOWN)",
+     "distance_m": 40.7
+    },
+    {
+     "id": "891",
+     "route_name": "Suncity to Shanipar Stand (DOWN)",
+     "distance_m": 40.7
+    },
+    {
+     "id": "895",
+     "route_name": "Pune Station Jayprakash Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 40.7
+    },
+    {
+     "id": "15",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 82.3
+    },
+    {
+     "id": "14",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 98.4
+    },
+    {
+     "id": "154",
+     "route_name": "Pune Station Moledina Stand to Galinde Path (UP)",
+     "distance_m": 385.1
+    },
+    {
+     "id": "155",
+     "route_name": "Galinde Path to Pune Station Moledina Stand (DOWN)",
+     "distance_m": 402.5
+    },
+    {
+     "id": "962",
+     "route_name": "Marketyard Depot to Nda 10 No. Gate (DOWN)",
+     "distance_m": 412
+    }
+   ]
+  },
+  "PMC/RC/2026/0022": {
+   "facilities": [
+    {
+     "id": "FAC-0300",
+     "name": "Sarda Math",
+     "type": "place_of_worship",
+     "distance_m": 57.6
+    },
+    {
+     "id": "FAC-0016",
+     "name": "Rajaram Bridge",
+     "type": "bus_stop",
+     "distance_m": 127.9
+    },
+    {
+     "id": "FAC-0015",
+     "name": "Rajaram Bridge",
+     "type": "bus_stop",
+     "distance_m": 168.6
+    },
+    {
+     "id": "FAC-0283",
+     "name": "Hanuman Mandir",
+     "type": "place_of_worship",
+     "distance_m": 372.7
+    },
+    {
+     "id": "FAC-0026",
+     "name": "Vitthalvadi",
+     "type": "bus_stop",
+     "distance_m": 433.9
+    },
+    {
+     "id": "FAC-0027",
+     "name": "Vitthalwadi Jagat Naka",
+     "type": "bus_stop",
+     "distance_m": 434.7
+    },
+    {
+     "id": "FAC-0336",
+     "name": "Kridaniketan Shala",
+     "type": "school",
+     "distance_m": 448
+    }
+   ],
+   "busRoutes": [
+    {
+     "id": "1024",
+     "route_name": "Venutai Chavan College to Kothrud Depot (UP)",
+     "distance_m": 27.7
+    },
+    {
+     "id": "1326",
+     "route_name": "Dsk Vishwa to Nigdi Bhakti Shakti Stand (UP)",
+     "distance_m": 27.7
+    },
+    {
+     "id": "223",
+     "route_name": "Dsk Vishwa to Bhekrai Nagar (UP)",
+     "distance_m": 27.7
+    },
+    {
+     "id": "297",
+     "route_name": "Narhegaon to Shivaji Nagar (UP)",
+     "distance_m": 27.7
+    },
+    {
+     "id": "45",
+     "route_name": "Dhayareshwar Mandir to Swargate Natraj Stand (UP)",
+     "distance_m": 27.7
+    },
+    {
+     "id": "48",
+     "route_name": "Suncity to Swargate Natraj Stand (UP)",
+     "distance_m": 27.7
+    },
+    {
+     "id": "55",
+     "route_name": "Vadgaon Budruk Stand to Swargate Natraj Stand (UP)",
+     "distance_m": 27.7
+    },
+    {
+     "id": "858",
+     "route_name": "Sanaswadi Nandoshi to Swargate (UP)",
+     "distance_m": 27.7
+    },
+    {
+     "id": "866",
+     "route_name": "Sinhgad to Shaniwarwada Stand (UP)",
+     "distance_m": 27.7
+    },
+    {
+     "id": "876",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 27.7
+    },
+    {
+     "id": "878",
+     "route_name": "Varasgaon Goradwadi to Swargate (UP)",
+     "distance_m": 27.7
+    },
+    {
+     "id": "885",
+     "route_name": "Manerwadi Phata Khanapur to Swargate (UP)",
+     "distance_m": 27.7
+    },
+    {
+     "id": "890",
+     "route_name": "Shanipar Stand to Suncity (UP)",
+     "distance_m": 27.7
+    },
+    {
+     "id": "894",
+     "route_name": "Vadgaon Budruk Stand to Pune Station Jayprakash Stand (UP)",
+     "distance_m": 27.7
+    },
+    {
+     "id": "904",
+     "route_name": "Ghule Nagar Vadgaon Budruk to Swargate (UP)",
+     "distance_m": 27.7
+    },
+    {
+     "id": "905",
+     "route_name": "Swargate to Ghule Nagar Vadgaon Budruk (DOWN)",
+     "distance_m": 39.5
+    },
+    {
+     "id": "1025",
+     "route_name": "Kothrud Depot to Venutai Chavan College (DOWN)",
+     "distance_m": 43.5
+    },
+    {
+     "id": "1327",
+     "route_name": "Nigdi Bhakti Shakti Stand to Dsk Vishwa (DOWN)",
+     "distance_m": 43.5
+    },
+    {
+     "id": "224",
+     "route_name": "Bhekrai Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 43.5
+    },
+    {
+     "id": "298",
+     "route_name": "Shivaji Nagar to Narhegaon (DOWN)",
+     "distance_m": 43.5
+    },
+    {
+     "id": "47",
+     "route_name": "Swargate Natraj Stand to Dhayareshwar Mandir (DOWN)",
+     "distance_m": 43.5
+    },
+    {
+     "id": "49",
+     "route_name": "Swargate Natraj Stand to Suncity (DOWN)",
+     "distance_m": 43.5
+    },
+    {
+     "id": "57",
+     "route_name": "Swargate Natraj Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 43.5
+    },
+    {
+     "id": "859",
+     "route_name": "Swargate to Sanaswadi Nandoshi (DOWN)",
+     "distance_m": 43.5
+    },
+    {
+     "id": "873",
+     "route_name": "Shaniwarwada Stand to Sinhgad (DOWN)",
+     "distance_m": 43.5
+    },
+    {
+     "id": "877",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 43.5
+    },
+    {
+     "id": "879",
+     "route_name": "Swargate to Varasgaon Goradwadi (DOWN)",
+     "distance_m": 43.5
+    },
+    {
+     "id": "887",
+     "route_name": "Swargate to Manerwadi Phata Khanapur (DOWN)",
+     "distance_m": 43.5
+    },
+    {
+     "id": "891",
+     "route_name": "Suncity to Shanipar Stand (DOWN)",
+     "distance_m": 43.5
+    },
+    {
+     "id": "895",
+     "route_name": "Pune Station Jayprakash Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 43.5
+    },
+    {
+     "id": "15",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 155.2
+    },
+    {
+     "id": "14",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 171.7
+    },
+    {
+     "id": "154",
+     "route_name": "Pune Station Moledina Stand to Galinde Path (UP)",
+     "distance_m": 382.1
+    },
+    {
+     "id": "155",
+     "route_name": "Galinde Path to Pune Station Moledina Stand (DOWN)",
+     "distance_m": 398
+    },
+    {
+     "id": "962",
+     "route_name": "Marketyard Depot to Nda 10 No. Gate (DOWN)",
+     "distance_m": 435.1
+    }
+   ]
+  },
+  "PMC/RC/2026/0023": {
+   "facilities": [
+    {
+     "id": "FAC-0218",
+     "name": "Uttam wines",
+     "type": "commercial",
+     "distance_m": 33
+    },
+    {
+     "id": "FAC-0255",
+     "name": "Karva Hospital",
+     "type": "hospital",
+     "distance_m": 89.3
+    },
+    {
+     "id": "FAC-0155",
+     "name": "New Balaji Traders",
+     "type": "commercial",
+     "distance_m": 130.7
+    },
+    {
+     "id": "FAC-0001",
+     "name": "Dandekar Bridge",
+     "type": "bus_stop",
+     "distance_m": 149
+    },
+    {
+     "id": "FAC-0287",
+     "name": "Maruti mandir",
+     "type": "place_of_worship",
+     "distance_m": 173.6
+    },
+    {
+     "id": "FAC-0272",
+     "name": "Chandreshwar sai madir",
+     "type": "place_of_worship",
+     "distance_m": 185.1
+    },
+    {
+     "id": "FAC-0273",
+     "name": "Chandreshwar Sai Mandir",
+     "type": "place_of_worship",
+     "distance_m": 185.3
+    },
+    {
+     "id": "FAC-0268",
+     "name": "Anand Math",
+     "type": "place_of_worship",
+     "distance_m": 204.3
+    },
+    {
+     "id": "FAC-0341",
+     "name": "Satyanarayan Shivlal Agarwal Shala",
+     "type": "school",
+     "distance_m": 228.4
+    },
+    {
+     "id": "FAC-0046",
+     "name": "Krushna Orthodontic & Dental Clinic",
+     "type": "clinic",
+     "distance_m": 231.1
+    },
+    {
+     "id": "FAC-0312",
+     "name": "Vittal temple",
+     "type": "place_of_worship",
+     "distance_m": 234.9
+    },
+    {
+     "id": "FAC-0247",
+     "name": "Colony Nursing Home",
+     "type": "hospital",
+     "distance_m": 241.9
+    },
+    {
+     "id": "FAC-0284",
+     "name": "Hanuman Temple",
+     "type": "place_of_worship",
+     "distance_m": 243.9
+    },
+    {
+     "id": "FAC-0297",
+     "name": "Sadguru Mangir Baba Temple",
+     "type": "place_of_worship",
+     "distance_m": 246.2
+    },
+    {
+     "id": "FAC-0253",
+     "name": "Janata Hospital ,Pune",
+     "type": "hospital",
+     "distance_m": 254.9
+    },
+    {
+     "id": "FAC-0038",
+     "name": "Dr Madhusudan Asawa | The Heart Clinic",
+     "type": "clinic",
+     "distance_m": 285
+    },
+    {
+     "id": "FAC-0251",
+     "name": "GLOBAL HOSPITAL & RESEARCH",
+     "type": "hospital",
+     "distance_m": 337.2
+    },
+    {
+     "id": "FAC-0252",
+     "name": "Global Hospital & Research Institute",
+     "type": "hospital",
+     "distance_m": 338.3
+    },
+    {
+     "id": "FAC-0231",
+     "name": "Janta Fire Brigade station",
+     "type": "fire_station",
+     "distance_m": 370.2
+    },
+    {
+     "id": "FAC-0064",
+     "name": "Unmesh Orthopedic Clinic",
+     "type": "clinic",
+     "distance_m": 373.9
+    },
+    {
+     "id": "FAC-0308",
+     "name": "Trimurti datta Mandir",
+     "type": "place_of_worship",
+     "distance_m": 380.5
+    },
+    {
+     "id": "FAC-0317",
+     "name": "Dattawadi Police Chowki",
+     "type": "police",
+     "distance_m": 395.8
+    },
+    {
+     "id": "FAC-0294",
+     "name": "Parvati Temple",
+     "type": "place_of_worship",
+     "distance_m": 410.5
+    },
+    {
+     "id": "FAC-0292",
+     "name": "Parvati",
+     "type": "place_of_worship",
+     "distance_m": 415.6
+    },
+    {
+     "id": "FAC-0293",
+     "name": "Parvati Mandir",
+     "type": "place_of_worship",
+     "distance_m": 418.5
+    },
+    {
+     "id": "FAC-0310",
+     "name": "Vetalbaba temple",
+     "type": "place_of_worship",
+     "distance_m": 433.4
+    },
+    {
+     "id": "FAC-0311",
+     "name": "Vishnu temple",
+     "type": "place_of_worship",
+     "distance_m": 434.8
+    },
+    {
+     "id": "FAC-0036",
+     "name": "Dhaumya Clinic",
+     "type": "clinic",
+     "distance_m": 441
+    },
+    {
+     "id": "FAC-0244",
+     "name": "Bhide Hospital",
+     "type": "hospital",
+     "distance_m": 444.1
+    },
+    {
+     "id": "FAC-0323",
+     "name": "Senadatta Police Chowki",
+     "type": "police",
+     "distance_m": 476.3
+    },
+    {
+     "id": "FAC-0307",
+     "name": "Swami samarth temple",
+     "type": "place_of_worship",
+     "distance_m": 483.7
+    },
+    {
+     "id": "FAC-0059",
+     "name": "Shree Datta Clinic",
+     "type": "clinic",
+     "distance_m": 490.9
+    },
+    {
+     "id": "FAC-0302",
+     "name": "Shree Gramdaivat Mhasoba Pratishthan Trust",
+     "type": "place_of_worship",
+     "distance_m": 493.4
+    },
+    {
+     "id": "FAC-0320",
+     "name": "Parvati0 police station",
+     "type": "police",
+     "distance_m": 496.7
+    },
+    {
+     "id": "FAC-0282",
+     "name": "ganpati mandir",
+     "type": "place_of_worship",
+     "distance_m": 499.1
+    }
+   ],
+   "busRoutes": [
+    {
+     "id": "1326",
+     "route_name": "Dsk Vishwa to Nigdi Bhakti Shakti Stand (UP)",
+     "distance_m": 0
+    },
+    {
+     "id": "45",
+     "route_name": "Dhayareshwar Mandir to Swargate Natraj Stand (UP)",
+     "distance_m": 0
+    },
+    {
+     "id": "48",
+     "route_name": "Suncity to Swargate Natraj Stand (UP)",
+     "distance_m": 0
+    },
+    {
+     "id": "55",
+     "route_name": "Vadgaon Budruk Stand to Swargate Natraj Stand (UP)",
+     "distance_m": 0
+    },
+    {
+     "id": "1024",
+     "route_name": "Venutai Chavan College to Kothrud Depot (UP)",
+     "distance_m": 0.7
+    },
+    {
+     "id": "223",
+     "route_name": "Dsk Vishwa to Bhekrai Nagar (UP)",
+     "distance_m": 0.7
+    },
+    {
+     "id": "297",
+     "route_name": "Narhegaon to Shivaji Nagar (UP)",
+     "distance_m": 0.7
+    },
+    {
+     "id": "858",
+     "route_name": "Sanaswadi Nandoshi to Swargate (UP)",
+     "distance_m": 0.7
+    },
+    {
+     "id": "866",
+     "route_name": "Sinhgad to Shaniwarwada Stand (UP)",
+     "distance_m": 0.7
+    },
+    {
+     "id": "878",
+     "route_name": "Varasgaon Goradwadi to Swargate (UP)",
+     "distance_m": 0.7
+    },
+    {
+     "id": "885",
+     "route_name": "Manerwadi Phata Khanapur to Swargate (UP)",
+     "distance_m": 0.7
+    },
+    {
+     "id": "1025",
+     "route_name": "Kothrud Depot to Venutai Chavan College (DOWN)",
+     "distance_m": 6.4
+    },
+    {
+     "id": "1327",
+     "route_name": "Nigdi Bhakti Shakti Stand to Dsk Vishwa (DOWN)",
+     "distance_m": 6.4
+    },
+    {
+     "id": "224",
+     "route_name": "Bhekrai Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 6.4
+    },
+    {
+     "id": "298",
+     "route_name": "Shivaji Nagar to Narhegaon (DOWN)",
+     "distance_m": 6.4
+    },
+    {
+     "id": "47",
+     "route_name": "Swargate Natraj Stand to Dhayareshwar Mandir (DOWN)",
+     "distance_m": 6.4
+    },
+    {
+     "id": "49",
+     "route_name": "Swargate Natraj Stand to Suncity (DOWN)",
+     "distance_m": 6.4
+    },
+    {
+     "id": "57",
+     "route_name": "Swargate Natraj Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 6.4
+    },
+    {
+     "id": "859",
+     "route_name": "Swargate to Sanaswadi Nandoshi (DOWN)",
+     "distance_m": 6.4
+    },
+    {
+     "id": "873",
+     "route_name": "Shaniwarwada Stand to Sinhgad (DOWN)",
+     "distance_m": 6.4
+    },
+    {
+     "id": "879",
+     "route_name": "Swargate to Varasgaon Goradwadi (DOWN)",
+     "distance_m": 6.4
+    },
+    {
+     "id": "887",
+     "route_name": "Swargate to Manerwadi Phata Khanapur (DOWN)",
+     "distance_m": 6.4
+    },
+    {
+     "id": "904",
+     "route_name": "Ghule Nagar Vadgaon Budruk to Swargate (UP)",
+     "distance_m": 6.4
+    },
+    {
+     "id": "905",
+     "route_name": "Swargate to Ghule Nagar Vadgaon Budruk (DOWN)",
+     "distance_m": 6.4
+    },
+    {
+     "id": "103",
+     "route_name": "Upper Depot to Shivaji Nagar (DOWN)",
+     "distance_m": 208.5
+    },
+    {
+     "id": "433",
+     "route_name": "Marketyard Depot to Mhasoba Mandir Kharawade (DOWN)",
+     "distance_m": 208.5
+    },
+    {
+     "id": "435",
+     "route_name": "Marketyard Depot to Marnewadi (DOWN)",
+     "distance_m": 208.5
+    },
+    {
+     "id": "453",
+     "route_name": "Marketyard Depot to Kolwan Gaon (DOWN)",
+     "distance_m": 208.5
+    },
+    {
+     "id": "455",
+     "route_name": "Marketyard Depot to Bhadasgaon (DOWN)",
+     "distance_m": 208.5
+    },
+    {
+     "id": "457",
+     "route_name": "Marketyard Depot to Paud Shashkiy Vishram Gruh (DOWN)",
+     "distance_m": 208.5
+    },
+    {
+     "id": "499",
+     "route_name": "Marketyard Depot to Katar Khadak (DOWN)",
+     "distance_m": 208.5
+    },
+    {
+     "id": "541",
+     "route_name": "Gujarwadi Pmt Bus Stand to Bhosari Terminal (DOWN)",
+     "distance_m": 208.5
+    },
+    {
+     "id": "843",
+     "route_name": "Gujarwadi Pmt Bus Stand to Nigdi Bhakti Shakti (DOWN)",
+     "distance_m": 208.5
+    },
+    {
+     "id": "921",
+     "route_name": "Marketyard Depot to Thakarwadi (DOWN)",
+     "distance_m": 208.5
+    },
+    {
+     "id": "935",
+     "route_name": "Marketyard Depot to Ghotawadegaon (DOWN)",
+     "distance_m": 208.5
+    },
+    {
+     "id": "939",
+     "route_name": "Marketyard Depot to Mulshi Gaon (DOWN)",
+     "distance_m": 208.5
+    },
+    {
+     "id": "29",
+     "route_name": "Bhekrai Nagar to Ma Na Pa Congress Bhavan (DOWN)",
+     "distance_m": 224.7
+    },
+    {
+     "id": "449",
+     "route_name": "Marketyard Depot to Shilim Gaon (DOWN)",
+     "distance_m": 224.7
+    },
+    {
+     "id": "102",
+     "route_name": "Shivaji Nagar to Upper Depot (UP)",
+     "distance_m": 230
+    },
+    {
+     "id": "432",
+     "route_name": "Mhasoba Mandir Kharawade to Marketyard Depot (UP)",
+     "distance_m": 230
+    },
+    {
+     "id": "540",
+     "route_name": "Bhosari Terminal to Gujarwadi Pmt Bus Stand (UP)",
+     "distance_m": 230
+    },
+    {
+     "id": "842",
+     "route_name": "Nigdi Bhakti Shakti to Gujarwadi Pmt Bus Stand (UP)",
+     "distance_m": 230
+    },
+    {
+     "id": "938",
+     "route_name": "Mulshi Gaon to Marketyard Depot (UP)",
+     "distance_m": 230
+    },
+    {
+     "id": "28",
+     "route_name": "Ma Na Pa Congress Bhavan to Bhekrai Nagar (UP)",
+     "distance_m": 250.1
+    },
+    {
+     "id": "434",
+     "route_name": "Marnewadi to Marketyard Depot (UP)",
+     "distance_m": 250.1
+    },
+    {
+     "id": "448",
+     "route_name": "Shilim Gaon to Marketyard Depot (UP)",
+     "distance_m": 250.1
+    },
+    {
+     "id": "452",
+     "route_name": "Kolwan Gaon to Marketyard Depot (UP)",
+     "distance_m": 250.1
+    },
+    {
+     "id": "454",
+     "route_name": "Bhadasgaon to Marketyard Depot (UP)",
+     "distance_m": 250.1
+    },
+    {
+     "id": "456",
+     "route_name": "Paud Shashkiy Vishram Gruh to Marketyard Depot (UP)",
+     "distance_m": 250.1
+    },
+    {
+     "id": "498",
+     "route_name": "Katar Khadak to Marketyard Depot (UP)",
+     "distance_m": 250.1
+    },
+    {
+     "id": "920",
+     "route_name": "Thakarwadi to Marketyard Depot (UP)",
+     "distance_m": 250.1
+    },
+    {
+     "id": "934",
+     "route_name": "Ghotawadegaon to Marketyard Depot (UP)",
+     "distance_m": 250.1
+    },
+    {
+     "id": "154",
+     "route_name": "Pune Station Moledina Stand to Galinde Path (UP)",
+     "distance_m": 359.3
+    },
+    {
+     "id": "876",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 359.3
+    },
+    {
+     "id": "890",
+     "route_name": "Shanipar Stand to Suncity (UP)",
+     "distance_m": 359.3
+    },
+    {
+     "id": "894",
+     "route_name": "Vadgaon Budruk Stand to Pune Station Jayprakash Stand (UP)",
+     "distance_m": 359.3
+    },
+    {
+     "id": "155",
+     "route_name": "Galinde Path to Pune Station Moledina Stand (DOWN)",
+     "distance_m": 475.3
+    },
+    {
+     "id": "877",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 475.3
+    },
+    {
+     "id": "891",
+     "route_name": "Suncity to Shanipar Stand (DOWN)",
+     "distance_m": 475.3
+    },
+    {
+     "id": "895",
+     "route_name": "Pune Station Jayprakash Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 475.3
+    }
+   ]
+  },
+  "PMC/RC/2026/0024": {
+   "facilities": [
+    {
+     "id": "FAC-0218",
+     "name": "Uttam wines",
+     "type": "commercial",
+     "distance_m": 59.4
+    },
+    {
+     "id": "FAC-0255",
+     "name": "Karva Hospital",
+     "type": "hospital",
+     "distance_m": 117
+    },
+    {
+     "id": "FAC-0287",
+     "name": "Maruti mandir",
+     "type": "place_of_worship",
+     "distance_m": 173.6
+    },
+    {
+     "id": "FAC-0155",
+     "name": "New Balaji Traders",
+     "type": "commercial",
+     "distance_m": 174.8
+    },
+    {
+     "id": "FAC-0001",
+     "name": "Dandekar Bridge",
+     "type": "bus_stop",
+     "distance_m": 177.8
+    },
+    {
+     "id": "FAC-0272",
+     "name": "Chandreshwar sai madir",
+     "type": "place_of_worship",
+     "distance_m": 185.1
+    },
+    {
+     "id": "FAC-0273",
+     "name": "Chandreshwar Sai Mandir",
+     "type": "place_of_worship",
+     "distance_m": 185.3
+    },
+    {
+     "id": "FAC-0268",
+     "name": "Anand Math",
+     "type": "place_of_worship",
+     "distance_m": 210.1
+    },
+    {
+     "id": "FAC-0046",
+     "name": "Krushna Orthodontic & Dental Clinic",
+     "type": "clinic",
+     "distance_m": 251.5
+    },
+    {
+     "id": "FAC-0341",
+     "name": "Satyanarayan Shivlal Agarwal Shala",
+     "type": "school",
+     "distance_m": 252.2
+    },
+    {
+     "id": "FAC-0284",
+     "name": "Hanuman Temple",
+     "type": "place_of_worship",
+     "distance_m": 254.3
+    },
+    {
+     "id": "FAC-0312",
+     "name": "Vittal temple",
+     "type": "place_of_worship",
+     "distance_m": 254.4
+    },
+    {
+     "id": "FAC-0247",
+     "name": "Colony Nursing Home",
+     "type": "hospital",
+     "distance_m": 257.9
+    },
+    {
+     "id": "FAC-0253",
+     "name": "Janata Hospital ,Pune",
+     "type": "hospital",
+     "distance_m": 261
+    },
+    {
+     "id": "FAC-0297",
+     "name": "Sadguru Mangir Baba Temple",
+     "type": "place_of_worship",
+     "distance_m": 267.1
+    },
+    {
+     "id": "FAC-0038",
+     "name": "Dr Madhusudan Asawa | The Heart Clinic",
+     "type": "clinic",
+     "distance_m": 313.1
+    },
+    {
+     "id": "FAC-0251",
+     "name": "GLOBAL HOSPITAL & RESEARCH",
+     "type": "hospital",
+     "distance_m": 356.6
+    },
+    {
+     "id": "FAC-0252",
+     "name": "Global Hospital & Research Institute",
+     "type": "hospital",
+     "distance_m": 357.2
+    },
+    {
+     "id": "FAC-0231",
+     "name": "Janta Fire Brigade station",
+     "type": "fire_station",
+     "distance_m": 386.3
+    },
+    {
+     "id": "FAC-0064",
+     "name": "Unmesh Orthopedic Clinic",
+     "type": "clinic",
+     "distance_m": 402.5
+    },
+    {
+     "id": "FAC-0294",
+     "name": "Parvati Temple",
+     "type": "place_of_worship",
+     "distance_m": 410.5
+    },
+    {
+     "id": "FAC-0292",
+     "name": "Parvati",
+     "type": "place_of_worship",
+     "distance_m": 415.6
+    },
+    {
+     "id": "FAC-0308",
+     "name": "Trimurti datta Mandir",
+     "type": "place_of_worship",
+     "distance_m": 416.5
+    },
+    {
+     "id": "FAC-0293",
+     "name": "Parvati Mandir",
+     "type": "place_of_worship",
+     "distance_m": 418.5
+    },
+    {
+     "id": "FAC-0317",
+     "name": "Dattawadi Police Chowki",
+     "type": "police",
+     "distance_m": 421.1
+    },
+    {
+     "id": "FAC-0311",
+     "name": "Vishnu temple",
+     "type": "place_of_worship",
+     "distance_m": 441.1
+    },
+    {
+     "id": "FAC-0310",
+     "name": "Vetalbaba temple",
+     "type": "place_of_worship",
+     "distance_m": 449.9
+    },
+    {
+     "id": "FAC-0036",
+     "name": "Dhaumya Clinic",
+     "type": "clinic",
+     "distance_m": 454.7
+    },
+    {
+     "id": "FAC-0244",
+     "name": "Bhide Hospital",
+     "type": "hospital",
+     "distance_m": 460.1
+    },
+    {
+     "id": "FAC-0323",
+     "name": "Senadatta Police Chowki",
+     "type": "police",
+     "distance_m": 494.3
+    },
+    {
+     "id": "FAC-0059",
+     "name": "Shree Datta Clinic",
+     "type": "clinic",
+     "distance_m": 497.1
+    }
+   ],
+   "busRoutes": [
+    {
+     "id": "1326",
+     "route_name": "Dsk Vishwa to Nigdi Bhakti Shakti Stand (UP)",
+     "distance_m": 0
+    },
+    {
+     "id": "45",
+     "route_name": "Dhayareshwar Mandir to Swargate Natraj Stand (UP)",
+     "distance_m": 0
+    },
+    {
+     "id": "48",
+     "route_name": "Suncity to Swargate Natraj Stand (UP)",
+     "distance_m": 0
+    },
+    {
+     "id": "55",
+     "route_name": "Vadgaon Budruk Stand to Swargate Natraj Stand (UP)",
+     "distance_m": 0
+    },
+    {
+     "id": "1024",
+     "route_name": "Venutai Chavan College to Kothrud Depot (UP)",
+     "distance_m": 0.7
+    },
+    {
+     "id": "223",
+     "route_name": "Dsk Vishwa to Bhekrai Nagar (UP)",
+     "distance_m": 0.7
+    },
+    {
+     "id": "297",
+     "route_name": "Narhegaon to Shivaji Nagar (UP)",
+     "distance_m": 0.7
+    },
+    {
+     "id": "858",
+     "route_name": "Sanaswadi Nandoshi to Swargate (UP)",
+     "distance_m": 0.7
+    },
+    {
+     "id": "866",
+     "route_name": "Sinhgad to Shaniwarwada Stand (UP)",
+     "distance_m": 0.7
+    },
+    {
+     "id": "878",
+     "route_name": "Varasgaon Goradwadi to Swargate (UP)",
+     "distance_m": 0.7
+    },
+    {
+     "id": "885",
+     "route_name": "Manerwadi Phata Khanapur to Swargate (UP)",
+     "distance_m": 0.7
+    },
+    {
+     "id": "1025",
+     "route_name": "Kothrud Depot to Venutai Chavan College (DOWN)",
+     "distance_m": 9.6
+    },
+    {
+     "id": "1327",
+     "route_name": "Nigdi Bhakti Shakti Stand to Dsk Vishwa (DOWN)",
+     "distance_m": 9.6
+    },
+    {
+     "id": "224",
+     "route_name": "Bhekrai Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 9.6
+    },
+    {
+     "id": "298",
+     "route_name": "Shivaji Nagar to Narhegaon (DOWN)",
+     "distance_m": 9.6
+    },
+    {
+     "id": "47",
+     "route_name": "Swargate Natraj Stand to Dhayareshwar Mandir (DOWN)",
+     "distance_m": 9.6
+    },
+    {
+     "id": "49",
+     "route_name": "Swargate Natraj Stand to Suncity (DOWN)",
+     "distance_m": 9.6
+    },
+    {
+     "id": "57",
+     "route_name": "Swargate Natraj Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 9.6
+    },
+    {
+     "id": "859",
+     "route_name": "Swargate to Sanaswadi Nandoshi (DOWN)",
+     "distance_m": 9.6
+    },
+    {
+     "id": "873",
+     "route_name": "Shaniwarwada Stand to Sinhgad (DOWN)",
+     "distance_m": 9.6
+    },
+    {
+     "id": "879",
+     "route_name": "Swargate to Varasgaon Goradwadi (DOWN)",
+     "distance_m": 9.6
+    },
+    {
+     "id": "887",
+     "route_name": "Swargate to Manerwadi Phata Khanapur (DOWN)",
+     "distance_m": 9.6
+    },
+    {
+     "id": "904",
+     "route_name": "Ghule Nagar Vadgaon Budruk to Swargate (UP)",
+     "distance_m": 9.6
+    },
+    {
+     "id": "905",
+     "route_name": "Swargate to Ghule Nagar Vadgaon Budruk (DOWN)",
+     "distance_m": 9.6
+    },
+    {
+     "id": "103",
+     "route_name": "Upper Depot to Shivaji Nagar (DOWN)",
+     "distance_m": 241.8
+    },
+    {
+     "id": "433",
+     "route_name": "Marketyard Depot to Mhasoba Mandir Kharawade (DOWN)",
+     "distance_m": 241.8
+    },
+    {
+     "id": "435",
+     "route_name": "Marketyard Depot to Marnewadi (DOWN)",
+     "distance_m": 241.8
+    },
+    {
+     "id": "453",
+     "route_name": "Marketyard Depot to Kolwan Gaon (DOWN)",
+     "distance_m": 241.8
+    },
+    {
+     "id": "455",
+     "route_name": "Marketyard Depot to Bhadasgaon (DOWN)",
+     "distance_m": 241.8
+    },
+    {
+     "id": "457",
+     "route_name": "Marketyard Depot to Paud Shashkiy Vishram Gruh (DOWN)",
+     "distance_m": 241.8
+    },
+    {
+     "id": "499",
+     "route_name": "Marketyard Depot to Katar Khadak (DOWN)",
+     "distance_m": 241.8
+    },
+    {
+     "id": "541",
+     "route_name": "Gujarwadi Pmt Bus Stand to Bhosari Terminal (DOWN)",
+     "distance_m": 241.8
+    },
+    {
+     "id": "843",
+     "route_name": "Gujarwadi Pmt Bus Stand to Nigdi Bhakti Shakti (DOWN)",
+     "distance_m": 241.8
+    },
+    {
+     "id": "921",
+     "route_name": "Marketyard Depot to Thakarwadi (DOWN)",
+     "distance_m": 241.8
+    },
+    {
+     "id": "935",
+     "route_name": "Marketyard Depot to Ghotawadegaon (DOWN)",
+     "distance_m": 241.8
+    },
+    {
+     "id": "939",
+     "route_name": "Marketyard Depot to Mulshi Gaon (DOWN)",
+     "distance_m": 241.8
+    },
+    {
+     "id": "29",
+     "route_name": "Bhekrai Nagar to Ma Na Pa Congress Bhavan (DOWN)",
+     "distance_m": 247.3
+    },
+    {
+     "id": "449",
+     "route_name": "Marketyard Depot to Shilim Gaon (DOWN)",
+     "distance_m": 247.3
+    },
+    {
+     "id": "102",
+     "route_name": "Shivaji Nagar to Upper Depot (UP)",
+     "distance_m": 263.3
+    },
+    {
+     "id": "432",
+     "route_name": "Mhasoba Mandir Kharawade to Marketyard Depot (UP)",
+     "distance_m": 263.3
+    },
+    {
+     "id": "540",
+     "route_name": "Bhosari Terminal to Gujarwadi Pmt Bus Stand (UP)",
+     "distance_m": 263.3
+    },
+    {
+     "id": "842",
+     "route_name": "Nigdi Bhakti Shakti to Gujarwadi Pmt Bus Stand (UP)",
+     "distance_m": 263.3
+    },
+    {
+     "id": "938",
+     "route_name": "Mulshi Gaon to Marketyard Depot (UP)",
+     "distance_m": 263.3
+    },
+    {
+     "id": "28",
+     "route_name": "Ma Na Pa Congress Bhavan to Bhekrai Nagar (UP)",
+     "distance_m": 274.4
+    },
+    {
+     "id": "434",
+     "route_name": "Marnewadi to Marketyard Depot (UP)",
+     "distance_m": 274.4
+    },
+    {
+     "id": "448",
+     "route_name": "Shilim Gaon to Marketyard Depot (UP)",
+     "distance_m": 274.4
+    },
+    {
+     "id": "452",
+     "route_name": "Kolwan Gaon to Marketyard Depot (UP)",
+     "distance_m": 274.4
+    },
+    {
+     "id": "454",
+     "route_name": "Bhadasgaon to Marketyard Depot (UP)",
+     "distance_m": 274.4
+    },
+    {
+     "id": "456",
+     "route_name": "Paud Shashkiy Vishram Gruh to Marketyard Depot (UP)",
+     "distance_m": 274.4
+    },
+    {
+     "id": "498",
+     "route_name": "Katar Khadak to Marketyard Depot (UP)",
+     "distance_m": 274.4
+    },
+    {
+     "id": "920",
+     "route_name": "Thakarwadi to Marketyard Depot (UP)",
+     "distance_m": 274.4
+    },
+    {
+     "id": "934",
+     "route_name": "Ghotawadegaon to Marketyard Depot (UP)",
+     "distance_m": 274.4
+    },
+    {
+     "id": "154",
+     "route_name": "Pune Station Moledina Stand to Galinde Path (UP)",
+     "distance_m": 381
+    },
+    {
+     "id": "876",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 381
+    },
+    {
+     "id": "890",
+     "route_name": "Shanipar Stand to Suncity (UP)",
+     "distance_m": 381
+    },
+    {
+     "id": "894",
+     "route_name": "Vadgaon Budruk Stand to Pune Station Jayprakash Stand (UP)",
+     "distance_m": 381
+    },
+    {
+     "id": "155",
+     "route_name": "Galinde Path to Pune Station Moledina Stand (DOWN)",
+     "distance_m": 486.3
+    },
+    {
+     "id": "877",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 486.3
+    },
+    {
+     "id": "891",
+     "route_name": "Suncity to Shanipar Stand (DOWN)",
+     "distance_m": 486.3
+    },
+    {
+     "id": "895",
+     "route_name": "Pune Station Jayprakash Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 486.3
+    }
+   ]
+  },
+  "PMC/RC/2026/0025": {
+   "facilities": [
+    {
+     "id": "FAC-0088",
+     "name": "Baba computers",
+     "type": "commercial",
+     "distance_m": 45.9
+    },
+    {
+     "id": "FAC-0313",
+     "name": "Wadacha Ganpati",
+     "type": "place_of_worship",
+     "distance_m": 199.8
+    },
+    {
+     "id": "FAC-0018",
+     "name": "Rakshalekha Society",
+     "type": "bus_stop",
+     "distance_m": 213.3
+    },
+    {
+     "id": "FAC-0017",
+     "name": "Rakshalekha Society",
+     "type": "bus_stop",
+     "distance_m": 216.2
+    },
+    {
+     "id": "FAC-0241",
+     "name": "Anup Hospital",
+     "type": "hospital",
+     "distance_m": 237
+    },
+    {
+     "id": "FAC-0281",
+     "name": "ganpati mandir",
+     "type": "place_of_worship",
+     "distance_m": 302.1
+    },
+    {
+     "id": "FAC-0301",
+     "name": "shree datta mandir",
+     "type": "place_of_worship",
+     "distance_m": 309.7
+    },
+    {
+     "id": "FAC-0282",
+     "name": "ganpati mandir",
+     "type": "place_of_worship",
+     "distance_m": 314.4
+    },
+    {
+     "id": "FAC-0320",
+     "name": "Parvati0 police station",
+     "type": "police",
+     "distance_m": 325.6
+    },
+    {
+     "id": "FAC-0289",
+     "name": "Maruti Temple",
+     "type": "place_of_worship",
+     "distance_m": 335.2
+    },
+    {
+     "id": "FAC-0307",
+     "name": "Swami samarth temple",
+     "type": "place_of_worship",
+     "distance_m": 338.1
+    },
+    {
+     "id": "FAC-0237",
+     "name": null,
+     "type": "hospital",
+     "distance_m": 352.2
+    },
+    {
+     "id": "FAC-0043",
+     "name": "Dr.Jawalkar",
+     "type": "clinic",
+     "distance_m": 354.2
+    },
+    {
+     "id": "FAC-0238",
+     "name": null,
+     "type": "hospital",
+     "distance_m": 354.2
+    },
+    {
+     "id": "FAC-0078",
+     "name": "Akshay General Store",
+     "type": "commercial",
+     "distance_m": 359.1
+    },
+    {
+     "id": "FAC-0029",
+     "name": null,
+     "type": "clinic",
+     "distance_m": 362
+    },
+    {
+     "id": "FAC-0236",
+     "name": null,
+     "type": "hospital",
+     "distance_m": 377.3
+    },
+    {
+     "id": "FAC-0235",
+     "name": null,
+     "type": "hospital",
+     "distance_m": 379.5
+    },
+    {
+     "id": "FAC-0298",
+     "name": "sai baba temple",
+     "type": "place_of_worship",
+     "distance_m": 385.3
+    },
+    {
+     "id": "FAC-0234",
+     "name": null,
+     "type": "hospital",
+     "distance_m": 392.1
+    },
+    {
+     "id": "FAC-0308",
+     "name": "Trimurti datta Mandir",
+     "type": "place_of_worship",
+     "distance_m": 392.4
+    },
+    {
+     "id": "FAC-0309",
+     "name": "Tulja Bhavani Temple",
+     "type": "place_of_worship",
+     "distance_m": 402.6
+    },
+    {
+     "id": "FAC-0220",
+     "name": "Vanhausen",
+     "type": "commercial",
+     "distance_m": 409
+    },
+    {
+     "id": "FAC-0233",
+     "name": null,
+     "type": "hospital",
+     "distance_m": 409.6
+    },
+    {
+     "id": "FAC-0246",
+     "name": "Clinic",
+     "type": "hospital",
+     "distance_m": 415.9
+    },
+    {
+     "id": "FAC-0304",
+     "name": "Shri Vitthal Rukmini Mandir Dattawadi",
+     "type": "place_of_worship",
+     "distance_m": 431.5
+    },
+    {
+     "id": "FAC-0302",
+     "name": "Shree Gramdaivat Mhasoba Pratishthan Trust",
+     "type": "place_of_worship",
+     "distance_m": 436.2
+    },
+    {
+     "id": "FAC-0232",
+     "name": null,
+     "type": "hospital",
+     "distance_m": 437.8
+    },
+    {
+     "id": "FAC-0155",
+     "name": "New Balaji Traders",
+     "type": "commercial",
+     "distance_m": 444
+    },
+    {
+     "id": "FAC-0291",
+     "name": "Navshya Maruti",
+     "type": "place_of_worship",
+     "distance_m": 458.5
+    },
+    {
+     "id": "FAC-0315",
+     "name": "wagzai mandir",
+     "type": "place_of_worship",
+     "distance_m": 461.1
+    },
+    {
+     "id": "FAC-0314",
+     "name": "Waghjai Mandir",
+     "type": "place_of_worship",
+     "distance_m": 462.4
+    },
+    {
+     "id": "FAC-0305",
+     "name": "Subhash mithai wala",
+     "type": "place_of_worship",
+     "distance_m": 463.8
+    },
+    {
+     "id": "FAC-0317",
+     "name": "Dattawadi Police Chowki",
+     "type": "police",
+     "distance_m": 469.4
+    },
+    {
+     "id": "FAC-0089",
+     "name": "Bajaj Chetak",
+     "type": "commercial",
+     "distance_m": 486.2
+    },
+    {
+     "id": "FAC-0341",
+     "name": "Satyanarayan Shivlal Agarwal Shala",
+     "type": "school",
+     "distance_m": 494.1
+    },
+    {
+     "id": "FAC-0306",
+     "name": "swami samarth temple",
+     "type": "place_of_worship",
+     "distance_m": 496.7
+    }
+   ],
+   "busRoutes": [
+    {
+     "id": "1326",
+     "route_name": "Dsk Vishwa to Nigdi Bhakti Shakti Stand (UP)",
+     "distance_m": 2
+    },
+    {
+     "id": "45",
+     "route_name": "Dhayareshwar Mandir to Swargate Natraj Stand (UP)",
+     "distance_m": 2
+    },
+    {
+     "id": "48",
+     "route_name": "Suncity to Swargate Natraj Stand (UP)",
+     "distance_m": 2
+    },
+    {
+     "id": "55",
+     "route_name": "Vadgaon Budruk Stand to Swargate Natraj Stand (UP)",
+     "distance_m": 2
+    },
+    {
+     "id": "905",
+     "route_name": "Swargate to Ghule Nagar Vadgaon Budruk (DOWN)",
+     "distance_m": 3.8
+    },
+    {
+     "id": "876",
+     "route_name": "Dsk Vishwa to Shivaji Nagar (UP)",
+     "distance_m": 7.2
+    },
+    {
+     "id": "890",
+     "route_name": "Shanipar Stand to Suncity (UP)",
+     "distance_m": 7.2
+    },
+    {
+     "id": "894",
+     "route_name": "Vadgaon Budruk Stand to Pune Station Jayprakash Stand (UP)",
+     "distance_m": 7.2
+    },
+    {
+     "id": "904",
+     "route_name": "Ghule Nagar Vadgaon Budruk to Swargate (UP)",
+     "distance_m": 11
+    },
+    {
+     "id": "1024",
+     "route_name": "Venutai Chavan College to Kothrud Depot (UP)",
+     "distance_m": 15.2
+    },
+    {
+     "id": "1327",
+     "route_name": "Nigdi Bhakti Shakti Stand to Dsk Vishwa (DOWN)",
+     "distance_m": 15.2
+    },
+    {
+     "id": "223",
+     "route_name": "Dsk Vishwa to Bhekrai Nagar (UP)",
+     "distance_m": 15.2
+    },
+    {
+     "id": "297",
+     "route_name": "Narhegaon to Shivaji Nagar (UP)",
+     "distance_m": 15.2
+    },
+    {
+     "id": "858",
+     "route_name": "Sanaswadi Nandoshi to Swargate (UP)",
+     "distance_m": 15.2
+    },
+    {
+     "id": "866",
+     "route_name": "Sinhgad to Shaniwarwada Stand (UP)",
+     "distance_m": 15.2
+    },
+    {
+     "id": "878",
+     "route_name": "Varasgaon Goradwadi to Swargate (UP)",
+     "distance_m": 15.2
+    },
+    {
+     "id": "885",
+     "route_name": "Manerwadi Phata Khanapur to Swargate (UP)",
+     "distance_m": 15.2
+    },
+    {
+     "id": "1025",
+     "route_name": "Kothrud Depot to Venutai Chavan College (DOWN)",
+     "distance_m": 23.4
+    },
+    {
+     "id": "224",
+     "route_name": "Bhekrai Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 23.4
+    },
+    {
+     "id": "298",
+     "route_name": "Shivaji Nagar to Narhegaon (DOWN)",
+     "distance_m": 23.4
+    },
+    {
+     "id": "47",
+     "route_name": "Swargate Natraj Stand to Dhayareshwar Mandir (DOWN)",
+     "distance_m": 23.4
+    },
+    {
+     "id": "49",
+     "route_name": "Swargate Natraj Stand to Suncity (DOWN)",
+     "distance_m": 23.4
+    },
+    {
+     "id": "57",
+     "route_name": "Swargate Natraj Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 23.4
+    },
+    {
+     "id": "859",
+     "route_name": "Swargate to Sanaswadi Nandoshi (DOWN)",
+     "distance_m": 23.4
+    },
+    {
+     "id": "873",
+     "route_name": "Shaniwarwada Stand to Sinhgad (DOWN)",
+     "distance_m": 23.4
+    },
+    {
+     "id": "879",
+     "route_name": "Swargate to Varasgaon Goradwadi (DOWN)",
+     "distance_m": 23.4
+    },
+    {
+     "id": "887",
+     "route_name": "Swargate to Manerwadi Phata Khanapur (DOWN)",
+     "distance_m": 23.4
+    },
+    {
+     "id": "877",
+     "route_name": "Shivaji Nagar to Dsk Vishwa (DOWN)",
+     "distance_m": 94.8
+    },
+    {
+     "id": "891",
+     "route_name": "Suncity to Shanipar Stand (DOWN)",
+     "distance_m": 94.8
+    },
+    {
+     "id": "895",
+     "route_name": "Pune Station Jayprakash Stand to Vadgaon Budruk Stand (DOWN)",
+     "distance_m": 94.8
+    }
+   ]
+  }
+ }
+}

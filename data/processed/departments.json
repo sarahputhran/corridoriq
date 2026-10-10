@@ -1,0 +1,51 @@
+[
+  {
+    "id": "water",
+    "name": "PMC Water Supply",
+    "short": "Water",
+    "color": "#A7D8F0",
+    "utility_group": "water"
+  },
+  {
+    "id": "sewer",
+    "name": "PMC Sewerage/Drainage",
+    "short": "Sewerage",
+    "color": "#C9B29B",
+    "utility_group": "sewerage"
+  },
+  {
+    "id": "msedcl",
+    "name": "MSEDCL (electricity)",
+    "short": "MSEDCL",
+    "color": "#F3E3A0",
+    "utility_group": "power"
+  },
+  {
+    "id": "jio",
+    "name": "Jio Fiber",
+    "short": "Jio",
+    "color": "#AFC3F5",
+    "utility_group": "telecom"
+  },
+  {
+    "id": "airtel",
+    "name": "Airtel Fiber",
+    "short": "Airtel",
+    "color": "#F5B8CF",
+    "utility_group": "telecom"
+  },
+  {
+    "id": "mngl",
+    "name": "Maharashtra Natural Gas Ltd",
+    "short": "MNGL",
+    "color": "#F7C9A0",
+    "utility_group": "gas"
+  },
+  {
+    "id": "metro",
+    "name": "Pune Metro Rail",
+    "short": "Metro",
+    "color": "#CDB8F2",
+    "utility_group": "metro"
+  }
+]

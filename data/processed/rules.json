@@ -1,0 +1,292 @@
+[
+  {
+    "rule_id": "PMC_DLP_12M",
+    "city_id": "pune",
+    "category": "restoration_protection",
+    "provenance": "PMC_REGULATION_PROCEDURE",
+    "trigger_text": "proposed_start_date is within 12 months after restoration_completion_date",
+    "action": "REVIEW_REQUIRED",
+    "severity": "HIGH",
+    "threshold_text": "12 months",
+    "reason": "PMC reinstatement remains within its one-year defect-liability period.",
+    "source": "PMC Guidelines for Trenching Activity in Pune City, Road Department, Part A Conditions 10–13",
+    "params": {
+      "months": 12
+    },
+    "enabled": true
+  },
+  {
+    "rule_id": "PMC_CC_DLP_PRIOR_APPROVAL",
+    "city_id": "pune",
+    "category": "road_protection",
+    "provenance": "PMC_REGULATION_PROCEDURE",
+    "trigger_text": "CC/mastic road OR active defect-liability period",
+    "action": "REVIEW_REQUIRED",
+    "severity": "HIGH",
+    "threshold_text": "case-specific",
+    "reason": "PMC requires prior Road Chief Engineer approval for unavoidable excavation in the relevant protected cases.",
+    "source": "PMC Guidelines for Trenching Activity in Pune City, Part B Condition 49",
+    "params": {
+      "surfaces": [
+        "cc",
+        "cement_concrete",
+        "mastic"
+      ],
+      "dlp_months": 12
+    },
+    "enabled": true
+  },
+  {
+    "rule_id": "PMC_MONSOON_5M",
+    "city_id": "pune",
+    "category": "seasonal_restriction",
+    "provenance": "PMC_REGULATION_PROCEDURE",
+    "trigger_text": "routine excavation proposed from 30 April through 30 September",
+    "action": "BLOCK",
+    "severity": "HIGH",
+    "threshold_text": "30 Apr–30 Sep",
+    "reason": "Routine trench excavation is restricted during the PMC monsoon period except emergency cases.",
+    "source": "PMC Guidelines for Trenching Activity in Pune City, Road Department",
+    "params": {
+      "start_mmdd": "04-30",
+      "end_mmdd": "09-30",
+      "applies_to": "routine"
+    },
+    "enabled": true
+  },
+  {
+    "rule_id": "PMC_FAULT_48H",
+    "city_id": "pune",
+    "category": "emergency_control",
+    "provenance": "PMC_REGULATION_PROCEDURE",
+    "trigger_text": "emergency fault repair",
+    "action": "ALLOW_WITH_CONDITIONS",
+    "severity": "MEDIUM",
+    "threshold_text": "48 hours",
+    "reason": "PMC provides an emergency pathway with rapid repair/removal requirements.",
+    "source": "PMC Guidelines for Trenching Activity in Pune City, Part E — Fault Reinstatement",
+    "params": {
+      "hours": 48
+    },
+    "enabled": true
+  },
+  {
+    "rule_id": "PMC_FAULT_MONSOON_5X1",
+    "city_id": "pune",
+    "category": "emergency_control",
+    "provenance": "PMC_REGULATION_PROCEDURE",
+    "trigger_text": "fault repair during restricted period without appropriate sanction",
+    "action": "BLOCK_OR_ESCALATE",
+    "severity": "HIGH",
+    "threshold_text": "5 m × 1 m",
+    "reason": "Emergency excavation footprint is controlled during the restricted season unless appropriate sanction applies.",
+    "source": "PMC Guidelines for Trenching Activity in Pune City, Part E — Fault Reinstatement",
+    "params": {
+      "max_length_m": 5,
+      "max_width_m": 1
+    },
+    "enabled": true
+  },
+  {
+    "rule_id": "PMC_100M_STAGING",
+    "city_id": "pune",
+    "category": "construction_staging",
+    "provenance": "PMC_REGULATION_PROCEDURE",
+    "trigger_text": "trench length > 100 m",
+    "action": "ALLOW_WITH_CONDITIONS",
+    "severity": "MEDIUM",
+    "threshold_text": "100 m",
+    "reason": "Long trenches should be staged so the next section is not opened before the preceding section is cleared/reinstated.",
+    "source": "PMC Guidelines for Trenching Activity in Pune City, permit conditions / Annexure 15",
+    "params": {
+      "max_length_m": 100
+    },
+    "enabled": true
+  },
+  {
+    "rule_id": "PMC_ANNUAL_PROGRAMME",
+    "city_id": "pune",
+    "category": "planning_coordination",
+    "provenance": "PMC_PROCEDURE",
+    "trigger_text": "planned utility trenching is absent from annual coordinated programme",
+    "action": "REVIEW_REQUIRED",
+    "severity": "MEDIUM",
+    "threshold_text": "annual programme",
+    "reason": "PMC's process is designed to synchronize utility programmes before execution.",
+    "source": "PMC Guidelines for Trenching Activity in Pune City, Part B Condition 1",
+    "params": {},
+    "enabled": true
+  },
+  {
+    "rule_id": "XPMS_REPEAT_SAME_6M",
+    "city_id": "pune",
+    "category": "repeated_opening",
+    "provenance": "XPMS_METHODOLOGY",
+    "trigger_text": "same proponent excavated same location within previous 6 months OR plans another opening within 6 months",
+    "action": "RESCHEDULE_OR_WAIVER",
+    "severity": "HIGH",
+    "threshold_text": "6 months",
+    "reason": "XPMS treats these as repeated-opening scenarios.",
+    "source": "Hong Kong Highways Department — XPMS Guideline for Infrequent Excavation Permit Applicants",
+    "params": {
+      "months": 6
+    },
+    "enabled": true
+  },
+  {
+    "rule_id": "XPMS_REPEAT_OTHER_3M",
+    "city_id": "pune",
+    "category": "repeated_opening",
+    "provenance": "XPMS_METHODOLOGY",
+    "trigger_text": "other proponent excavated same location within previous 3 months OR plans work within 3 months",
+    "action": "RESCHEDULE_OR_COMMON_TRENCH",
+    "severity": "HIGH",
+    "threshold_text": "3 months",
+    "reason": "XPMS identifies closely spaced openings by different proponents as repeated opening.",
+    "source": "Hong Kong Highways Department — XPMS Guideline for Infrequent Excavation Permit Applicants",
+    "params": {
+      "months": 3
+    },
+    "enabled": true
+  },
+  {
+    "rule_id": "XPMS_COMMON_TRENCH_3_6M",
+    "city_id": "pune",
+    "category": "coordination",
+    "provenance": "XPMS_METHODOLOGY",
+    "trigger_text": "different proponents have spatially conflicting works within 3–6 months",
+    "action": "COORDINATION_REQUIRED",
+    "severity": "HIGH",
+    "threshold_text": "3–6 months",
+    "reason": "Common-trench/date coordination can prevent repeated openings.",
+    "source": "Hong Kong Highways Department — XPMS",
+    "params": {
+      "min_months": 3,
+      "max_months": 6
+    },
+    "enabled": true
+  },
+  {
+    "rule_id": "MOHUA_UTILITY_COORDINATION",
+    "city_id": "pune",
+    "category": "city_planning_coordination",
+    "provenance": "MOHUA_GUIDANCE",
+    "trigger_text": "compatible OFC/power/gas or similar works are planned on the same urban road area",
+    "action": "COORDINATION_REQUIRED",
+    "severity": "MEDIUM",
+    "threshold_text": "spatial compatibility",
+    "reason": "MoHUA recommends coordinated laying to avoid duplication of digging/laying.",
+    "source": "MoHUA Advisory on coordinated laying of OFC/power/gas pipelines, 30 May 2017",
+    "params": {
+      "groups": [
+        [
+          "Jio Fiber",
+          "Airtel Fiber",
+          "MSEDCL (electricity)",
+          "Maharashtra Natural Gas Ltd"
+        ]
+      ]
+    },
+    "enabled": true
+  },
+  {
+    "rule_id": "CORRIDOR_CRITICAL_MORATORIUM",
+    "city_id": "pune",
+    "category": "city_policy",
+    "provenance": "CORRIDORIQ_CITY_CONFIGURATION",
+    "trigger_text": "protected arterial/newly reconstructed road within configured protection period",
+    "action": "BLOCK_OR_CHIEF_ENGINEER_REVIEW",
+    "severity": "HIGH",
+    "threshold_text": "36 months for Pune demo",
+    "reason": "Configured city policy protects strategic arterial road investment from repeated cutting.",
+    "source": "CorridorIQ PS — configurable Pune demo policy",
+    "params": {
+      "months": 36
+    },
+    "enabled": true
+  },
+  {
+    "rule_id": "CORRIDOR_RESTORED_12M",
+    "city_id": "pune",
+    "category": "city_policy",
+    "provenance": "CORRIDORIQ_CITY_CONFIGURATION",
+    "trigger_text": "recently restored stretch within configured restoration window",
+    "action": "REVIEW_REQUIRED",
+    "severity": "HIGH",
+    "threshold_text": "12 months for Pune demo",
+    "reason": "Creates an explicit city-planning protection check before re-cutting recently restored pavement.",
+    "source": "CorridorIQ PS — configurable Pune demo policy",
+    "params": {
+      "months": 12
+    },
+    "enabled": true
+  },
+  {
+    "rule_id": "CORRIDOR_FACILITY_CRITICALITY_GATE",
+    "city_id": "pune",
+    "category": "community_impact",
+    "provenance": "CORRIDORIQ_DERIVED_LOGIC",
+    "trigger_text": "affected segment intersects configured critical-facility context AND coordination opportunity exists",
+    "action": "COORDINATION_REQUIRED",
+    "severity": "HIGH",
+    "threshold_text": "configured facility proximity",
+    "reason": "Hospital, school, transit and other critical functions influence which coordination strategy is preferable.",
+    "source": "CorridorIQ PS — AI-assisted community-impact reasoning",
+    "params": {
+      "buffer_m": 200,
+      "critical_types": [
+        "hospital",
+        "clinic",
+        "school"
+      ],
+      "include_bus": true,
+      "commercial_min": 5
+    },
+    "enabled": true
+  },
+  {
+    "rule_id": "CORRIDOR_SAME_SEGMENT_MULTIWORK",
+    "city_id": "pune",
+    "category": "coordination",
+    "provenance": "CORRIDORIQ_DERIVED_LOGIC",
+    "trigger_text": "2+ permits overlap spatially on same corridor segment and execution windows overlap or fall within configured coordination window",
+    "action": "COORDINATION_REQUIRED",
+    "severity": "HIGH",
+    "threshold_text": "city-configurable",
+    "reason": "The Corridor Case changes the decision unit from individual projects to the shared road corridor.",
+    "source": "CorridorIQ PS — Deterministic coordination discovery",
+    "params": {
+      "window_days": 90,
+      "adjacent_m": 50,
+      "nearby_m": 200,
+      "overlap_tolerance_m": 5
+    },
+    "enabled": true
+  },
+  {
+    "rule_id": "CORRIDOR_EXECUTION_FEASIBILITY",
+    "city_id": "pune",
+    "category": "engineering_coordination",
+    "provenance": "CORRIDORIQ_DERIVED_LOGIC",
+    "trigger_text": "spatially overlapping permits proposed for joint execution",
+    "action": "ENGINEERING_REVIEW",
+    "severity": "MEDIUM",
+    "threshold_text": "depth/width/separation compatibility",
+    "reason": "Spatial and temporal overlap does not prove that utilities can safely share a trench.",
+    "source": "CorridorIQ PS — Deterministic coordination discovery",
+    "params": {
+      "max_depth_diff_m": 0.6,
+      "heuristic": true,
+      "not_joint_departments": [
+        "Pune Metro Rail"
+      ],
+      "separation_pairs": [
+        [
+          "Maharashtra Natural Gas Ltd",
+          "MSEDCL (electricity)"
+        ]
+      ]
+    },
+    "enabled": true
+  }
+]

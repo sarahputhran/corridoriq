@@ -1,0 +1,140 @@
+@import "tailwindcss";
+
+/* Design tokens. The palette is fixed: paper, ink and one yellow accent. */
+:root {
+  --paper: #f4f1ea;
+  --card: #ffffff;
+  --ink: #111111;
+  --accent: #ffd23f;
+  --map-land: #ece8de;
+  --map-minor: #d6d0c2;
+  --field: #f4f1ea;
+  --warn-tint: #fdf1df;
+  --status-coord: #f7c9a0;
+  --status-ok: #b8e6c9;
+  --status-block-text: #8e2a20;
+  --status-block-line: #c0392b;
+  --status-block-tint: #fbe3e3;
+  --status-escalated: #cdb8f2;
+  --dept-water: #a7d8f0;
+  --dept-sewer: #c9b29b;
+  --dept-msedcl: #f3e3a0;
+  --dept-jio: #afc3f5;
+  --dept-airtel: #f5b8cf;
+  --dept-mngl: #f7c9a0;
+  --dept-metro: #cdb8f2;
+  --focus: #2b59ff;
+  --border: 2.5px;
+  --shadow-card: 5px 5px 0 var(--ink);
+  --shadow-btn: 3px 3px 0 var(--ink);
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-card: var(--card);
+  --color-ink: var(--ink);
+  --color-accent: var(--accent);
+  --color-map-land: var(--map-land);
+  --color-map-minor: var(--map-minor);
+  --color-field: var(--field);
+  --color-warn-tint: var(--warn-tint);
+  --color-status-coord: var(--status-coord);
+  --color-status-ok: var(--status-ok);
+  --color-status-block-text: var(--status-block-text);
+  --color-status-block-line: var(--status-block-line);
+  --color-status-block-tint: var(--status-block-tint);
+  --color-status-escalated: var(--status-escalated);
+  --color-dept-water: var(--dept-water);
+  --color-dept-sewer: var(--dept-sewer);
+  --color-dept-msedcl: var(--dept-msedcl);
+  --color-dept-jio: var(--dept-jio);
+  --color-dept-airtel: var(--dept-airtel);
+  --color-dept-mngl: var(--dept-mngl);
+  --color-dept-metro: var(--dept-metro);
+  --color-focus: var(--focus);
+  --font-sans: var(--font-space-grotesk), var(--font-devanagari), sans-serif;
+  --font-mono: var(--font-jetbrains-mono), monospace;
+  --shadow-card: var(--shadow-card);
+  --shadow-btn: var(--shadow-btn);
+  --radius-*: initial;
+}
+
+* {
+  border-radius: 0;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-space-grotesk), var(--font-devanagari), sans-serif;
+  font-size: 15px;
+}
+
+a {
+  color: var(--ink);
+}
+
+:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+}
+
+@layer components {
+  .card {
+    background: var(--card);
+    border: var(--border) solid var(--ink);
+    box-shadow: var(--shadow-card);
+    padding: 20px;
+  }
+  .section-header {
+    margin: 0 0 12px;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 44px;
+    border: var(--border) solid var(--ink);
+    box-shadow: var(--shadow-btn);
+    background: var(--card);
+    padding: 12px 18px;
+    font-weight: 600;
+    font-size: 14px;
+    color: var(--ink);
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .btn:active {
+    transform: translate(3px, 3px);
+    box-shadow: none;
+  }
+  .btn-primary {
+    background: var(--accent);
+  }
+  .chip {
+    display: inline-block;
+    border: 2px solid var(--ink);
+    background: var(--card);
+    padding: 3px 8px;
+    font-size: 13px;
+  }
+  .cite {
+    font-family: var(--font-jetbrains-mono), monospace;
+    font-size: 11px;
+    border: 1.5px solid var(--ink);
+    padding: 0 4px;
+    background: var(--paper);
+    white-space: nowrap;
+  }
+}

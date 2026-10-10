@@ -1,0 +1,47 @@
+{
+  "note": "Lookups made while building infra zones. Not raw data and not invented: each entry records where the value came from.",
+  "geocodes": [
+    {
+      "query": "Barangani Mala, Pune",
+      "lat": 18.4470451,
+      "lng": 73.804027,
+      "display_name": "Barangani Mala - DSK Vishwa, DSK Vishwa Road, Dhayari, Haveli Subdistrict, Pune",
+      "source": "OpenStreetMap Nominatim",
+      "retrieved": "2026-10-10"
+    },
+    {
+      "query": "Rajaram Bridge, Pune",
+      "lat": 18.4889279,
+      "lng": 73.8267169,
+      "display_name": "Rajaram Bridge, Prosperity Society, Karve Nagar, Anandnagar, Pune",
+      "source": "OpenStreetMap Nominatim",
+      "retrieved": "2026-10-10"
+    },
+    {
+      "query": "Sun City Road, Pune",
+      "lat": 18.4754767,
+      "lng": 73.815447,
+      "display_name": "Suncity Road Fire Station, Sun Paradise, Manik Baug, Anandnagar, Pune",
+      "source": "OpenStreetMap Nominatim",
+      "retrieved": "2026-10-10"
+    },
+    {
+      "query": "Karva Hospital, Pune",
+      "lat": 18.5009733,
+      "lng": 73.8461063,
+      "display_name": "Karva Hospital, Tanaji Malusare Path, Dattawadi, Pune",
+      "source": "OpenStreetMap Nominatim",
+      "retrieved": "2026-10-10"
+    }
+  ],
+  "metro_line_4_stations": {
+    "names_in_planning_documents": ["Hingane Chowk", "Rajaram Bridge", "Deshpande Udyan", "Dandekar Pul"],
+    "finding": "Station names along this stretch appear in pre-approval planning documents, but no source found publishes station positions, and the names may change. Station work zones were therefore not created.",
+    "sources": [
+      "https://themetrorailguy.com/pune-metro-phase-2-route-map-tenders-status-updates/",
+      "https://punemetrorail.org/Line_4a_b.aspx",
+      "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-pune-metro-rail-project-phase-2-kharadi-khadakwasla-line-4-nal-stop-warje-manik-baug-line-4a"
+    ],
+    "retrieved": "2026-10-10"
+  }
+}
