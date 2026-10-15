@@ -3,6 +3,7 @@ import { Suspense } from "react";
 import { TryDemo, TryDemoFallback } from "@/components/landing/TryDemo";
 import { SiteHeader } from "@/components/SiteHeader";
 import { brand } from "@/config/brand";
+import { event } from "@/config/event";
 
 // Paraphrased one-liners from the S8 evidence set. Each links to the original report; nothing is quoted.
 const EVIDENCE = [
@@ -47,6 +48,9 @@ export default function Home() {
       <SiteHeader returnTo="/cases" />
       <main className="mx-auto w-full max-w-[1280px] px-6 pb-14 pt-10">
         <section className="max-w-4xl">
+          <p className="mb-5 inline-flex flex-wrap items-center gap-x-2 gap-y-1 border-[2.5px] border-ink bg-accent px-3 py-1.5 text-[13px] font-semibold">
+            Built for the {event.name}, {event.zone}
+          </p>
           <h1 className="!text-[clamp(32px,5vw,52px)]">{brand.oneLiner}</h1>
           <p className="mt-5 max-w-3xl text-[17px] leading-relaxed">
             In Indian cities, the water, sewerage, electricity, gas, telecom and metro agencies each get permission to dig up a road on their own. None of them sees the others&rsquo; plans, so the same stretch is dug,
@@ -100,6 +104,35 @@ export default function Home() {
           </ol>
         </section>
 
+        <section className="mt-14" aria-labelledby="challenge">
+          <h2 id="challenge" className="section-header">
+            Our entry for the {event.name}
+          </h2>
+          <div className="grid gap-6 md:grid-cols-3">
+            <article className="card">
+              <h3 className="text-lg font-bold leading-snug">Where it fits</h3>
+              <dl className="mt-2 flex flex-col gap-1.5 text-[15px] [&_dt]:font-semibold">
+                <div><dt className="inline">Zone: </dt><dd className="inline">{event.zone}</dd></div>
+                <div><dt className="inline">Sector: </dt><dd className="inline">{event.sector}</dd></div>
+                <div><dt className="inline">Sub-theme: </dt><dd className="inline">{event.subTheme}</dd></div>
+                <div><dt className="inline">Category: </dt><dd className="inline">{event.category}</dd></div>
+              </dl>
+            </article>
+            <article className="card">
+              <h3 className="text-lg font-bold leading-snug">Who would run it</h3>
+              <p className="mt-2 text-[15px] leading-snug">
+                {event.owner}, which grants every road-cutting permission in Pune and restores the roads afterwards. The pilot we propose is one corridor for one digging season, then 5 to 10 roads, then the whole city.
+              </p>
+            </article>
+            <article className="card">
+              <h3 className="text-lg font-bold leading-snug">Team {event.team}</h3>
+              <p className="mt-2 text-[15px] leading-snug">
+                Built together by {event.members.join(" and ")}. This prototype, our six-slide pitch and a demo video make up our submission.
+              </p>
+            </article>
+          </div>
+        </section>
+
         <section className="card mt-14 max-w-4xl" aria-labelledby="honest">
           <h2 id="honest" className="section-header">
             What is real here and what is not
@@ -115,7 +148,9 @@ export default function Home() {
       </main>
       <footer className="border-t-[2.5px] border-ink bg-card px-6 py-5 text-[13px]">
         <div className="mx-auto flex max-w-[1280px] flex-wrap justify-between gap-3">
-          <p>{brand.name}, a portfolio project by Sarah Puthran.</p>
+          <p>
+            {brand.name}, built for the {event.name} ({event.zone}) by team {event.team}: {event.members.join(" and ")}.
+          </p>
           <p>
             Map data ©{" "}
             <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noreferrer">

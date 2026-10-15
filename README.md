@@ -6,7 +6,22 @@ CorridorIQ is a prototype for coordinating road-cutting permits. It treats a str
 
 The demo runs on a real road: Sinhagad Road in Pune, from Hingne to Dandekar Bridge (3.5 km).
 
-> This is a portfolio project. The permits are made up, and Pune Municipal Corporation does not use this app.
+> This is a prototype. The permits are made up, and Pune Municipal Corporation does not use this app.
+
+## Built for the Seva First Innovation Challenge 2026
+
+CorridorIQ is our entry for the Seva First Innovation Challenge 2026, Maharashtra Zone.
+
+| | |
+|---|---|
+| Team | CLAUDEISAWOMAN: Sarah Sunny Puthran and Nayanika Khote |
+| Category | Women Category |
+| Sector | Urban Development |
+| Sub-theme | Sustainable urban growth, land-use and municipal asset management |
+| Who would run it | Pune Municipal Corporation, Road Department |
+| Stage | Working prototype, not yet piloted in the field |
+
+The submission is this repository, a six-slide pitch and a demo video. The challenge details shown in the app live in `config/event.ts`.
 
 ![A coordination case: map, permits, rules fired, explanation and strategies](assets/readme/case-1280.png)
 
@@ -171,7 +186,7 @@ All spatial queries happen in `lib/db` before the engine runs. The browser never
 | `components/` | Map, charts, forms and shared interface parts |
 | `engine/` | The rules engine and its tests |
 | `lib/` | Database queries, workflow, AI layer, notices, sign-in |
-| `config/` | City pack, departments, colours, feature switches |
+| `config/` | City pack, departments, colours, feature switches, challenge details |
 | `data/` | Source data, processing notes and the processed files the seed reads |
 | `scripts/` | Data processing, seeding and checks |
 | `supabase/migrations/` | Database tables and functions |
@@ -234,9 +249,10 @@ The parts that change from one city to the next are kept apart:
 | Thresholds | The `rules` table, from the Admin screen |
 | AI provider | `lib/ai/providers/` |
 | Branding and colours | `config/brand.ts`, `config/theme.ts` |
+| The challenge named on the landing page | `config/event.ts` |
 | Which features show | `config/features.ts` |
 | Another platform | `POST /api/evaluate?dry_run=1` takes JSON and returns the engine's result |
 
 ## Credits
 
-Built by Sarah Puthran.
+Built by Sarah Sunny Puthran and Nayanika Khote.
