@@ -6,7 +6,7 @@ CorridorIQ is a prototype for coordinating road-cutting permits. It treats a str
 
 The demo runs on a real road: Sinhagad Road in Pune, from Hingne to Dandekar Bridge (3.5 km).
 
-> This is a prototype. The permits are made up, and Pune Municipal Corporation does not use this app.
+> This is a prototype. The permits are made up, and Pune municipal Corporation does not use this app.
 
 ## Built for the Seva First Innovation Challenge 2026
 
